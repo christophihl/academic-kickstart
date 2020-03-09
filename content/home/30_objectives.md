@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Ziele & Kompetenzen"
+title = "Kompetenzen & Ziele"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -21,25 +21,43 @@ subtitle = ""
   # padding = ["30px", "0", "30px", "0"]
 
 
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Fundierte Forschung"
+  description = "Unsere Problemlösungen basieren auf qualitativ hochwertiger Forschung."
+
 
 [[feature]]
-  icon = "search"
+  icon = "satellite-dish"
   icon_pack = "fas"
-  name = "Research"
-  description = "We strive to conduct relevant research in the area of innovation and entrepreneurship and publish the results in leading international journals. As data enthusiasts, we love to apply state-of-art econometric and computational methods to novel, large-scale data sets."
+  name = "Moderne ML-Verfahren"
+  description = "Wir nutzen Machine Learning Verfahren, die auf dem neuesten Kenntnistand beruhen."
   
+[[feature]]
+  icon = "space-shuttle"
+  icon_pack = "fas"
+  name = "Breites Praxiswissen"
+  description = "Durch vielfältige Fachdisziplinen haben wir ein breites Anwendungs- und Problemverständnis entlang der betrieblichen Wertschöpfungskette."  
+  
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Vernetzung und Austausch"
+  description = "Wir bieten durch verschiedene Veranstaltungformate einen flexiblen Austausch mit Firmen der Metropolregion Hamburg."
+
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Teaching"
-  description = "We are convinced that entrepreneurship can be learned and good training increases the odds of entrepreneurial success. To that end, our teaching is problem- and project-based so that students can gain first-hand, real-life experience that inspires and enables them to become the next generation of Startup Engineers."  
-  
+  name = "Training und Transfer"
+  description = "Die Weiterbildung und der Wissenstransfer im Bereich Machine Learning für produzierende Unternehmen ist eine unserer Kernaufgaben."
+
+
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Practice"
-  description = "We are open to collaborate with corporates, startups and associations to transfer our knowledge about data science and startup engineering into Practice. Possible modes of collaboration are master theses, applied research and data science projects, consulting, talks, workshops, trainings or events."
-
+  name = "F&E Kooperation"
+  description = "In gemeinsamen F&E-Projekten erarbeiten wir konkrete Problemlösungen für Ihre Entwicklung, Produktion, Logistik oder Geschäftsprozesse."
 
 
 +++

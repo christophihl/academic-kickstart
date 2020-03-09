@@ -6,7 +6,7 @@
   {{ if $st.Params.hero_media }}
   
   <div class="col-12 mx-auto hero-media">
-    <img src="{{ printf "img/%s" $st.Params.hero_media | relURL }}" alt="">
+    <img src="{{ printf "img/%s" $st.Params.hero_media | relURL }}" style="max-width:800px;width:100%">
   </div>
 
   {{ end }}
