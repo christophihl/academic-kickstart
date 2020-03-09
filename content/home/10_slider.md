@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 6000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -17,61 +17,61 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Team"
-  content = "Smart. Dedicated. Supportive."
+  content = "Unsere Kompetenzen und Ansprechpartner."
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "team.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "computer_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Meet our team."
+  cta_label = "Treffen Sie unser Team."
   cta_url = "https://sourcethemes.com/academic/"
   cta_icon_pack = "fas"
   cta_icon = "users"
 
 [[item]]
-  title = "Research"
-  content = "Relevant. Evidence-based. Data-driven."
+  title = "Forschung"
+  content = "Unsere Arbeit in Projekten und Publikationen."
   align = "left"
 
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "research.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "waves_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-  cta_label = "Explore our research."
+  cta_label = "Erkunden Sie unsere Forschung."
   cta_url = "https://sourcethemes.com/academic/"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
 [[item]]
-  title = "Teaching"
-  content = "Challenging. Team-oriented. Project-based."
+  title = "MLE-Days"
+  content = "Konferenz zu ML-Forschung und Engineering-Anwendung."
   align = "left"
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "teaching.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "platinen_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-  cta_label = "Choose our courses."
+  cta_label = "Save the date."
   cta_url = "https://sourcethemes.com/academic/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "users"
 
 [[item]]
-  title = "Practice"
-  content = "Inspiring. Customized. Solution-oriented."
+  title = "Praxistransfer"
+  content = "Unsere Angebote von Workshops bis zu F&E-Projekten."
   align = "left"
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "practice.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "robotic_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1 # Darken the image. Value in range 0-1.
 
-  cta_label = "Let's work with you."
+  cta_label = "Arbeiten Sie mit uns zusammen."
   cta_url = "https://sourcethemes.com/academic/"
   cta_icon_pack = "fas"
   cta_icon = "cogs"

@@ -16,12 +16,11 @@
 [[main]]
   name = "Forschung"
   url = "research/"
-  identifier = "research"
   weight = 30
 
 [[main]]
-  name = "Transfer"
-  url = "practice/"
+  name = "Vortragsreihe"
+  url = "events/"
   weight = 40
 
 [[main]]
@@ -29,9 +28,13 @@
   url = "conference/"
   weight = 50
 
+[[main]]
+  name = "Transfer"
+  url = "practice/"
+  weight = 60
 
 [[main]]
   name = "Kontakt"
   url = "#contact"
-  weight = 60
+  weight = 70
 
