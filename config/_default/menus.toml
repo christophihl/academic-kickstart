@@ -4,33 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "MLE"
+  url = "#"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Team"
+  url = "team/"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Forschung"
+  url = "research/"
+  identifier = "research"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Transfer"
+  url = "practice/"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "MLE-Days"
+  url = "conference/"
+  weight = 50
+
+
+[[main]]
+  name = "Kontakt"
   url = "#contact"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
