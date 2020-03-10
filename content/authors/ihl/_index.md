@@ -1,16 +1,18 @@
 ---
 # Display name
-name: Prof. Dr. Christoph Ihl
+name: Christoph Ihl
 
 # Username (this should match the folder name)
 authors:
 - ihl
 
+weight: 10
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor & Head of Institute
+role: Professor & Institutsleiter
 
 # Room
 room: Building Q Room 1.133
@@ -24,13 +26,14 @@ organizations:
   url: "https://www.startupengineer.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: machine / deep learning, natural language processing, causal inference, graphs
+bio: Machnine / deep learning w.r.t. natural language processing, causal inference & graphs
 
 
 interests:
-- Deep learning & natural language processing
-- Machine learning & causal inference
-- Machine learning & graphs
+- Deep learning
+- Natural language processing
+- ML & causal inference
+- ML & graphs
 
 
 education:
@@ -82,12 +85,12 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christoph_Ihl
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-0842-5201
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1886744/christoph-ihl/
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-0842-5201
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/1886744/christoph-ihl/
 # - icon: impactstory
 #   icon_pack: ai
 #   link: https://profiles.impactstory.org/u/0000-0002-0842-5201
@@ -99,9 +102,9 @@ social:
 #   link: https://stackoverflow.com/users/9882371/christoph-ihl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#  icon_pack: ai
+# link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -109,7 +112,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professor
+- Wissenschaftler
 ---
 
 As professor of management at Hamburg University of Technology (TUHH) I am heading the TUHH Institute of Entrepreneurship (TIE). My research about entrepreneurship and innovation lies at the intersection of organizational theory, sociology and strategy. In particular, I am interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products, practices or business models. 
