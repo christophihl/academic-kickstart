@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Treffen Sie unser Team."
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "/team/"
   cta_icon_pack = "fas"
   cta_icon = "users"
 
@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   cta_label = "Erkunden Sie unsere Forschung."
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "/research/"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
@@ -58,7 +58,7 @@ height = ""
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   cta_label = "Save the date."
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "/conference/"
   cta_icon_pack = "fas"
   cta_icon = "users"
 
@@ -72,7 +72,7 @@ height = ""
   overlay_filter = 0.1 # Darken the image. Value in range 0-1.
 
   cta_label = "Arbeiten Sie mit uns zusammen."
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "/practice/"
   cta_icon_pack = "fas"
   cta_icon = "cogs"
 
