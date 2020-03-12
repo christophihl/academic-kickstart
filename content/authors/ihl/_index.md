@@ -12,7 +12,7 @@ weight: 10
 superuser: true
 
 # Role/position
-role: Professor & Institutsleiter
+role: Professor
 
 # Room
 room: Building Q Room 1.133
@@ -85,9 +85,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christoph_Ihl
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-0842-5201
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0842-5201
 #- icon: publons
 #  icon_pack: ai
 #  link: https://publons.com/researcher/1886744/christoph-ihl/
@@ -115,9 +115,7 @@ user_groups:
 - Wissenschaftler
 ---
 
-As professor of management at Hamburg University of Technology (TUHH) I am heading the TUHH Institute of Entrepreneurship (TIE). My research about entrepreneurship and innovation lies at the intersection of organizational theory, sociology and strategy. In particular, I am interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products, practices or business models. 
+Seit 2014 bin ich Professur an der Technischen Universität Hamburg und leite dort das Institut für Unternehmertum. Meine Forschung im Bereich Innovation und Entrepreneurship ist in der empirischen Organisationsforschung und Soziologie angesiedelt. Mich interessiert, wie Akteure mit ihrer sozialen und kulturellen Umwelt interagieren und von ihr beeinflusst werden, um neuartige Ideen, Teams, Produkte oder Geschäftspraktiken zu schaffen. Dabei nutze ich Verfahren der Computational Social Science, insbesondere Machine Learning, Natural Language Processing und Netzwerkanalysen. Diese helfen mir, Akteure wie Startups, Wissenschaftler oder Kreative auf Basis ihrer sozialen Beziehungen oder ihrer Assoziationen mit Kategorien und Narrativen zu verorten und als "neu" oder "andersartig" zu klassifizieren.
 
-My research is situated in domains, where social and cultural spaces can be measured (more or less) comprehensively, such as digital startup innovation, academic science, creative industries as well as user crowds and communities. I deeply enjoy getting insights from novel data using econometric and computational methods from machine learning, natural language processing and network analysis.
-
-In my applied project work with companies I have been working on topics such as (social) media brand image analyses, market basket analyses, customer churn / value prediction, online AB testing on marketing effectiveness, (B2B) price sensitivity and willingness-to-pay.
+In meiner angewandten Arbeit im Bereich Data Science and Machine Learning arbeite ich gerne mit Unternehmen an Projekten zur überwachten Vorhersage von Produktionsfehlern, Zahlungsbereitschaft, Kundenwert oder Kundenabwanderung. Nicht überwachte Verfahren nutze ich bspw. für die Analyse von Warenkörben oder die mediale Markenwahrnehmung.
 
