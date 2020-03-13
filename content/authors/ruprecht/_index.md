@@ -26,7 +26,7 @@ organizations:
   url: "https://www.mat.tuhh.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Numerische Algorithmen, Hochleistungsrechnen, Computational Science and Engineering
 
 
 interests:
