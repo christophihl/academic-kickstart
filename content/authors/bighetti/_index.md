@@ -6,7 +6,7 @@ name: Nelson Bighetti
 authors:
 - bighetti
 
-weight: 1
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
