@@ -43,7 +43,7 @@ height = ""
   overlay_img = "waves_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-  cta_label = "Erkunden Sie unsere Forschung."
+  cta_label = "Unsere Forschung entdecken."
   cta_url = "/research/"
   cta_icon_pack = "fas"
   cta_icon = "search"
@@ -71,7 +71,7 @@ height = ""
   overlay_img = "robotic_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1 # Darken the image. Value in range 0-1.
 
-  cta_label = "Arbeiten Sie mit uns zusammen."
+  cta_label = "Arbeiten Sie mit uns."
   cta_url = "/practice/"
   cta_icon_pack = "fas"
   cta_icon = "cogs"

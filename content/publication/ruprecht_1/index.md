@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Parareal with a Learned Coarse Model for Robotic Manipulation"
-authors: [Wisdom Agboh, Oliver Grainger, Daniel Ruprecht, Mehmet Dogar]
+authors:
+- Wisdom Agboh
+- Oliver Grainger
+- ruprecht
+- Mehmet Dogar
 date: 2020-03-12T09:04:22+01:00
 doi: ""
 
