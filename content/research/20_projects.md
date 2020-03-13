@@ -27,39 +27,39 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Medizintechnik"
-    tag = "Anwendung"
+    tag = "Medizintechnik"
 
   [[content.filter_button]]
     name = "Elektotechnik"
-    tag = "Anwendung"
+    tag = "Elektotechnik"
 
   [[content.filter_button]]
-    name = "Online Marketing"
-    tag = "Anwendung"
+    name = "Eingebettete Systeme"
+    tag = "Eingebettete Systeme"
 
   [[content.filter_button]]
     name = "Bildklassifikation"
-    tag = "Aufgabe"
+    tag = "Bildklassifikation"
 
   [[content.filter_button]]
     name = "Objekterkennung"
-    tag = "Aufgabe"
+    tag = "Objekterkennung"
 
   [[content.filter_button]]
     name = "Sprachanalyse"
-    tag = "Aufgabe"
+    tag = "Sprachanalyse"
 
   [[content.filter_button]]
     name = "PyTorch"
-    tag = "Werkzeug"
+    tag = "PyTorch"
   
   [[content.filter_button]]
-    name = "tensorflow"
-    tag = "Werkzeug"
+    name = "TensorFlow"
+    tag = "TensorFlow"
 
   [[content.filter_button]]
-    name = "keras"
-    tag = "Werkzeug"
+    name = "Keras"
+    tag = "Keras"
 
 
 [design]
