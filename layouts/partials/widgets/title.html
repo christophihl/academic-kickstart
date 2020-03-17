@@ -1,6 +1,7 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
 
+
 <div class="row">
   {{ if ne $columns "1" }}
     <div class="col-12 col-lg-6 section-heading-title">

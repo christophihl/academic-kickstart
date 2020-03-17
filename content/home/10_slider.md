@@ -25,6 +25,7 @@ height = ""
   # overlay_color = "#666"  # An HTML color value.
   overlay_img = "computer_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_caption = "&copy; TUHH, Martin Kunze"
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -42,6 +43,7 @@ height = ""
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "waves_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_caption = "&copy; TUHH, Martin Kunze"
 
   cta_label = "Unsere Forschung entdecken."
   cta_url = "/research/"
@@ -56,6 +58,7 @@ height = ""
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "platinen_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_caption = "&copy; TUHH, Martin Kunze"
 
   cta_label = "Save the date."
   cta_url = "/conference/"
@@ -70,7 +73,8 @@ height = ""
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "robotic_blue.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1 # Darken the image. Value in range 0-1.
-
+  overlay_caption = "&copy; TUHH, Martin Kunze"
+  
   cta_label = "Arbeiten Sie mit uns."
   cta_url = "/practice/"
   cta_icon_pack = "fas"
