@@ -4,7 +4,7 @@ name: Volker Turau
 
 # Username (this should match the folder name)
 authors:
-- tuurau
+- turau
 
 weight: 200
 
