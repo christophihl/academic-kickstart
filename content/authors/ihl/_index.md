@@ -32,8 +32,8 @@ bio: Machnine / deep learning w.r.t. natural language processing, causal inferen
 interests:
 - Deep learning
 - Natural language processing
-- ML & causal inference
-- ML & graphs
+- Maschinelles Lernen & kausale Inferenz
+- Maschinelles Lernen & Graphen
 
 
 education:
