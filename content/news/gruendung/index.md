@@ -1,5 +1,5 @@
 ---
-title: 'Gründung der Initiative "Machine Learning for Engineering" an der TUHH'
+title: 'Gründung der Initiative "Machine Learning in Engineering" an der TUHH'
 subtitle: 'Bündelung der Kompetenzen und Austausch mit der Praxis'
 summary: Bündelung der Kompetenzen und Austausch mit der Praxis.
 authors:
