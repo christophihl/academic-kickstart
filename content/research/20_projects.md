@@ -38,6 +38,10 @@ subtitle = ""
     tag = "Eingebettete Systeme"
 
   [[content.filter_button]]
+    name = "Robotik"
+    tag = "Robotik"
+
+  [[content.filter_button]]
     name = "Bildklassifikation"
     tag = "Bildklassifikation"
 
@@ -46,8 +50,20 @@ subtitle = ""
     tag = "Objekterkennung"
 
   [[content.filter_button]]
+    name = "Anomalieerkennung"
+    tag = "Anomalieerkennung"
+
+  [[content.filter_button]]
+    name = "Sequenzvorhersage"
+    tag = "Sequenzvorhersage"
+
+  [[content.filter_button]]
     name = "Sprachanalyse"
     tag = "Sprachanalyse"
+
+  [[content.filter_button]]
+    name = "Neuronale Netze"
+    tag = "PyTorch"
 
   [[content.filter_button]]
     name = "PyTorch"

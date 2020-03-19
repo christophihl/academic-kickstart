@@ -7,7 +7,7 @@ authors:
 tags:
 - Eingebettete Systeme
 - Objekterkennung
-- Künstliche neuronale Netze
+- Neuronale Netze
 - TensorFlow
 date: "2020-03-13T00:00:00Z"
 

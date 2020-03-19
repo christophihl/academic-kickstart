@@ -20,15 +20,15 @@ publishDate: 2020-03-12T09:04:22+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:1912.05958 [cs.RO]"
-publication_short: "arXiv:1912.05958 [cs.RO]"
+publication: "[arXiv:1912.05958](https://arxiv.org/abs/1912.05958v1)"
+publication_short: "[arXiv:1912.05958](https://arxiv.org/abs/1912.05958v1)"
 
 abstract: "A key component of many robotics model-based planning and control algorithms is physics predictions, that is, forecasting a sequence of states given an initial state and a sequence of controls. This process is slow and a major computational bottleneck for robotics planning algorithms. Parallel-in-time integration methods can help to leverage parallel computing to accelerate physics predictions and thus planning. The Parareal algorithm iterates between a coarse serial integrator and a fine parallel integrator. A key challenge is to devise a coarse level model that is computationally cheap but accurate enough for Parareal to converge quickly. Here, we investigate the use of a deep neural network physics model as a coarse model for Parareal in the context of robotic manipulation. In simulated experiments using the physics engine Mujoco as fine propagator we show that the learned coarse model leads to faster Parareal convergence than a coarse physics-based model. We further show that the learned coarse model allows to apply Parareal to scenarios with multiple objects, where the physics-based coarse model is not applicable. Finally, We conduct experiments on a real robot and show that Parareal predictions are close to real-world physics predictions for robotic pushing of multiple objects."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Robotik, Sequenzerkennung, Neuronale Netze]
 categories: []
 featured: false
 
