@@ -63,7 +63,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Neuronale Netze"
-    tag = "PyTorch"
+    tag = "Neuronale Netze"
 
   [[content.filter_button]]
     name = "PyTorch"
