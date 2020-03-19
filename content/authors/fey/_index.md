@@ -30,11 +30,8 @@ bio: Entwurfsautomatisierung, digitale Schaltungen und Systeme, Fehlertoleranz, 
 
 
 interests:
-- Entwuf digitaler Schaltungen
-- Formale Verifikation und Analyse von Robustheit
-- Ansätze zur automatischen Fehlerdetektion, z.B. mittels maschinellem Lernen
-- Einflüsse von Fehlfunktionen auf Anwendungen, z.B. bei Einsatz von Lernalgorithmen
-- Werkzeuge zum Verstehen von Systementwürfen
+- Entwurf digitaler Schaltungen
+- Automatische Fehlerdetektion, z.B. mittels maschinellem Lernen und beim Einsatz von Lernalgorithmen
 
 
 education:
