@@ -37,7 +37,7 @@ hero_media = "logo_big_white.png"
   image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  image_caption = "[pxfuel](https://p1.pxfuel.com/preview/176/282/359/source-code-software-computer-programming-language-data-center.jpg), CC0"
+  image_caption = "[pxfuel](https://p1.pxfuel.com/preview/176/282/359/source-code-software-computer-programming-language-data-center.jpg), [cc0](https://creativecommons.org/share-your-work/public-domain/cc0/)"
 
   # Text color (true=light or false=dark).
   text_color_light = true
