@@ -21,61 +21,61 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+# [[content.filter_button]]
+#    name = "All"
+#    tag = "*"
   
-  [[content.filter_button]]
-    name = "Medizintechnik"
-    tag = "Medizintechnik"
+#  [[content.filter_button]]
+#    name = "Medizintechnik"
+#    tag = "Medizintechnik"
 
-  [[content.filter_button]]
-    name = "Elektotechnik"
-    tag = "Elektotechnik"
+#  [[content.filter_button]]
+#    name = "Elektrotechnik"
+#    tag = "Elektrotechnik"
 
-  [[content.filter_button]]
-    name = "Eingebettete Systeme"
-    tag = "Eingebettete Systeme"
+#  [[content.filter_button]]
+#   name = "Eingebettete Systeme"
+#    tag = "Eingebettete Systeme"
 
-  [[content.filter_button]]
-    name = "Robotik"
-    tag = "Robotik"
+#  [[content.filter_button]]
+#    name = "Robotik"
+#    tag = "Robotik"
 
-  [[content.filter_button]]
-    name = "Bildklassifikation"
-    tag = "Bildklassifikation"
+#  [[content.filter_button]]
+#    name = "Bildklassifikation"
+#    tag = "Bildklassifikation"
 
-  [[content.filter_button]]
-    name = "Objekterkennung"
-    tag = "Objekterkennung"
+#  [[content.filter_button]]
+#    name = "Objekterkennung"
+#    tag = "Objekterkennung"
 
-  [[content.filter_button]]
-    name = "Anomalieerkennung"
-    tag = "Anomalieerkennung"
+#  [[content.filter_button]]
+#    name = "Anomalieerkennung"
+#    tag = "Anomalieerkennung"
 
-  [[content.filter_button]]
-    name = "Sequenzvorhersage"
-    tag = "Sequenzvorhersage"
+#  [[content.filter_button]]
+#    name = "Sequenzvorhersage"
+#   tag = "Sequenzvorhersage"
 
-  [[content.filter_button]]
-    name = "Sprachanalyse"
-    tag = "Sprachanalyse"
+# [[content.filter_button]]
+#    name = "Sprachanalyse"
+#    tag = "Sprachanalyse"
 
-  [[content.filter_button]]
-    name = "Neuronale Netze"
-    tag = "Neuronale Netze"
+#  [[content.filter_button]]
+#    name = "Neuronale Netze"
+#    tag = "Neuronale Netze"
 
-  [[content.filter_button]]
-    name = "PyTorch"
-    tag = "PyTorch"
+#  [[content.filter_button]]
+#    name = "PyTorch"
+#    tag = "PyTorch"
   
-  [[content.filter_button]]
-    name = "TensorFlow"
-    tag = "TensorFlow"
+#  [[content.filter_button]]
+#    name = "TensorFlow"
+#   tag = "TensorFlow"
 
-  [[content.filter_button]]
-    name = "Keras"
-    tag = "Keras"
+#  [[content.filter_button]]
+#    name = "Keras"
+#    tag = "Keras"
 
 
 [design]
