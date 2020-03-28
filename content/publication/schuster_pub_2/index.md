@@ -1,14 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Comparison of Collaborative versus Extended Artificial Neural Networks for PDN Design"
+title: "Evaluation of Neural Networks to Predict Target Impedance Violations of Power Delivery Networks"
 authors:
 - schierholz
-- Cheng Yang
-- Kallol Roy
-- Madhavan Swaminathan
+- Katharina Scharff
 - schuster
-date: 2020-05-01T09:04:22+01:00
+date: 2019-10-21T09:04:22+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,18 +16,18 @@ publishDate: 2019-10-21T09:04:22+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[SPI 2020 - 24th IEEE Workshop on Signal and Power Integrity]"
-publication_short: "[SPI 2020 - 24th IEEE Workshop on Signal and Power Integrity]"
+publication: "[EPEPS 2019 - 28th Conference on Electrical Performance of Electronic Packaging and Sytems]"
+publication_short: "[EPEPS 2019 - 28th Conference on Electrical Performance of Electronic Packaging and Sytems]"
 
-abstract: "Currently machine learning tools are not capable to provide analysis solutions for complex printed circuit boards. It is unknown how to prepare the data and how to determine the optimal architecture of the machine learning process. We show that both collaborative and extended artiﬁcial neural networks (ANNs) are capable to compensate drops in accuracies for predicting target impedance violations in an extended design space. It is proven that the extended ANN has the advantage of requiring less samples during the training process compared with the collaborative approach. The necessity of either approach is highly depending on the design space and the inﬂuence of the variation on the power delivery network."
+abstract: "An artiﬁcial neural network approach is presented to predict whether a power delivery network setup violates the target impedance. Random decoupling capacitor distributions are evaluated. It is shown that a prediction accuracy close to 90% can be achieved by choosing the right preprocessing method for the input data. The applicability towards variations of port location, target impedance and port termination is shown."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Maschinelles Lernen, Power Delivery Netze, Power Integrity, Künstliche Neuronale Netze]
+tags: [Power Delivery Netze, Power Integrity, Künstliche Neuronale Netze, Entkoppelkondensatoren]
 categories: []
 featured: false
 
@@ -54,8 +52,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "PDN Impedance for multiple Distributions of Decoupling Capacitors"
-  focal_point: ""
+  caption: ""
+  focal_point: "Printed Circuit Board Layout Top View"
   preview_only: false
 
 # Associated Projects (optional).
@@ -63,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [schuster_1]
+projects: [schuster_pro_1]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -72,4 +70,3 @@ projects: [schuster_1]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Submitted to: SPI 2020 - 24th IEEE Workshop on Signal and Power Integrity
