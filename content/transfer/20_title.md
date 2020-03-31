@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = ""
+title = "Kooperationsangebote"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -25,7 +25,7 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#34495e"
+  color = ""
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -39,7 +39,7 @@ hero_media = ""
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,8 +49,20 @@ hero_media = ""
 
 +++
 
-### Under construction.  Coming soon.
+MLE@TUHH ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der TUHH mit dem ausdrücklichen Ziel des Wissenstransfers in Richtung Wirtschaft und Industrie.
 
+Viele Studien und Erhebungen belegen, dass insbesondere im Bereich des maschinellen Lernens großer Nachholbedarf besteht. Dies ist der zentrale Ansatzpunkt der Intiative.
+
+Wir bieten je nach Bedarf kurzfristige Punktlösungen oder längerfristige Kooperationen an:
+
+- Beratung bei den ersten Schritten in Richtung ML-basiertes Engineering
+- Schulungen zu mathematischen und informationstechischen Grundlagen
+- Erarbeitung von ML-basierten Lösungen für Probleme aus der Praxis
+- Begleitung von firmeninternen Umstellungsprozessen
+- Weiterbildung von Entscheidungsträgern im Management
+- gemeinsamen F&E-Projekte
+
+Bitte sprechen Sie uns mittels des Kontaktformulars an. Wir sind für Sie da!
 
 
 
