@@ -76,11 +76,7 @@ user_groups:
 
 ---
 
-<<<<<<< HEAD
 Seit 2012 bin ich Professorin an der Technischen Universität Hamburg und leite dort den Lehrstuhl für Numerische Mathematik. Zu meinen aktuellen Forschungsgebieten gehören rangstrukturierte (hierarchische) Matrizen, Löser für große Gleichungssysteme und kernbasierte Approximationsverfahren. Neben den Grundlagenvorlesungen der Mathematik (Lineare Algebra und Analysis) halte ich einführende und weiterführende Vorlesungen in der Numerik. 
-=======
-Seit 2012 bin ich Professorin an der Technischen Universität Hamburg und leite dort den Lehrstuhl für Numerische Mathematik. Zu meinen aktuellen Forschungsgebieten gehören rangstrukturierte (hierarchische) Matrizen, Löser für große Gleichungssysteme und kernbasierte Approximationsverfahren. Neben den Grundlagenvorlesungen der Mathematik (Lineare Algebra und Analysis) halte ich einführenden und weiterführende Vorlesungen in der Numerik. 
->>>>>>> 3738e6dd414d0602c40ea261b0efe3efea5cc78e
 
 Ich bin eine von drei Sprecherinnen der Graduiertenschule "DASHH - Data Science in Hamburg - Helmholtz Graduate School for the Structure of Matter"
 (www.dashh.org, 2019-2025), TUHH Koordinatorin des "Center for Data and Computing in Natural Science" (CDCS, www.cdcs.uni-hamburg.de, 2020-2023) und
