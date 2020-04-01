@@ -4,11 +4,11 @@
 title: "Force Estimation from OCT Volumes using 3D CNNs"
 authors:
 - schlaefer
-date: 2018-26-04T09:04:22+01:00
+date: 2018-04-26T09:04:22+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-26-04T09:04:22+01:00
+publishDate: 2018-04-26T09:04:22+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
