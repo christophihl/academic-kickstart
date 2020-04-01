@@ -31,10 +31,10 @@ bio:
 
 interests:
 - Robotik, Navigation und KI in der Medizin
-- Machinelle Lernverfahren zur medizinischen Bildanalyse
-- Schnelle 4D Bildgebung und spatio-temporale Lernverfahren
-- Bewegungskompensation und medizinische Zeitreihenprädiktion
-- Behandlungsplanungs- und Entscheidungs- unterstützungssysteme
+- Maschinelle Lernverfahren in der Medizin
+- 4D Bildgebung und spatio-temporale Lernverfahren
+- Bewegungskompensation und Zeitreihenprädiktion
+- Behandlungsplanungssysteme
 - Multi-Kriterien Optimierung
 
 
@@ -65,10 +65,10 @@ social:
   link: "mailto:schlaefer@tuhh.de"
 #- icon: linkedin
 #  icon_pack: fab
-#  link: https://de.linkedin.com/in/christian-schuster-83abb23a/
+#  link: https://de.linkedin.com/
 #- icon: orcid
 #  icon_pack: ai
-#  link: https://orcid.org/0000-0003-4019-0788
+#  link: https://orcid.org/
 
 
 
@@ -81,4 +81,4 @@ user_groups:
 - Wissenschaftler
 ---
 
-Seit 2013 forsche ich am Institut für Medizintechnische Systeme an der Technischen Universität Hamburg (TUHH). Wir beschäftigen uns mit Methoden aus KI, Robotik und maschinellem Lernen um grundlegende Aspekte intelligenter medizintechnischer Systeme zu ermöglichen. Dazu gehören die Detektion und Kompensation von Bewegungen und Deformationen von Organen und Strukturen beispielsweise aufgrund von Atmung, Pulsation oder der Interaktion von Instrumenten mit dem Gewebe. Weiterhin untersuchen wir, wie sich Gewebe und besonders Tumorgewebe erkennen und unterscheiden lassen. Um die Therapie bestmöglich zu planen nutzen wir heuristische und multi-kriterielle Optimierungsverfahren, die Wirkung und Nebenwirkungen verschiedener Behandlungsstrategien berücksichtigen und abwägen. Ein Fokus unserer Arbeiten ist die experimentelle Evaluierung der Methoden, für die wir verschiedene Roboter und besonders schnelle bildgebende Systeme, vor allem Ultraschall und optische Kohärenztomographie, integrieren. Weiter Informationen zu unseren Forschungsarbeiten und Publikationen finden Sie auf unseren Institutswebseiten link: https://www.tuhh.de/mtec
+Seit 2013 forsche ich am Institut für Medizintechnische Systeme der Technischen Universität Hamburg (TUHH). Wir beschäftigen uns mit Methoden aus KI, Robotik und maschinellem Lernen um grundlegende Aspekte intelligenter medizintechnischer Systeme zu ermöglichen. Dazu gehören die Detektion und Kompensation von Bewegungen und Deformationen von Organen und Strukturen beispielsweise aufgrund von Atmung, Pulsation oder der Interaktion von Instrumenten mit dem Gewebe. Weiterhin untersuchen wir, wie sich Gewebe und besonders Tumorgewebe erkennen und unterscheiden lassen. Um die Therapie bestmöglich zu planen, nutzen wir heuristische und multi-kriterielle Optimierungsverfahren, die Wirkung und Nebenwirkungen verschiedener Behandlungsstrategien berücksichtigen und abwägen. Ein Fokus unserer Arbeiten ist die experimentelle Evaluierung der Methoden, für die wir verschiedene Roboter und besonders schnelle bildgebende Systeme, vor allem Ultraschall und optische Kohärenztomographie, integrieren. Weitere Informationen zu unseren Forschungsarbeiten und Publikationen finden Sie auf unseren Institutswebseiten https://www.tuhh.de/mtec
