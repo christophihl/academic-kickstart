@@ -60,7 +60,7 @@ Wir bieten je nach Bedarf kurzfristige Punktlösungen oder längerfristige Koope
 - Erarbeitung von ML-basierten Lösungen für Probleme aus der Praxis
 - Begleitung von firmeninternen Umstellungsprozessen
 - Weiterbildung von Entscheidungsträgern im Management
-- gemeinsamen F&E-Projekte
+- gemeinsame F&E-Projekte
 
 Bitte sprechen Sie uns mittels des Kontaktformulars an. Wir sind für Sie da!
 
