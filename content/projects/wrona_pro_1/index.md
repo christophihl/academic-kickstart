@@ -15,7 +15,7 @@ date: "2020-01-24T00:00:00Z"
 external_link: ""
 
 image:
-  caption:
+  caption: "&copy; [The Economist, David Parkins](https://www.economist.com/leaders/2018/01/18/how-to-tame-the-tech-titans)"
   focal_point:
 
 links: ""
