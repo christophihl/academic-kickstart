@@ -34,9 +34,15 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution:
-    year: 
+  - course: Doctoral researcher
+    institution: Institute for Ship Structural Design and Analysis (TUHH)
+    year: 2016 - today
+  - course: M.Sc. Theoretical Mechanical Engineering
+    institution: Hamburg University of Technology (TUHH), Universitat Politècnica de València (UPV)
+    year: 2013 - 2016
+  - course: B.Sc. Mechanical Engineering
+    institution: Hamburg University of Technology (TUHH)
+    year: 2009 - 2013
 
 
 # Social/Academic Networking
