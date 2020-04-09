@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = ""
+title = "Veranstaltungen"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -25,7 +25,7 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#34495e"
+  color = ""
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -39,7 +39,7 @@ hero_media = ""
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,9 +49,14 @@ hero_media = ""
 
 +++
 
-### Under construction. Coming soon.
+MLE@TUHH ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der TUHH, die kontinuierlich interne wie externe Veranstaltungen zum Thema durchführt:
 
+- Interne Arbeitstreffen der zentralen Koordinationsgruppe und Team Leads. Besprechung von Aktivitäten, Werbemaßnahmen, Organisation und Strategie der Initiative. Ansprechpartner: {{% mention "schuster" %}} 
 
+- Wissenschaftliches Kolloquium für Studierende und Promovierende im Laufe des Sommersemesters 2020 (per Videokonferenz, immer montags ab dem 20. April). Austausch zu aktuellen ML-Themen und -Tools an der TUHH. Ansprechpartner: {{% mention "zemke" %}} 
 
+- Kick-Off Event zum Beginn des Winstersemester 2020 zur Information und  Vernetzung innerhalb der TUHH. Breite Vorstellung von Aktivitäten und Zielen der Initiative unter Einbezug von Studierenden, Lehrenden und Forschenden. Ansprechpartner: {{% mention "turau" %}}, {{% mention "schuster" %}} 
 
+- Öffentliche Ringvorlesung für die interessierte Öffentlichkeit im Laufe des Wintersemesters 2020/21 mit Persönlichkeiten aus Wissenschaft und Industrie. Organisator: [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html)
 
+- MLE-Days @ TUHH: Zweitägiges Event zur Darstellung der Kompetenzen, Forschungsfelder und Zukunftskonzepte an der TUHH zu Anfang nächsten Jahres. Angebot insbesondere für Interessierte aus Wirtschaft, Industrie und öffentlichem Dienst. Ansprechpartner: {{% mention "Turau" %}} 
