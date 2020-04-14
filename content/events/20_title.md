@@ -53,7 +53,7 @@ MLE@TUHH ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine L
 
 - Interne Arbeitstreffen der zentralen Koordinationsgruppe und Team Leads. Besprechung von Aktivitäten, Werbemaßnahmen, Organisation und Strategie der Initiative. Ansprechpartner: {{% mention "schuster" %}} 
 
-- Wissenschaftliches Kolloquium für Studierende und Promovierende im Laufe des Sommersemesters 2020 (per Videokonferenz, immer montags ab dem 20. April). Austausch zu aktuellen ML-Themen und -Tools an der TUHH. Ansprechpartner: [Gregor Vonbun-Feldbauer](https://kontakt.tuhh.de/suchergebnis.php?id=bck4l)
+- Wissenschaftliches Kolloquium für Studierende und Promovierende im Laufe des Sommersemesters 2020 (per Videokonferenz, immer montags ab dem 20. April). Austausch zu aktuellen ML-Themen und -Tools an der TUHH. Ansprechpartner: [Gregor Vonbun-Feldbauer](https://kontakt.tuhh.de/suchergebnis.php?id=bck4l), {{% mention "Zemke" %}} 
 
 - Kick-Off Event zum Beginn des Winstersemester 2020 zur Information und  Vernetzung innerhalb der TUHH. Breite Vorstellung von Aktivitäten und Zielen der Initiative unter Einbezug von Studierenden, Lehrenden und Forschenden. Ansprechpartner: {{% mention "turau" %}}, {{% mention "schuster" %}} 
 
