@@ -73,7 +73,7 @@
 # About widget
 
 - id: interests
-  translation: Forschungsinteressen
+  translation: Forschungsthemen
 
 - id: education
   translation: Vita 
