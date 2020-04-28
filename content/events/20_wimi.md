@@ -67,7 +67,7 @@ hero_media = ""
 | 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning |
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
 | 4 | 11.05.20 | Daniel Schoepflin | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik |
-| 5 | 18.05.20 | Tobias Knopp, {{% mention "fey" %}}, Robert Meissner | Prof date: tbd |
+| 5 | 18.05.20 | {{% mention "knopp" %}}, {{% mention "fey" %}}, Robert Meissner | Prof date: tbd |
 | 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML |
 | - | 01.06.20 | - | Pfingsten Holiday |
 | 7 | 08.06.20 | {{% mention "kellner" %}}, Merten Stender | Explainable AI and its application to ice mechanics |
@@ -90,6 +90,9 @@ as the Raspberry Pi platform.
 
 2. {{< hl >}}{{% mention "dostal" %}}: Advances in the development of car simulation models for vibration load prediction using Machine Learning.{{< /hl >}} <br/>
 Nowadays electric cars are a focus area in automotive research. In this context we consider data based approache as tools to improve and facilitate the car design process. Hereby, we address the challenge of vibration load prediction for electric cars using neural network based machine learning (ML), a data-based frequency response function approach, and a hybrid combined model. We extensively study the challenging case of vibration load prediction of car components, such as the traction battery of an electric car. We show using experimental data from a 1:5 scale model car as well as data from a Fiat 500e car that the proposed ML approach is able to outperform the classical model estimation by means of ARX and ARMAX models. Moreover, we evaluate the performance of a hybrid-ML concept for combination of ML and ARMAX. Our promising results motivate further research in the field of vibration load prediction using machine learning based approaches in order to facilitate design processes.
+
+4. {{< hl >}}Daniel Schoepflin: Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik.{{< /hl >}} <br/>
+Der massive Bedarf an Daten zum Training von neuronalen Netzwerken stellt den industriellen Transfer erforschter Ansätze vor hohe Herausforderungen. Frei verfügbare Datensätze sind oftmals nicht in der Lage, die spezifischen und individuellen Anforderungen von Unternehmen abzudecken. Die synthetische Erzeugung von Trainingsdaten zeigt sich hierbei als erfolgsversprechende Alternative. In diesem Vortrag wird die Generierung von Trainingsbildern für eine KI-Objektidentifikation im intralogistischen Umfeld beleuchtet und aufgezeigt, welche Hürden für eine erfolgreiche Implementierung genommen werden müssen
 
 </details>
 
