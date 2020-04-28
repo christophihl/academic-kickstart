@@ -70,7 +70,7 @@ hero_media = ""
 | 5 | 18.05.20 | {{% mention "knopp" %}}, {{% mention "fey" %}}, Robert Meissner | Prof date: tbd |
 | 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML |
 | - | 01.06.20 | - | Pfingsten Holiday |
-| 7 | 08.06.20 | {{% mention "kellner" %}}, Merten Stender | Explainable AI and its application to ice mechanics |
+| 7 | 08.06.20 | {{% mention "kellner" %}}, {{% mention "stender" %}} | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
 | 9 | 22.06.20 | {{% mention "schlaefer" %}}, Christian Cyron, Carlos Jahn | Prof date: tbd |
 | 10 | 29.06.20 | Julius Harms | tbd |
