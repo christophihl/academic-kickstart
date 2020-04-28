@@ -95,7 +95,21 @@ Nowadays electric cars are a focus area in automotive research. In this context 
 tbd
 
 4. {{< hl >}}Daniel Schoepflin: Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik.{{< /hl >}} <br/>
-Der massive Bedarf an Daten zum Training von neuronalen Netzwerken stellt den industriellen Transfer erforschter Ansätze vor hohe Herausforderungen. Frei verfügbare Datensätze sind oftmals nicht in der Lage, die spezifischen und individuellen Anforderungen von Unternehmen abzudecken. Die synthetische Erzeugung von Trainingsdaten zeigt sich hierbei als erfolgsversprechende Alternative. In diesem Vortrag wird die Generierung von Trainingsbildern für eine KI-Objektidentifikation im intralogistischen Umfeld beleuchtet und aufgezeigt, welche Hürden für eine erfolgreiche Implementierung genommen werden müssen
+Der massive Bedarf an Daten zum Training von neuronalen Netzwerken stellt den industriellen Transfer erforschter Ansätze vor hohe Herausforderungen. Frei verfügbare Datensätze sind oftmals nicht in der Lage, die spezifischen und individuellen Anforderungen von Unternehmen abzudecken. Die synthetische Erzeugung von Trainingsdaten zeigt sich hierbei als erfolgsversprechende Alternative. In diesem Vortrag wird die Generierung von Trainingsbildern für eine KI-Objektidentifikation im intralogistischen Umfeld beleuchtet und aufgezeigt, welche Hürden für eine erfolgreiche Implementierung genommen werden müssen.
+
+5. {{< hl >}}{{% mention "knopp" %}}, {{% mention "fey" %}}, Robert Meissner: tbd.{{< /hl >}} <br/>
+tbd
+
+6. {{< hl >}}Kai Sellschopp, {{% mention "wuerger" %}}: Exploration of structure - property relationships with unsupervised ML.{{< /hl >}} <br/>
+tbd
+
+7. {{< hl >}}{{% mention "kellner" %}}, {{% mention "stender" %}}: Explainable AI and its application to ice mechanics.{{< /hl >}} <br/>
+tbd
+
+8. {{< hl >}}{{% mention "bahnsen" %}}: Emulation von neuronalen Netzen unter Hardwarefehlern. {{< /hl >}} <br/>
+Neueste Errungenschaften in verschiedenen Bereichen werden durch den Einsatz künstlicher neuronaler Netze (NN) erzielt, z.B. im Bereich der Spracherkennung oder der Bildverarbeitung. Ein NN löst Probleme durch statistisches Lernen mit ressourcenlastigen Berechnungen. Um NN für mobile Geräte, eingebettete oder IoT-Systeme zu implementieren, wird Hardwarebeschleunigung immer wichtiger, um Energie-, Kosten- oder Rechenzeitanforderungen zu erfüllen. In einem Hardwarebeschleuniger werden die arithmetischen Operationen des NN sequentiell auf wenigen Recheneinheiten berechnet, so dass ein Fehler in der Verarbeitungshardware einen erheblichen Einfluss auf die Ausgabe des NNs haben kann. Die Zuverlässigkeit eines NNs und damit auch der zugehörigen Anwendung hängt dann nicht mehr ausschließlich von statistischen Fehlern im NN-Modell ab - die Zuverlässigkeit wird vielmehr durch das Zusammenspiel von NN-Modell und Hardware bestimmt. In dem Vortrag wird eine Technik zur Emulation von NN-Inferenz auf Hardware-Ressourcenbeschreibungen erläutert. Anschließend werden die Injektion von Hardwarefehlern und deren Auswirkung an verschieden Beispielen erörtert.
+
+
 
 </details>
 
