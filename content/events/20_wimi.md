@@ -73,10 +73,10 @@ hero_media = ""
 | 7 | 08.06.20 | {{% mention "kellner" %}}, Merten Stender | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
 | 9 | 22.06.20 | {{% mention "schlaefer" %}}, Christian Cyron, Carlos Jahn | Prof date: tbd |
-| 10 | 29.06.20 | Julias Harms | tbd |
+| 10 | 29.06.20 | Julius Harms | tbd |
 | 11 | 06.07.20 | {{% mention "lindner_s" %}} | Predictive medium access techniques for wireless networks |
 | 12 | 13.07.20 | Maximilian Stark | End-to-end learning in Wireless Communications |
-| 13 | 20.07.20 | Ruediger Schmitz | tbd |
+| 13 | 20.07.20 | Rüdiger Schmitz | tbd |
 | 14 | 27.07.20 | {{% mention "jahn" %}} | ML-supported Problem Descriptions in Digital Assistance Systems |
 
 
