@@ -3,7 +3,7 @@
 
 title: "Data Science Based Mg Corrosion Engineering"
 authors:
-- Tim Würger
+- wuerger
 - Christian Feiler
 - Félix Musil
 - vonbun_feldbauer

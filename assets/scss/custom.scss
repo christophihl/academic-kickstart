@@ -2,6 +2,33 @@
 
 
 /*************************************************
+ *   general scss
+ **************************************************/
+
+summary {
+    outline: none;
+    font-weight: bold;
+}
+
+summary::-webkit-details-marker {
+    color: #2DC6D6;
+}
+
+summary:hover{
+    color: #2DC6D6;
+}
+
+details.description:not([open]) summary::after {
+  content: attr(data-close);
+}
+
+details.description[open] summary::after {
+  content: attr(data-open);
+}
+
+
+
+/*************************************************
  *   widget scss
  **************************************************/
 
