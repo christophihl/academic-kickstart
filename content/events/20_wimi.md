@@ -67,12 +67,12 @@ hero_media = ""
 | 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning |
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
 | 4 | 11.05.20 | Daniel Schoepflin | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik |
-| 5 | 18.05.20 | Prof. tbd | tbd |
+| 5 | 18.05.20 | Tobias Knopp, {{% mention "fey" %}}, Robert Meissner | Prof date: tbd |
 | 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML |
 | - | 01.06.20 | - | Pfingsten Holiday |
 | 7 | 08.06.20 | {{% mention "kellner" %}}, Merten Stender | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
-| 9 | 22.06.20 | Prof. tbd | tbd |
+| 9 | 22.06.20 | {{% mention "schlaefer" %}}, Christian Cyron, Carlos Jahn | Prof date: tbd |
 | 10 | 29.06.20 | Julias Harms | tbd |
 | 11 | 06.07.20 | {{% mention "lindner_s" %}} | Predictive medium access techniques for wireless networks |
 | 12 | 13.07.20 | Maximilian Stark | End-to-end learning in Wireless Communications |
