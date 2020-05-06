@@ -54,6 +54,7 @@ hero_media = ""
 
 ### Ansprechpartner: 
 - Organisatoren sind Axel Friedewald, Mijail Guillemard, Haibo Ruan, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
+- Ansprechpartner für Professorinnen und Professoren, die betragen wollen, sind {{% mention "leborne" %}} und [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html).
 
 ### Ort und Zeit:
 - Die Vorträge finden aktuell im Sommersemester Montags vorerst online ab 17:30 und je nach Ankündigung in deutscher oder englischer Sprache statt.
@@ -67,12 +68,12 @@ hero_media = ""
 | 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning |
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
 | 4 | 11.05.20 | Daniel Schoepflin | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik |
-| 5 | 18.05.20 | {{% mention "knopp" %}}, {{% mention "fey" %}}, Robert Meissner | Prof date: tbd |
+| 5 | 18.05.20 <br/> (Prof Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> Robert Meissner | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
 | 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML |
 | - | 01.06.20 | - | Pfingsten Holiday |
 | 7 | 08.06.20 | {{% mention "kellner" %}}, {{% mention "stender" %}} | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
-| 9 | 22.06.20 | {{% mention "schlaefer" %}}, Christian Cyron, Carlos Jahn | Prof date: tbd |
+| 9 | 22.06.20 <br/> (Prof Date) | {{% mention "schlaefer" %}} <br/> Christian Cyron <br/> Carlos Jahn | Machine Learning for Spatio-Temporal Signal Processing <br/> Maschinelles Lernen in der Materialmodellierung <br/> ML in der maritimen Logistik - Anwendungen aus Schifffahrt und Hafen |
 | 10 | 29.06.20 | Julius Harms | tbd |
 | 11 | 06.07.20 | {{% mention "lindner_s" %}} | Predictive medium access techniques for wireless networks |
 | 12 | 13.07.20 | Maximilian Stark | End-to-end learning in Wireless Communications |
