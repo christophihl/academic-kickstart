@@ -4,12 +4,12 @@
 title: "Data Science Based Mg Corrosion Engineering"
 authors:
 - wuerger
-- Christian Feiler
+- feiler
 - Félix Musil
 - vonbun_feldbauer
 - Daniel Höche
 - Sviatlana V. Lamaka
-- Mikhail L. Zheludkevich
+- zheludkevich
 - Robert H. Meißner
 date: 2019-04-05
 doi: "10.3389/fmats.2019.00053"
