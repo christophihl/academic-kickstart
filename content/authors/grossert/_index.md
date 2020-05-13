@@ -6,7 +6,7 @@ name: Helge Grossert
 authors:
 - grossert
 
-weight: 50
+weight: 71
 
 # Is this the primary user of the site?
 superuser: false
