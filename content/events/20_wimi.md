@@ -64,10 +64,10 @@ hero_media = ""
 
 | # | Datum | Vortragende/r | Thema |
 | --- | ---  | --- | --- |
-| 1 | 20.04.20 |{{% mention "dostal" %}} | Towards Reinforcement Learning-based Control of an Energy Harvesting Pendulum |
-| 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning |
+| 1 | 20.04.20 |{{% mention "dostal" %}} | Towards Reinforcement Learning-based Control of an Energy Harvesting Pendulum [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/a360b2dfc7854250837a1b8bfdf22adc1d)|
+| 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/df17d927c5a8405a8bc53349d70577f11d)|
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
-| 4 | 11.05.20 | Daniel Schoepflin | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik |
+| 4 | 11.05.20 | {{% mention "schoepflin" %}} | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/b94a47b0850c448fbab1097928bbaf1c1d)|
 | 5 | 18.05.20 <br/> (Prof Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> Robert Meissner | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
 | 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML |
 | - | 01.06.20 | - | Pfingsten Holiday |
@@ -95,7 +95,7 @@ Nowadays electric cars are a focus area in automotive research. In this context 
 3. {{< hl >}}{{% mention "grossert" %}}: A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements.{{< /hl >}} <br/>
 tbd
 
-4. {{< hl >}}Daniel Schoepflin: Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik.{{< /hl >}} <br/>
+4. {{< hl >}}{{% mention "schoepflin" %}}: Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik.{{< /hl >}} <br/>
 Der massive Bedarf an Daten zum Training von neuronalen Netzwerken stellt den industriellen Transfer erforschter Ansätze vor hohe Herausforderungen. Frei verfügbare Datensätze sind oftmals nicht in der Lage, die spezifischen und individuellen Anforderungen von Unternehmen abzudecken. Die synthetische Erzeugung von Trainingsdaten zeigt sich hierbei als erfolgsversprechende Alternative. In diesem Vortrag wird die Generierung von Trainingsbildern für eine KI-Objektidentifikation im intralogistischen Umfeld beleuchtet und aufgezeigt, welche Hürden für eine erfolgreiche Implementierung genommen werden müssen.
 
 5. {{< hl >}}{{% mention "knopp" %}}, {{% mention "fey" %}}, Robert Meissner: tbd.{{< /hl >}} <br/>
