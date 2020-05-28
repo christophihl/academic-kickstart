@@ -38,10 +38,10 @@ interests:
 
 education:
   courses:
-  - course: Oberingenieur
+  - course: Wissenschaftlicher Mitarbeiter
     institution: TUHH, Institut für Mathematik
     year: 2001 - jetzt
-  - course: Dr. rer. nat.
+  - course: Promotionsstelle
     institution: TUHH, Institut für Informatik III
     year: 1997 - 2001
   - course: Diplom (Mathematik)
@@ -85,4 +85,4 @@ user_groups:
 - Wissenschaftler
 ---
 
-Seit 1997 an der TUHH, seit 2001 Oberingenieur am Institut für Mathematik.
+Seit 1997 an der TUHH, 2003 Promotion über Krylov-Unterraum-Verfahren in endlicher Genauigkeit bei Prof. Siegfried M. Rump. Seit 2001 am Institut für Mathematik, seit 2003 als Oberingenieur.
