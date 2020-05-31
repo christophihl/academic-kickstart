@@ -54,7 +54,7 @@ hero_media = ""
 
 ### Ansprechpartner: 
 - Organisatoren sind Axel Friedewald, Mijail Guillemard, Haibo Ruan, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
-- Ansprechpartner für Professorinnen und Professoren, die betragen wollen, sind {{% mention "leborne" %}} und [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html).
+- Ansprechpartner für Professorinnen und Professoren, die beitragen wollen, sind {{% mention "leborne" %}} und [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html).
 
 ### Ort und Zeit:
 - Die Vorträge finden aktuell im Sommersemester Montags vorerst online ab 17:30 und je nach Ankündigung in deutscher oder englischer Sprache statt.

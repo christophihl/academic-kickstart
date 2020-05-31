@@ -69,7 +69,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2017 arbeite ich am Institut für Logistik und Unternehmensführung an einem Projekt zur Digitalisierung von KMU. Meine Forschung beschäftigt sich mit Einführungsstrategien von Advanced Data Analytics im Supply Chain Management. Hierbei fokussiere ich mich unter anderem auf Erfolgsfaktoren, Driver zur Einführung sowie Schnittstellen zu organisationalen, prozessualen und menschlichen Faktoren. Dieses Interessensfeld von human-machine interactions in komplexen Systemen verfolge ich bereits seit dem Beginn meiner akademischen Karriere, die ich mit dem Blick auf sicherheitsgewährleistende Systeme in der Luftfahrt begonnen habe.

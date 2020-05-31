@@ -79,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2015 bin ich Professor an der Technischen Universität Hamburg (TUHH) und leite dort das Institut für Elektrische Energietechnik. Zuvor war ich mehrere Jahre in verschiedenen Positionen im Forschungs- und Entwicklungsbereich "Systems Engineering" bei AIRBUS beschäftigt, wo ich mich mit Entwicklung und Erforschung energietechnischer Bordsysteme sowie der modellbasierten Systementwicklung beschäftigt habe. Zu meinen aktuellen Forschungsgebieten gehören flexible elektrische Energienetze aller Spannungsebenen sowohl für terrestrische Systeme als auch Bordsysteme. Insbesondere befassen wir uns mit Fragestellungen der Modellierung, Dynamik, Stabilität und Regelung in elektrischen Energienetzen mit hoher Durchdringung leistungselektronischer Komponenten sowie Schnittstellen zu Netzen anderer Energieträger wie Gas und Wärme. Besonderes Augenmerk richten wir hierbei auch auf verschiedene Methoden des Maschinellen Lernens zur intelligenten Betriebsführung von Elektroenergiesystemen.

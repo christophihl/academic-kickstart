@@ -80,7 +80,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 
 ---
 Seit April 2016 bin ich Juniorprofessor an der TUHH und Leiter der Arbeitsgruppe smartPORT.

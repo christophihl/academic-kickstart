@@ -50,6 +50,6 @@ hero_media = "logo_big_white.png"
 
 +++
 
-### Eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der [**Technischen Universität Hamburg**](https://www.tuhh.de/tuhh/startseite.html).
+### MLE ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der [**Technischen Universität Hamburg**](https://www.tuhh.de/tuhh/startseite.html) mit dem Ziel des Wissenstransfers in Richtung Wirtschaft und Industrie.
 
-
+Studierende, Promovierende, Postdocs, Professorinnen und Professoren aller Dekanate der TUHH engagieren sich gemeinsam mit Kollegen des Helmholtz-Zentrum Geesthachts, um Methoden und Anwendungen des Machine Learnings bekannt zu machen, sich zu vernetzen und den wissenschaftlichen Austausch zu pflegen.

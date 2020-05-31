@@ -81,7 +81,7 @@ email: "tobias.knopp@tuhh.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2014 bin ich Professor für Biomedizinische Bildgebung und leite das Institut für Biomedizinische Bildgebung, das als Brückeninstitut zwischen der Technischen Universität Hamburg und dem Universitätsklinikum Hamburg-Eppendorf fungiert. Mein Kernforschungsgebiet sind tomographische Bildgebungsverfahren mit denen es möglich ist, Schnittbilder des menschlichen Körpers ohne chirurgische Eingriffe zu bestimmen. Der Fokus liegt dabei vor allem auf der Entwicklung von effizienten Bildrekonstruktionsalgorithmen und somit auf dem Lösen schlecht gestellter inverser Probleme.

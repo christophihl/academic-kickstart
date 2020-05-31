@@ -88,7 +88,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 

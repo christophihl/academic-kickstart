@@ -81,7 +81,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Nach meinem Studium der Angewandten Informatik mit Vertiefung in Bio- und Neuroinformatik an der Georg-August-Universität Göttingen, habe ich meinen Fokus zum Masterstudium an der Technischen Universität Hamburg auf die Kommunikationsnetze verlagert.

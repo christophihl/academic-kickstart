@@ -78,7 +78,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2013 forsche ich am Institut für Medizintechnische Systeme der Technischen Universität Hamburg (TUHH). Wir beschäftigen uns mit Methoden aus KI, Robotik und maschinellem Lernen um grundlegende Aspekte intelligenter medizintechnischer Systeme zu ermöglichen. Dazu gehören die Detektion und Kompensation von Bewegungen und Deformationen von Organen und Strukturen beispielsweise aufgrund von Atmung, Pulsation oder der Interaktion von Instrumenten mit dem Gewebe. Weiterhin untersuchen wir, wie sich Gewebe und besonders Tumorgewebe erkennen und unterscheiden lassen. Um die Therapie bestmöglich zu planen, nutzen wir heuristische und multi-kriterielle Optimierungsverfahren, die Wirkung und Nebenwirkungen verschiedener Behandlungsstrategien berücksichtigen und abwägen. Ein Fokus unserer Arbeiten ist die experimentelle Evaluierung der Methoden, für die wir verschiedene Roboter und besonders schnelle bildgebende Systeme, vor allem Ultraschall und optische Kohärenztomographie, integrieren. Weitere Informationen zu unseren Forschungsarbeiten und Publikationen finden Sie auf unseren Institutswebseiten https://www.tuhh.de/mtec

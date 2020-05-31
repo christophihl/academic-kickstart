@@ -81,7 +81,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Marcus Venzke ist Oberingenieur im Institut für Telematik der Technische Universität Hamburg. Im Bereich maschinelles Lernen (ML) setzt er seinen Schwerpunkt auf künstliche neuronale Netze für leistungsschwache Mikrocontroller mit wenigen Kilobyte RAM. Aktuell forscht er an Sensormodulen mit ML. Das sind kleine Module, die Sensoren und einen Mikrocontroller enthalten. Auf dem Mikrocontroller ausgeführte künstliche neuronale Netze ermitteln durch Klassifikation die Bedeutung der Sensormesswerte und heben Sie so auf ein höheres Abstraktionsniveau. Als Use-Case dient ein Sensormodul zum optischen Erkennen von Handgesten. 

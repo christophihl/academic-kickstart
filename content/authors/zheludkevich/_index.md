@@ -86,7 +86,7 @@ email: "mikhail.zheludkevich@hzg.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team am Helmholtz-Zentrum Geesthacht
 ---
 
 Seit 2014 leite ich die Abteilung für Korrosions- und Oberflächentechnik und unterrichte in diesem Zusammenhang Materialwissenschaften an der Technischen Fakultät der Universität Kiel. Zu meinen aktuellen Forschungsinteressen zählen Ansätze zum intelligenten Korrosionsschutz durch Selbstheilungseffekte sowie die gezielte Freisetzung von Korrosionsinhibitoren, nanostrukturierte Schutzschichten und selbstauflösende metallische Biomaterialien. Um diese Ziele zu verwirklichen und die grundlegenden Mechanismen hinter Korrosionsvorgängen besser zu verstehen, nutze ich neben hochaufgelösten elektrochemischen, auch eine Vielzahl anderer spektroskopischer Techniken sowie multiskalige Computersimulationen. Darüber hinaus verwende ich Methoden des maschinellen Lernens, um die Auswirkung unbekannter Verbindungen vorherzusagen.

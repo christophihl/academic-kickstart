@@ -81,7 +81,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2005 bin ich Professor an der Technischen Universität Hamburg (TUHH) und leite dort seit 2014 das Institut für Strukturdynamik. Von 2013 bis 2017 war ich auch Chair in Machine Dynamics und Director des Vibration University Technology Centers am Imperial College London. Von 1997 bis 2005 hatte ich verschiedene Positionen bei der Robert Bosch GmbH in Stuttgart. Zu meinen aktuellen Forschungsgebieten zählen komplexe Schwingungen und Wellen, sowie der Einsatz von Verfahren des maschinellen Lernens und der künstlichen Intelligenz bei komplexen dynamischen Systemen.

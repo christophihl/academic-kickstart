@@ -82,7 +82,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Ich leite den Lehrstuhl für Computational Mathematics an der Technischen Universität Hamburg (TUHH). Meine Forschung entwickelt effiziente numerische Verfahren für zeitabhängige Differentialgleichungen. Anwendungsbeispiele kommen aus den Natur- und Ingenieurwissenschaften und umfassen unter anderem die Numerische Wettervorhersage, die Berechnung der Trajektorien schneller Ionen in Fusionsreaktoren und die Modellierung von Verbrennungsmotoren. Obwohl der überwiegende Teil meiner Forschung sich mit Algorithmen für physik-basierte Modelle beschäftigt, bin ich sehr an der Kombination mit daten-basierten Techniken interessiert - in einem Artikel mit Kollegen von der University of Leeds haben wir gezeigt, dass sich der [Planungsprozess für einen Roboter](https://www.youtube.com/watch?v=wCh2o1rf-gA) durch die Kombination von phyisk- und daten-basierten Verfahren deutlich beschleunigen lässt.

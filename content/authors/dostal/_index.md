@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 Since 2015, I am a Postdoc with the Institute of Mechanics and Ocean Engineering at Hamburg University of Technology. Since 2019, I am also a member of the Fields-CQAM Laboratory for Inference &
 Prediction, University of Waterloo.

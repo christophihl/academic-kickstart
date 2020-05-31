@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Im Dezember 2019 habe ich das Team am Institut für Theoretische Elektrotechnik an der Technischen Universität Hamburg verstärkt. Schwerpunkt meiner Forschungsarbeit liegt im Bereich der Anwendung des maschinellen Lernens zur Analyse und Synthese von Leiterplattenstrukturen. Der Fokus der Analyse ist auf dem Bereich der Power Integrity. Insbesondere künstliche Neuronale Netze sind vielversprechend und haben gute Ergebnisse während meiner Bachelor- und Masterarbeit gezeigt.

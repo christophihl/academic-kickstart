@@ -92,7 +92,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Since September 2017 Görschwin Fey is a professor at the Institute of Embedded Systems at Hamburg University of Technology (TUHH). Görschwin Fey received his Diploma in Computer Science from Martin-Luther-University Halle-Wittenberg in 2001 and his Dr.-Ing. in Computer Science from University of Bremen in 2006, respectively. From 2012-2017 he headed the Department of Avionics Systems at the Institute of Space Systems of the German Aerospace Center (DLR) and the Group of Reliable Embedded Systems at the University of Bremen. His research interests in Electronic Design Automation (EDA) and automation of embedded system design focus on reliability, debugging, and design understanding.

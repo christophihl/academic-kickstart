@@ -75,7 +75,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit Ende 2017 forsche ich im Bereich robuste und zuverlässige neuronale Netze an der Technischen Universität Hamburg. Maschinelle Lernverfahren werden vermehrt in den verschiedensten Anwendungen eingesetzt, liefern jedoch ausschließlich statistische Problemlösungen. Dies steht im starken Widerspruch zu anderen Anforderungen z.B. im Bereich sicherheitskritischer Systeme, die ein Höchstmaß an Zuverlässigkeit garantieren müssen. Ein Hauptteil meiner Forschung beschäftigt sich mit der Entwicklung von Monitoring-Systemen, die auf maschinellen Lernverfahren und neuronalen Netzen beruhen. Dabei spielt die Emulation von Hardware und die Simulation von physikalischen Laufzeitumgebungen eine entscheidende Rolle. Gleichzeitig arbeite ich an der Entwicklung von Techniken, um die Robustheit von neuronalen Netzen zu erhöhen. Dabei werden auch formale Beweismethoden eingesetzt, um mathematische Garantien für ein neuronales Netz zu berechnen.

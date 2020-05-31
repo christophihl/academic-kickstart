@@ -94,7 +94,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 Seit 2014 bin ich Professor an der Technischen Universität Hamburg (TUHH) und leite dort das Institut für Mechanik und Meerestechnik. Davor habe ich eine Professur für Dynamischen Systemen in der Fahrzeugtechnik an der Universität Siegen innegehabt. Die Jahre davor habe ich als Juniorprofessor für Mehrkörperdynamik im Rahmen des Exzellenzclusters Simulationstechnologie (SimTech) an der Universität Stuttgart sowie als Visiting Scholar an der University of California, Berkeley verbracht.  Zu meinen aktuellen Forschungsgebieten gehören Modellierung und Simulation starre und flexible Mehrkörpersysteme, nichtlineare Regelung mechanischer Systeme, Topologie- und Parameteroptimierung dynamischer Systeme, Kontaktmechanik und Diskrete-Elemente-Methode sowie experimentelle Methoden in der Dynamik. Besonderes Augenmerk richten wir hierbei in letzter Zeit auch auf die verschiedenen Methoden des Maschinellen Lernens in der Mehrkörperdynamik.
 

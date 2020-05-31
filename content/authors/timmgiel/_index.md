@@ -96,7 +96,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Prof. Dr. Andreas Timm-Giel ist seit 2009 an der TUHH als Leiter des Instituts für Kommunikationsnetze und seit 2014 Vizepräsident für Forschung und CIO. Er promovierte 1999 in der Hochfrequenztechnik und war von 2000-2002 in einem Startup für Satellitenkommunikation tätig. Danach wechselte er zurück an die Universität Bremen, wo er in den Kommunikationsnetzen in verantwortlichen Positionen u.a. im TZI, forschte. An der TUHH sind Mobil- und Fahrzeugkommunikation, das Internet der Dinge und zukünftige Netzarchitekturen seine Forschungsschwerpunkte. Als Vizepräsident der TUHH gestaltet er den Wachstumsprozess der TUHH aktiv mit, wobei die Interdisziplinarität und die Digitalisierung in den Ingenieurswissenschaften zentrale Themen sind; das betrifft sowohl die Forschungsinhalte, die Forschungsmethoden und –tools als auch die Lehre zur Ausbildung verantwortlicher Ingenieure.

@@ -79,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2006 bin ich Professor an der Technischen Universität Hamburg (TUHH) und leite dort das Institut für Theoretische Elektrotechnik. Die Jahre davor habe ich am IBM T. J. Watson Research Center in Yorktown Heights, USA, verbracht, wo ich mich mit der Modellierung un Optimierung von Aufbau- und Verbindungstechniken für Hochleistungsrechner beschäftigt habe. Zu meinen aktuellen Forschungsgebieten gehören die Signal- und Powerintegrität elektronischer Systeme, GHz-Mess- und Kalibrationstechniken sowie die Entwicklung elektromagnetischer Simulationsmethoden für die Kommunikationselektronik und Elektromagnetische Verträglichkeit (EMV). Besonderes Augenmerk richten wir hierbei in letzter Zeit auf die verschiedenen Methoden des Maschinellen Lernens.

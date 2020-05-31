@@ -72,7 +72,7 @@ email: "Daniel.Schoepflin@tuhh.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit April 2019 arbeite ich am Institut für Flugzeug-Produktionstechnik an einem Projekt zur Überwachung intralogistischer Bauteiltransporte. In diesem Forschungsprojekt entwickele ich eine smarte Ladungsträger Einheit, welche in einer digitalisierten Lieferkette Kenntnis über den eigenen Zustand sowie die Beladung haben soll. Durch Einsatz einer visuellen Objektidentifizierung, soll die Korrektheit des Be-/Entladens überwacht werden. Zum Training geeigneter KI-Objektidentifikatoren ist eine umfassende Trainingsdatenbank notwendig, deren manuelle Erstellung Zeit- und Kostenintensiv ist. Daher forsche ich am Einsatz synthetischer und automatisierter Trainingsdatengenerierung. 

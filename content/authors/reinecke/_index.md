@@ -68,7 +68,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftler
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2018 bin ich als wissenschaftliche Mitarbeiterin und Doktorandin an der Technischen Universität Hamburg am Institut für Strategisches und Internationales Management von Professor Thomas Wrona. Zuvor habe ich als Beraterin im Bereich M&A und Transaction Services bei KPMG gearbeitet. Studiert habe ich BWL mit Schwerpunkt Strategy & Finance an der Universität Gießen und der University of International Business and Economics Beijing (M. Sc.).
