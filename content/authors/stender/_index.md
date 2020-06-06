@@ -7,7 +7,7 @@ name: Merten Stender
 authors:
 - stender
 
-weight: 195
+weight: 197
 
 # Is this the primary user of the site?
 superuser: false
