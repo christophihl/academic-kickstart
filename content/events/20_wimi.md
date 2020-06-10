@@ -57,7 +57,7 @@ hero_media = ""
 - Ansprechpartner für Professorinnen und Professoren, die beitragen wollen, sind {{% mention "leborne" %}} und [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html).
 
 ### Ort und Zeit:
-- Die Vorträge finden aktuell im Sommersemester Montags vorerst online ab 17:30 und je nach Ankündigung in deutscher oder englischer Sprache statt.
+- Die Vorträge finden aktuell im Sommersemester montags vorerst online ab 17:30 und je nach Ankündigung in deutscher oder englischer Sprache statt.
 
 ### Inhalte und Vortragende:
 
@@ -69,7 +69,7 @@ hero_media = ""
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
 | 4 | 11.05.20 | {{% mention "schoepflin" %}} | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/b94a47b0850c448fbab1097928bbaf1c1d)|
 | 5 | 18.05.20 <br/> (Prof Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> Robert Meissner | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
-| 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML |
+| 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/269456c1ead74566916bbbe2f23196071d )|
 | - | 01.06.20 | - | Pfingsten Holiday |
 | 7 | 08.06.20 | {{% mention "kellner" %}}, {{% mention "stender" %}} | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
@@ -93,13 +93,13 @@ as the Raspberry Pi platform.
 Nowadays electric cars are a focus area in automotive research. In this context we consider data based approache as tools to improve and facilitate the car design process. Hereby, we address the challenge of vibration load prediction for electric cars using neural network based machine learning (ML), a data-based frequency response function approach, and a hybrid combined model. We extensively study the challenging case of vibration load prediction of car components, such as the traction battery of an electric car. We show using experimental data from a 1:5 scale model car as well as data from a Fiat 500e car that the proposed ML approach is able to outperform the classical model estimation by means of ARX and ARMAX models. Moreover, we evaluate the performance of a hybrid-ML concept for combination of ML and ARMAX. Our promising results motivate further research in the field of vibration load prediction using machine learning based approaches in order to facilitate design processes.
 
 3. {{< hl >}}{{% mention "grossert" %}}: A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements.{{< /hl >}} <br/>
-tbd
+N/A
 
 4. {{< hl >}}{{% mention "schoepflin" %}}: Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik.{{< /hl >}} <br/>
 Der massive Bedarf an Daten zum Training von neuronalen Netzwerken stellt den industriellen Transfer erforschter Ansätze vor hohe Herausforderungen. Frei verfügbare Datensätze sind oftmals nicht in der Lage, die spezifischen und individuellen Anforderungen von Unternehmen abzudecken. Die synthetische Erzeugung von Trainingsdaten zeigt sich hierbei als erfolgsversprechende Alternative. In diesem Vortrag wird die Generierung von Trainingsbildern für eine KI-Objektidentifikation im intralogistischen Umfeld beleuchtet und aufgezeigt, welche Hürden für eine erfolgreiche Implementierung genommen werden müssen.
 
 5. {{< hl >}}{{% mention "knopp" %}}, {{% mention "fey" %}}, Robert Meissner: tbd.{{< /hl >}} <br/>
-tbd
+N/A
 
 6. {{< hl >}}Kai Sellschopp, {{% mention "wuerger" %}}: Exploration of structure - property relationships with unsupervised ML.{{< /hl >}} <br/>
 Many areas of applications – ranging from corrosion engineering to catalysis on inorganic surfaces and from drug design to polymer composites in organic materials – are influenced by the atomic structure of the materials involved. Luckily, due to modern experimental and simulation methods, it is often possible to obtain a detailed atomistic understanding of the achieved material properties. However, as the sheer number of potentially useful agents and their huge space of possible configurations renders comprehensive analyses resource- and time-consuming, other measures to predict the performance of yet untested molecules are required. One potential approach is the investigation of quantitative structure-property relationships (QSPR) using the Smooth Overlap of Atomic Positions (SOAP) kernel - a descriptor for atomic environments, that provides a translationally and rotationally invariant representation and therefore allows to calculate molecular similarities. Plotting these similarities on a map and combining them with
