@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "[arXiv:1908.04181v12](https://arxiv.org/abs/1908.04181)"
-publication_short: "[arXiv:1908.04181v1](https://arxiv.org/abs/1908.04181)"
+publication_short: "[arXiv:1908.04181v12](https://arxiv.org/abs/1908.04181)"
 
 abstract: "Cardiac left ventricle (LV) quantification provides a tool for diagnosing cardiac diseases. Automatic calculation of all relevant LV indices from cardiac MR images is an intricate task due to large variations among patients and deformation during the cardiac cycle. Typical methods are based on segmentation of the myocardium or direct regression from MR images. To consider cardiac motion and deformation, recurrent neural networks and spatio-temporal convolutional neural networks (CNNs) have been proposed. We study an approach combining state-of-the-art models and emphasizing transfer learning to account for the small dataset provided for the LVQuan19 challenge. We compare 2D spatial and 3D spatio-temporal CNNs for LV indices regression and cardiac phase classification. To incorporate segmentation information, we propose an architecture-independent segmentation-based regularization. To improve the robustness further, we employ a search scheme that identifies the optimal ensemble from a set of architecture variants. Evaluating on the LVQuan19 Challenge training dataset with 5-fold cross-validation, we achieve mean absolute errors of 111 +- 76mm^2, 1.84 +- 0.9mm and 1.22 +- 0.6mm for area, dimension and regional wall thickness regression, respectively. The error rate for cardiac phase classification is 6.7%."
 
