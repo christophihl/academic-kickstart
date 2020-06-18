@@ -3,7 +3,7 @@
 
 title: "A machine learning-based method for simulation of ship speed profile in a complex ice field"
 authors:
-- milakovicc
+- milakovic
 - Fang Li
 - Mohamed Marouf
 - Sören Ehlers
