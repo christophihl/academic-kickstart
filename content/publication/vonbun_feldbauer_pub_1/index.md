@@ -10,7 +10,7 @@ authors:
 - Daniel Höche
 - Sviatlana V. Lamaka
 - zheludkevich
-- Robert H. Meißner
+- meissner
 date: 2019-04-05
 doi: "10.3389/fmats.2019.00053"
 
