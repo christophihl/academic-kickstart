@@ -22,7 +22,7 @@ phone: +49 4152 87-2125
 
 # Organizations/Affiliations
 organizations:
-- name: HZG Magnesium Innovation Centre -- MagIC
+- name: HZG Magnesium Innovation Centre - MagIC
   url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology/"
 
 # Short bio (displayed in user profile at end of posts)

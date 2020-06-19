@@ -22,7 +22,7 @@ phone: +49 40 42878-3412
 
 # Organizations/Affiliations
 organizations:
-- name: HZG Magnesium Innovation Centre -- MagIC
+- name: HZG Magnesium Innovation Centre - MagIC
   url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology/"
 - name: TUHH Institut für Kunststoffe und Verbundwerkstoffe
   url: "https://www.tuhh.de/kvweb"

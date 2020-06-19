@@ -22,7 +22,7 @@ phone: +49 4152 87-1988
 
 # Organizations/Affiliations
 organizations:
-- name: HZG Magnesium Innovation Centre -- MagIC
+- name: HZG Magnesium Innovation Centre - MagIC
   url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology/"
 - name: Technische Fakultät Universität Kiel
   url: "http://www.tf.uni-kiel.de/matwis/instmat/de/lehrstuehle/links-zu-den-arbeitsgruppen/korrosion-und-oberflachentechnik"
