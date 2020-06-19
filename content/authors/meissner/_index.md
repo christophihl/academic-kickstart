@@ -6,7 +6,7 @@ name: Robert Meißner
 authors:
 - meissner
 
-weight: 200
+weight: 122
 
 # Is this the primary user of the site?
 superuser: false
@@ -77,7 +77,7 @@ email: "robert.meissner@tuhh.de"
 #   Set this to `[]` or comment out if you are not using People widget.
 
 user_groups:
-- Team an der Technischen Universität Hamburg
+- Team am Helmholtz-Zentrum Geesthacht
 
 ---
 
