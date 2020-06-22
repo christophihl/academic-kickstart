@@ -68,17 +68,17 @@ hero_media = ""
 | 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/df17d927c5a8405a8bc53349d70577f11d)|
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
 | 4 | 11.05.20 | {{% mention "schoepflin" %}} | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/b94a47b0850c448fbab1097928bbaf1c1d)|
-| 5 | 18.05.20 <br/> (Prof Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> Robert Meissner | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
+| 5 | 18.05.20 <br/> (Prof Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> {{% mention "meissner" %}} | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
 | 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/269456c1ead74566916bbbe2f23196071d )|
 | - | 01.06.20 | - | Pfingsten Holiday |
 | 7 | 08.06.20 | {{% mention "kellner" %}}, {{% mention "stender" %}} | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
 | 9 | 22.06.20 <br/> (Prof Date) | {{% mention "schlaefer" %}} <br/> Christian Cyron <br/> Carlos Jahn | Machine Learning for Spatio-Temporal Signal Processing <br/> Maschinelles Lernen in der Materialmodellierung <br/> ML in der maritimen Logistik - Anwendungen aus Schifffahrt und Hafen |
-| 10 | 29.06.20 | {{% mention "schierholz" %}} | tbd |
+| 10 | 29.06.20 | {{% mention "schierholz" %}} | Application of Artificial Neural Networks for Power Integrity Evaluation |
 | 11 | 06.07.20 | {{% mention "lindner_s" %}} | Predictive medium access techniques for wireless networks |
-| 12 | 13.07.20 | Maximilian Stark | End-to-end learning in Wireless Communications |
+| 12 | 13.07.20 | {{% mention "stark" %}} | End-to-end learning in Wireless Communications |
 | 13 | 20.07.20 | Rüdiger Schmitz | tbd |
-| 14 | 27.07.20 | {{% mention "jahn" %}} | ML-supported Problem Descriptions in Digital Assistance Systems |
+| 14 | 27.07.20 | {{% mention "jahn" %}} | ML-unterstützte Problembeschreibungen in digitalen Assistenzsystemen |
 
 
 ### Abstracts:
@@ -111,6 +111,30 @@ Criticism of data based models evolves around the problem of causation/correlati
 
 8. {{< hl >}}{{% mention "bahnsen" %}}: Emulation von neuronalen Netzen unter Hardwarefehlern. {{< /hl >}} <br/>
 Neueste Errungenschaften in verschiedenen Bereichen werden durch den Einsatz künstlicher neuronaler Netze (NN) erzielt, z.B. im Bereich der Spracherkennung oder der Bildverarbeitung. Ein NN löst Probleme durch statistisches Lernen mit ressourcenlastigen Berechnungen. Um NN für mobile Geräte, eingebettete oder IoT-Systeme zu implementieren, wird Hardwarebeschleunigung immer wichtiger, um Energie-, Kosten- oder Rechenzeitanforderungen zu erfüllen. In einem Hardwarebeschleuniger werden die arithmetischen Operationen des NN sequentiell auf wenigen Recheneinheiten berechnet, so dass ein Fehler in der Verarbeitungshardware einen erheblichen Einfluss auf die Ausgabe des NNs haben kann. Die Zuverlässigkeit eines NNs und damit auch der zugehörigen Anwendung hängt dann nicht mehr ausschließlich von statistischen Fehlern im NN-Modell ab - die Zuverlässigkeit wird vielmehr durch das Zusammenspiel von NN-Modell und Hardware bestimmt. In dem Vortrag wird eine Technik zur Emulation von NN-Inferenz auf Hardware-Ressourcenbeschreibungen erläutert. Anschließend werden die Injektion von Hardwarefehlern und deren Auswirkung an verschieden Beispielen erörtert.
+
+9. {{< hl >}}{{% mention "knopp" %}}, {{% mention "fey" %}}, {{% mention "meissner" %}}: tbd.{{< /hl >}} <br/>
+N/A
+
+10. {{< hl >}}{{% mention "schierholz" %}}: Application of Artificial Neural Networks for Power Integrity Evaluation. {{< /hl >}} <br/>
+Increasing demands on modern electronic systems with respect to Signal and Power Integrity on printed circuit boards require many simulations during an optimization process. The necessity of additional and more complex simulations requires new and advanced simulation and optimization techniques. Using machine learning is one attempt to improve the efficiency of these optimization processes. The high dimensional problem of the power integrity analysis is especially challenging. The approach to improve the power delivery network of printed circuit boards with decoupling capacitors is analysed with artificial neural networks. The focus is based on the importance of preprocessing the input data and exploit the available domain knowledge to increase the accuracy of the artificial neural network.
+
+11. {{< hl >}}{{% mention "lindner_s" %}}: Predictive medium access techniques for wireless networks. {{< /hl >}} <br/>
+Spectrum scarcity requires novel approaches for sharing frequency resources between different radio systems. Where coordination is not possible, intelligent approaches are needed, allowing a novel "secondary" system to access unused resources of a legacy (primary) system without requiring modifications of this primary system. Machine Learning is a promising approach to recognize patterns of the primary system and adapt the channel access accordingly. In this contribution we investigate the capability of Feed-Forward Deep Learning and Long Short Term Memory (LSTM) Recurrent Neural Networks (RNNs) to detect communication patterns of the primary user. <br/> Therefore, we take the example of a new aeronautical system (LDACS) coexisting with three different systems. Firstly, the coexistence with the Distance Measurement Equipment (DME) providing a deterministic interference to the secondary user and secondly with two synthetic channel access patterns, realized by a 2-state Markov model, modeling a bursty channel access behavior, as well as through a sequential channel access model. <br/> It can be shown that the Markov property of a Gilbert-Elliot channel model limits the predictability; nonetheless, we show that the model characteristics can be fully learned, which could leverage the design of interference avoidance systems that make use of this knowledge. The determinism of DME allows an error-free prediction, and it is shown that the reliability of sequential access model prediction depends on the model's parameter. <br/>The limits of Feed-Forward Deep Neural Networks are highlighted, and why LSTM RNNs are state-of-the-art models in this problem domain. We show that these models are capable of online learning, as well as of learning correlations over long periods of time.
+
+12. {{< hl >}}{{% mention "stark" %}}: End-to-end learning in Wireless Communications. {{< /hl >}} <br/>
+N/A
+
+
+13. {{< hl >}} Rüdiger Schmitz: tbd. {{< /hl >}} <br/>
+N/A
+
+
+14. {{< hl >}}{{% mention "jahn" %}}: ML-unterstützte Problembeschreibungen in digitalen Assistenzsystemen. {{< /hl >}} <br/>
+Im industriellen Umfeld ermöglichen Augmented-Reality-Anwendungen die Erstellung am Bauteil dreidimensional verorteter Rückmeldungen. Diese dokumentieren mit kurzen Texten und Fotos Montageprobleme und Bauteilfehler in der Produktion. Allerdings schwankt die Informationsqualität der Rückmeldungen in Abhängigkeit des Erstellers und dessen Zeit zur Eingabe der Beschreibungen auf dem mobilen Endgerät.
+Auf maschinellem Lernen basierende Empfehlungsdienste bieten einem Nutzer die unterstützende Möglichkeit, Vorschläge für sinnvolle Textbausteine einer Problembeschreibung zu erhalten. <br/> Ich werde einen Prototyp für einen dafür geeigneten hybriden Empfehlungsdienst vorstellen, welcher sich aus einer Bildklassifikation mittels Deep Learning und einer Textverarbeitung mittels Data Mining und Natural Language Processing zusammensetzt. <br/>Einen weiteren Schwerpunkt stellt die Integration des Prototyps in Form eines ML-Microservices in eine Cloud-Infrastruktur am Beispiel von Kubernetes und Python-Webservices dar, sodass dieser von externen Anwendungen genutzt und gleichzeitig leicht weiterentwickelt werden kann.
+
+
+
 
 
 
