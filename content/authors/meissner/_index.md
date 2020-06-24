@@ -31,11 +31,10 @@ organizations:
 bio: Molekulardynamische Simulationen von Grenzflächen, Berechnung freier Energien biomolekularer und elektrochemischer Systeme, atomistische Betrachtung der Magnesiumkorrosion, Entwicklung datengetriebener Modelle zur Indentifikation von (umweltfreundlichen) Degradationsmodulatoren
 
 interests:
-- Untersuchung der Ausbildung spezifischer Proteinstrukturen
-- Entwicklung und Optimierung von neuartigen Super- und Pseudokondensatoren
-- Kontrolle der Degradation/Korrosion von Magnesium für die Anwendung in Energiespeichern und als Implantatmaterial
-- Vorhersage von experimentell ermittelten Messgrößen aus atomistischen Simulation mit maschinellen Lernalgorithmen
-- Klassifikationsalgorithmen für atomaren Simulationen
+- Untersuchung von Proteinstrukturen
+- Optimierung von Super- und Pseudokondensatoren
+- Degradation/Korrosion von Magnesium in Energiespeichern und Implantaten
+- Anwendung maschineller Lernalgorithmen in atomistischen Simulation
 
 education:
   courses:
@@ -45,15 +44,15 @@ education:
   - course: PostDoc
     institution: École polytechnique fédérale de Lausanne
     year: 2016 - 2017
-  - course: Wissenschaftlicher Mitarbeiter 
+  - course: Wissenschaftlicher Mitarbeiter
     institution: Fraunhofer Institut für Fertigungstechnik und angewandte Materialforschung
     year: 2010 - 2016
   - course: Doktor der Ingenieurwissenschaften (Dr.-Ing.)
     institution: Universität Bremen
     year: 2015
-  - course: Diplomstudium im Fach Physik 
+  - course: Diplomstudium im Fach Physik
     institution: Universität Bremen
-    year: 2010 
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -81,7 +80,7 @@ user_groups:
 
 ---
 
-Im Oktober 2017 wurde ich als Juniorprofessorin an die TUHH und Leiterin der Forschungsgruppe für Molekulardynamiksimulationen berufen. Unsere Gruppe ist eng mit dem Institut für Kunststoffe und Verbundwerkstoffe verbunden, wo wir gemeinsam an Polymeren, nanopartikelverstärkten Kunststoffen und Superkondensatoren forschen. Gleichzeitig beschäftige ich mich mit atomistischen Betrachtungen von Magnesium-Korrosionsprozessen am Magnesium Innovation Centre -- MagIC des Helmholtz-Zentrums Geesthacht mittels Methoden des maschinellen Lernens und quantenchemischen Berechnungen auf der Basis von *ab initio*-Methoden. Meine Vorlesungen befassen sich mit grundlegenden quantenmechanischen Fragestellungen und deren Anwendung in der Dichtefunktionaltheorie. Desweiteren werden thermodynamische Aspekte der statistischen Physik behandelt und deren Auswirkungen in molekularen Simulationen. Außerdem halte ich Vorlesungen über grundlegende Eigenschaften von Polymeren und Verbundwerkstoffen.
+Im Oktober 2017 wurde ich als Juniorprofessor an die TUHH und Leiter der Forschungsgruppe für Molekulardynamiksimulationen berufen. Unsere Gruppe ist eng mit dem Institut für Kunststoffe und Verbundwerkstoffe verbunden, wo wir gemeinsam an Polymeren, nanopartikelverstärkten Kunststoffen und Superkondensatoren forschen. Gleichzeitig beschäftige ich mich mit atomistischen Betrachtungen von Magnesium-Korrosionsprozessen am Magnesium Innovation Centre -- MagIC des Helmholtz-Zentrums Geesthacht mittels Methoden des maschinellen Lernens und quantenchemischen Berechnungen auf der Basis von *ab initio*-Methoden. Meine Vorlesungen befassen sich mit grundlegenden quantenmechanischen Fragestellungen und deren Anwendung in der Dichtefunktionaltheorie. Desweiteren werden thermodynamische Aspekte der statistischen Physik behandelt und deren Auswirkungen in molekularen Simulationen. Außerdem halte ich Vorlesungen über grundlegende Eigenschaften von Polymeren und Verbundwerkstoffen.
 
 Ich bin langjähriges Mitglied der Deutschen Physikalischen Gesellschaft (DPG) und stellvertretendes Mitglied für die TUHH im Topic Selection and Evaluation Committee der Helmholtz-Graduiertenschule für die Struktur der Materie (DASHH).
 
