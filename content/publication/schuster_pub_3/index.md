@@ -6,7 +6,7 @@ authors:
 - Katharina Scharff
 - schierholz
 - yang
-- sSchuster
+- schuster
 date: 2020-10-05T09:04:22+01:00
 doi: ""
 
