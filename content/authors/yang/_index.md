@@ -6,7 +6,7 @@ name: Cheng Yang
 authors:
 - yang
 
-weight: 200
+weight: 250
 
 # Is this the primary user of the site?
 superuser: false
