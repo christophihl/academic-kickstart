@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Kooperationsangebote"
+title = "Partnerschaft"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -49,20 +49,16 @@ hero_media = ""
 
 +++
 
-MLE@TUHH ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der TUHH mit dem ausdrücklichen Ziel des Wissenstransfers in Richtung Wirtschaft und Industrie.
+Das zentrale Wertangebot an Sie ist unsere interdisziplinäre Problemlösungkompetenz rund um ML-Anwendungen für Ihre Entwicklungs-, Produktions-, Logistik und Geschäftsprozesse.
 
-Viele Studien und Erhebungen belegen, dass insbesondere im Bereich des maschinellen Lernens großer Nachholbedarf besteht. Dies ist der zentrale Ansatzpunkt der Intiative.
+Um dieses ganzheitliche Wertangebot bestmöglich erbringen zu können, bieten wir Unternehmen langfristige Partnerschaften und eine kontinuierliche Zusammenarbeit an. Als Partner haben Sie die exklusive Möglichkeit eines stetigen Austauschs, um Ihr Angebotspaket optimal und fortlaufend an Ihre Bedürfnisse anzupassen.
 
-Wir bieten je nach Bedarf kurzfristige Punktlösungen oder längerfristige Kooperationen an:
+Bei Interesse nehmen Sie bitte [*Kontakt*](/#contact) mit uns auf. Wir arbeiten gerne ein individelles Kooperationsangebot mit Ihnen aus.
 
-- Beratung bei den ersten Schritten in Richtung ML-basiertes Engineering
-- Schulungen zu mathematischen und informationstechischen Grundlagen
-- Erarbeitung von ML-basierten Lösungen für Probleme aus der Praxis
-- Begleitung von firmeninternen Umstellungsprozessen
-- Weiterbildung von Entscheidungsträgern im Management
-- gemeinsame F&E-Projekte
+{{< figure src="/img/offerings.png" caption="Angebotspakete für Partner" >}}
 
-Bitte sprechen Sie uns mittels des Kontaktformulars an. Wir sind für Sie da!
+
+
 
 
 

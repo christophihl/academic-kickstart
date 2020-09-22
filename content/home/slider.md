@@ -76,7 +76,7 @@ height = ""
   overlay_caption = "&copy; TUHH, Martin Kunze"
   
   cta_label = "Arbeiten Sie mit uns."
-  cta_url = "/practice/"
+  cta_url = "/transfer/"
   cta_icon_pack = "fas"
   cta_icon = "cogs"
 

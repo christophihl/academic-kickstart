@@ -16,7 +16,25 @@
 [[main]]
   name = "Forschung"
   url = "research/"
+  identifier = "research"
   weight = 30
+
+
+
+[[main]]
+  name = "Themen"
+  url = "research/"
+  parent = "research"
+  weight = 1
+
+[[main]]
+  name = "Publikationen"
+  url = "research/#40_publications"
+  parent = "research"
+  weight = 2
+
+
+
 
 [[main]]
   name = "Events"
@@ -31,10 +49,51 @@
 [[main]]
   name = "Transfer"
   url = "transfer/"
+  identifier = "transfer"
   weight = 60
+
+
+
+
+[[main]]
+  name = "Angebote"
+  url = "transfer/"
+  parent = "transfer"
+  weight = 1
+
+[[main]]
+  name = "Engineering"
+  url = "engineering/"
+  parent = "transfer"
+  weight = 2
+
+[[main]]
+  name = "Business"
+  url = "business/"
+  parent = "transfer"
+  weight = 3
+
+[[main]]
+  name = "Training"
+  url = "training/"
+  parent = "transfer"
+  weight = 4
+
+[[main]]
+  name = "ML-Glossar"
+  url = "_repos/methods/"
+  parent = "transfer"
+  weight = 5
+
+
+
+
 
 [[main]]
   name = "Kontakt"
   url = "#contact"
   weight = 70
+
+
+
 
