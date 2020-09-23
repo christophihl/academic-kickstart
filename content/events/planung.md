@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Weitere Veranstaltungen (in Planung)"
 
@@ -50,8 +50,6 @@ hero_media = ""
 +++
 
 MLE@TUHH ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der TUHH, die kontinuierlich interne wie externe Veranstaltungen zum Thema durchführt:
-
-- Interne Arbeitstreffen der zentralen Koordinationsgruppe und Team Leads. Besprechung von Aktivitäten, Werbemaßnahmen, Organisation und Strategie der Initiative. Ansprechpartner: {{% mention "schuster" %}} 
 
 - Kick-Off Event zum Beginn des Winstersemester 2020 zur Information und  Vernetzung innerhalb der TUHH. Breite Vorstellung von Aktivitäten und Zielen der Initiative unter Einbezug von Studierenden, Lehrenden und Forschenden. Ansprechpartner: {{% mention "turau" %}}, {{% mention "schuster" %}} 
 

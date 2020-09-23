@@ -41,13 +41,13 @@ projects: []
 
 Mitarbeiterinnen und Mitarbeiter in den Funktionsbereichen
 
-* Business Analysis
-* Finance
-* Controlling
 * Business Development
-* Produktmanagement
+* Business Intelligence
+* Controlling
 * Marketing
+* Produktmanagement
 * Produktionsmanagement
+* Finance
 
 ... deren Anforderungen über Excel hinausgewachsen sind.
 

@@ -13,13 +13,16 @@
   url = "team/"
   weight = 20
 
+
+
+
+
+
 [[main]]
   name = "Forschung"
   url = "research/"
   identifier = "research"
   weight = 30
-
-
 
 [[main]]
   name = "Themen"
@@ -29,7 +32,7 @@
 
 [[main]]
   name = "Publikationen"
-  url = "research/#40_publications"
+  url = "research/#publications"
   parent = "research"
   weight = 2
 
@@ -39,22 +42,45 @@
 [[main]]
   name = "Events"
   url = "events/"
+  identifier = "events"
   weight = 40
+
+[[main]]
+  name = "ML with Matlab"
+  url = "events/#matlab"
+  parent = "events"
+  weight = 1
+
+[[main]]
+  name = "ML Engineering Network"
+  url = "events/#network"
+  parent = "events"
+  weight = 2
+
+[[main]]
+  name = "In Planung"
+  url = "events/#planung"
+  parent = "events"
+  weight = 3
+
+
+
 
 # [[main]]
 #   name = "MLE-Days"
 #   url = "conference/"
 #   weight = 50
 
+
+
+
+
 [[main]]
   name = "Transfer"
   url = "transfer/"
   identifier = "transfer"
   weight = 60
-
-
-
-
+  
 [[main]]
   name = "Angebote"
   url = "transfer/"
