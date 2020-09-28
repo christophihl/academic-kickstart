@@ -64,14 +64,14 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: 
+  icon_pack: fas
   link: "mailto:norbert.hoffmann@tuhh.de"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=iTN7_QQAAAAJ
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2074-3170
-- icon: google scholar
-  icon_pack:
-  link: https://scholar.google.de/citations?user=iTN7_QQAAAAJ
 
 
 
