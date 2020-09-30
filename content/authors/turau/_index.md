@@ -89,7 +89,7 @@ email: "turau@tuhh.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team an der Technischen Universität Hamburg
+- Koordination
 ---
 
 Seit 2002 bin ich Professor an der Technischen Universität Hamburg und leite dort die Arbeitsgruppe Telematik. Zu meinen aktuellen Forschungsgebieten gehören Kommunikationsprotokolle für das Internet der Dinge (IoT), Verfahren des maschinellen Lernens für eingebettete Systeme und Verteilte Algorithmen. Charakteristisch für meine Forschungsarbeiten ist die Umsetzung theoretischer Konzepte in Prototypen und deren Evaluation in konkreten Anwendungen. Ich halte Vorlesungen über Verteilte Systeme, Betriebssysteme und Eingebettete Systeme.

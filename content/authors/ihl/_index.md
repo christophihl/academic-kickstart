@@ -112,7 +112,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team an der Technischen Universität Hamburg
+- Koordination
 ---
 
 Seit 2014 bin ich Professor an der Technischen Universität Hamburg und leite dort das Institut für Unternehmertum. Meine Forschung im Bereich Innovation und Entrepreneurship ist in der empirischen Organisationsforschung und Soziologie angesiedelt. Mich interessiert, wie Akteure mit ihrer sozialen und kulturellen Umwelt interagieren und von ihr beeinflusst werden, um neuartige Ideen, Teams, Produkte oder Geschäftspraktiken zu schaffen. Dabei nutze ich Verfahren der Computational Social Science, insbesondere Machine Learning, Natural Language Processing und Netzwerkanalysen. Diese helfen mir, Akteure wie Startups, Wissenschaftler oder Kreative auf Basis ihrer sozialen Beziehungen oder ihrer Assoziationen mit Kategorien und Narrativen zu verorten und als "neu" oder "andersartig" zu klassifizieren.

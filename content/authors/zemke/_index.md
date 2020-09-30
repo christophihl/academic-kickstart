@@ -82,7 +82,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team an der Technischen Universität Hamburg
+- Koordination
 ---
 
 Seit 1997 an der TUHH, 2003 Promotion über Krylov-Unterraum-Verfahren in endlicher Genauigkeit bei Prof. Siegfried M. Rump. Seit 2001 am Institut für Mathematik, seit 2003 als Oberingenieur.

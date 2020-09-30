@@ -36,6 +36,12 @@
   parent = "research"
   weight = 2
 
+[[main]]
+  name = "ML-Methoden"
+  url = "_repos/methods/"
+  parent = "research"
+  weight = 3
+
 
 
 
@@ -104,12 +110,6 @@
   url = "training/"
   parent = "transfer"
   weight = 4
-
-[[main]]
-  name = "ML-Glossar"
-  url = "_repos/methods/"
-  parent = "transfer"
-  weight = 5
 
 
 
