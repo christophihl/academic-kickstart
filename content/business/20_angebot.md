@@ -51,9 +51,9 @@ hero_media = ""
 
 Unser Angebot im Bereich `Business` ist darauf fokussiert, Maschinelles Lernen für Ihre Geschäftsprozesse in nutzbringende Anwendungen zu bringen. Je nach angestrebtem organisatorischen Reifegrad ergeben sich unterschiedliche Angebotsvarianten:
 
-* `Use Case Identifikation`: In vielen Geschäftsbereichen sind heute schon große Datenmengen vorhanden bzw. könnten leicht generiert werden. Wir gleichen Datenverfügbarkeit mit Ihren Informationsbedürfnissen ab, um Anwendungspotenzial zu identifizieren.
-* `Business Anwendungen`: Wir helfen Ihnen erste Anwendungen von Machine Learning in konkrete Produkte, Applikationen und Dashboards umzusetzen, die helfen, Ihre Geschäftsprozesse und Entscheidungfindungen zu optimnieren.
-* `Strategieentwicklung`: Um die Potenziale des machinellen Lernens für Ihr Unternehmen auzuschöpfen, helfen wir bei einer ganzheitlichen Strategieentwicklung.
+* `Use Case Identifikation`: In vielen Geschäftsbereichen sind heute schon große Datenmengen vorhanden bzw. könnten leicht generiert werden. Wir gleichen Datenverfügbarkeit mit Ihren Informationsbedürfnissen ab, um Anwendungspotenziale zu identifizieren.
+* `Business Anwendungen`: Wir helfen Ihnen, Anwendungen von Machine Learning in konkrete Produkte, Applikationen und Dashboards umzusetzen, um Ihre Geschäftsprozesse und Entscheidungfindungen zu optimnieren.
+* `Strategieentwicklung`: Um die Potenziale des machinellen Lernens für Ihr Unternehmen umfänglich auzuschöpfen, helfen wir bei einer ganzheitlichen Strategieentwicklung.
 * `Change & Implementierung`: Wir helfen ML-Strategien umzusetzen in konkreten Change- und Implementierungs-Projekten.
 
 Bei Interesse nehmen Sie bitte [*Kontakt*](/#contact) mit uns auf. Wir arbeiten gerne ein individelles Kooperationsangebot mit Ihnen aus.
