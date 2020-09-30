@@ -52,7 +52,7 @@ hero_media = ""
 Unser Trainingsangebot können Sie in unterschiedlichen Formaten wahrnehmen. Diese Formate wiederum können Sie speziell für Ihr Unternehmen arrangieren oder gemeinsam mit Teilnehmern anderer Unternehmen besuchen.
 
 * `Grundlagenseminare`: 1-2-tägige Einführungen in grundlegende Techniken, Werkzeuge und Programmiersprachen, z.B. PyTorch, TensorFlow.
-* `Spezial-Workshops`: 5-tägige Workshops, um in speziellen Techniken und Anwendungsgebieten in die Tiefe zu gehen, z.B. Computer Vision, Natural Language Processing.
+* `Spezial-Workshops`: 2-5-tägige Workshops, um in speziellen Techniken und Anwendungsgebieten in die Tiefe zu gehen, z.B. Computer Vision, Natural Language Processing.
 * `Zertifikatskurse`: 15-20-tägige Kursprogramme mit Abschlusszertifikat, z.B. "Certified Machine Learning Engineer", "Chief Business Analyst".
 * `Corporate Academy`: Speziell auf Ihr Unternehmen ausgerichtetes Weiterbildungsangebot, das meherer Kursprogramme behinhaltet.
 
