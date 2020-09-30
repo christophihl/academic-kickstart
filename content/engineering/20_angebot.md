@@ -51,10 +51,10 @@ hero_media = ""
 
 Unser Angebot im Bereich `Engineering` ist darauf fokussiert, Maschinelles Lernen für Ihre Entwicklungs- und Produktionsprozesse in nutzbringende Anwendungen zu bringen. Je nach angestrebtem technischen Reifegrad ergeben sich unterschiedliche Angebotsvarianten:
 
-* `Technische Proof-of-Concepts`: Viele ingenieurswissenschaftliche Probleme sind bisher noch nicht durch Methoden des Maschinellen Lernens bearbeitet worden. Hier empfiehlt sich zunächst ein mehrmonatiger Proof-of-Concept, bevor man in die konkrete Produkt- und Anwendungsenwticklung geht.
-* `Produktentwicklungen`: Eine stabile Lösung ingenieurswissenschaftlicher Probleme und Aufgaben durch Maschinelles Lernen erfolgt in konkreten Produktentwicklungsprojekten.
+* `Technische Proof-of-Concepts`: Viele ingenieurswissenschaftliche Probleme sind bisher noch nicht durch Methoden des Maschinellen Lernens bearbeitet worden. Hier empfiehlt sich zunächst ein technischer Proof-of-Concept, bevor man in die konkrete Produkt- und Anwendungsenwticklung geht.
+* `Produktentwicklungen`: Die Erarbeitung einer stabilen Lösung ingenieurswissenschaftlicher Probleme und Aufgaben durch Maschinelles Lernen erfolgt in konkreten Produktentwicklungsprojekten.
 * `Infrastrukturentwicklungen`: Umfangreichere und komplexere Anwendungen erfordern oft eine spezielle Infrastruktur, die sich in Ihre Systemlandschaft anpasst.
-* `Forschungsprojekte`: Komplexe ML-Anwendungen mit hohem Innovationsgrad sollten erst in einer längere Phase der (Grundlagen-) Arbeit erforscht und erprobt werden, bevor eine permanente Umsetzung in Ihrem Unternehmen erfolgen kann.
+* `Forschungsprojekte`: Komplexe ML-Anwendungen mit hohem Innovationsgrad sollten erst in fundierter Forschungsarbeit erprobt werden, bevor eine permanente Umsetzung in produktive Unternehmensumgebungen erfolgt.
 
 Bei Interesse nehmen Sie bitte [*Kontakt*](/#contact) mit uns auf. Wir arbeiten gerne ein individelles Kooperationsangebot mit Ihnen aus.
 
