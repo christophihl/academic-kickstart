@@ -79,8 +79,8 @@ We recommend taking the free, two-hour interactive introductions to [practical m
 - HZG: please write an email to {{% mention "zemke" %}} indicating that you wish to participate
 
 ### Download Flyer
-- {{% staticref "pdf/matlab_1.pdf" "newtab" %}}Hochformat{{% /staticref %}}
-- {{% staticref "pdf/matlab_2.pdf" "newtab" %}}Querformat{{% /staticref %}}
+- {{% staticref "pdf/matlab_1.pdf" "newtab" %}}Portrait{{% /staticref %}}
+- {{% staticref "pdf/matlab_2.pdf" "newtab" %}}Landscape{{% /staticref %}}
 
 
 
