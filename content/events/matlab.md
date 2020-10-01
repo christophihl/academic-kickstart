@@ -84,6 +84,6 @@ We recommend taking the free, two-hour interactive introductions to [practical m
 
 
 
-{{< figure src="/img/matlab.pdf" caption="Machine Learning in Engineering with MATLAB" >}}
+{{< figure src="/img/matlab.png" caption="Machine Learning in Engineering with MATLAB" >}}
 
 
