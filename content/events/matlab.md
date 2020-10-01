@@ -50,9 +50,11 @@ hero_media = ""
 +++
 
 
-### MLE together with MathWorks organizes two coupled online events that take place one week apart:
-- Machine Learning with MATLAB (05.11.2020)
-- Deep Learning with MATLAB (12.11.2020)
+### MLE together with MathWorks organizes two online events that take place one week apart:
+- Machine Learning with MATLAB (05.11.2020, 14:00-17:00)
+- Deep Learning with MATLAB (12.11.2020, 14:00-17:00)
+
+The events are free for members of TUHH and HZG.
 
 ### Both events will include
 - Industry/research examples using MATLAB for ML/DL
@@ -67,7 +69,7 @@ In two interactive sessions, we show examples of engineers and scientists using 
 
 We recommend taking the free, two-hour interactive introductions to [practical machine learning methods](https://www.mathworks.com/learn/tutorials/machine-learning-onramp.html) and [deep learning methods](https://www.mathworks.com/learn/tutorials/deep-learning-onramp.html), respectively, before each session. In between the two sessions, participants will have access to the used data set, to apply your acquired knowledge and share their achieved results. The second session does not have the first session as a prerequisite and can be attended independently.
 
-### Participants receive access to
+### You receive access to
 - complete workshop materials 
 - data sets, software & GPU resources during the workshops
 - data sets in between the workshops, so that participants can try to tune the models and share their results two days before the second workshop
@@ -75,6 +77,10 @@ We recommend taking the free, two-hour interactive introductions to [practical m
 ### The event will take place via Zoom. Registration for the events is open until 20.10.2020. If you intend to participate:
 - TUHH: please register in the Stud.IP group [MLE@TUHH: MLE with MATLAB](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=ae5d1c581c9f67830b423fdc2959a782)
 - HZG: please write an email to {{% mention "zemke" %}} indicating that you wish to participate
+
+### Download Flyer
+- {{% staticref "pdf/matlab_1.pdf" "newtab" %}}Hochformat{{% /staticref %}}
+- {{% staticref "pdf/matlab_2.pdf" "newtab" %}}Querformat{{% /staticref %}}
 
 
 
