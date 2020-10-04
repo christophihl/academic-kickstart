@@ -11,9 +11,27 @@
 [[main]]
   name = "Team"
   url = "team/"
+  identifier = "team"
   weight = 20
 
 
+[[main]]
+  name = "MLE-Koordination"
+  url = "team/#leitung"
+  parent = "team"
+  weight = 1
+
+[[main]]
+  name = "Team TUHH"
+  url = "team/#tuhh"
+  parent = "team"
+  weight = 2
+
+[[main]]
+  name = "Team HZG"
+  url = "team/#hzg"
+  parent = "team"
+  weight = 3
 
 
 

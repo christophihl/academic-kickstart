@@ -12,7 +12,7 @@ weight: 230
 superuser: false
 
 # Role/position
-role: Professor
+role: Professor & MLE-Vizesprecher
 
 # Room
 room: Gebäude D Raum 1.010
@@ -77,7 +77,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Koordination
+- MLE-Koordination
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2011 bin ich Professor an der Technischen Universität Hamburg und leite dort das Institut für Strategisches und Internationales Management. Zuvor hatte ich seit 2005 den Lehrstuhl für Organisation & Empirische Managementforschung an der ESCP Europe Business School inne. Mein Forschungsschwerpunkt liegt im Schnittpunkt von Strategieforschung und qualitativer Managementforschung. Hierbei interessieren mich insbesondere Prozesse der Herausbildung von Strategien in Unternehmen und ihre Beziehungen zu Wettbewerbsvorteilen. Zu meinen aktuellen Forschungsgebieten zählen die Auswirkungen eines Einsatzes von Big Data & Analytics bzw. Maschinellen Lernens auf strategische Entscheidungsprozesse, Wettbewerbsvorteile und strategischen Wandel. Warum interessiert mich das? Weil es zunächst einmal ein Widerspruch ist zwischen einer erfolgreichen Strategie (= kreatives Brechen etablierter Muster) und Verfahren, die Entscheidungen auf Musteridentifikation basieren. Daher ist es interessant zu untersuchen, wo ML sinnvoll angewendet werden kann und wo kaum beachtete strategische Risiken liegen.

@@ -13,14 +13,14 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Koordination", "Team an der Technischen Universität Hamburg", "Team am Helmholtz-Zentrum Geesthacht"]
+  user_groups = ["MLE-Koordination"]
 
 [design]
   # Show user's social networking links? (true/false)
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -12,7 +12,7 @@ weight: 260
 superuser: false
 
 # Role/position
-role: Oberingenieur
+role: Oberingenieur & MLE-Koordinator
 
 # Room
 room: Gebäude E, Raum E 3.044
@@ -82,7 +82,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Koordination
+- MLE-Koordination
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 1997 an der TUHH, 2003 Promotion über Krylov-Unterraum-Verfahren in endlicher Genauigkeit bei Prof. Siegfried M. Rump. Seit 2001 am Institut für Mathematik, seit 2003 als Oberingenieur.
