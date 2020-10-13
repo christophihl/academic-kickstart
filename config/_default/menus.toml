@@ -64,28 +64,34 @@
 
 
 [[main]]
-  name = "Events"
-  url = "events/"
-  identifier = "events"
+  name = "Lehre"
+  url = "lehre/"
+  identifier = "lehre"
   weight = 40
 
 [[main]]
-  name = "ML with Matlab"
-  url = "events/#matlab"
-  parent = "events"
+  name = "MLE@TUHH internes Netzwerkevent"
+  url = "lehre/#mle_tuhh"
+  parent = "lehre"
   weight = 1
 
 [[main]]
-  name = "ML Engineering Network"
-  url = "events/#network"
-  parent = "events"
+  name = "ML with Matlab"
+  url = "lehre/#matlab"
+  parent = "lehre"
   weight = 2
 
 [[main]]
-  name = "In Planung"
-  url = "events/#planung"
-  parent = "events"
+  name = "ML Engineering Network"
+  url = "lehre/#network"
+  parent = "lehre"
   weight = 3
+
+[[main]]
+  name = "In Planung"
+  url = "lehre/#planung"
+  parent = "lehre"
+  weight = 4
 
 
 

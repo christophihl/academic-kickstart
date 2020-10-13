@@ -49,9 +49,7 @@ hero_media = ""
 
 +++
 
-MLE@TUHH ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der TUHH, die kontinuierlich interne wie externe Veranstaltungen zum Thema durchführt:
-
-- Kick-Off Event zum Beginn des Winstersemester 2020 zur Information und  Vernetzung innerhalb der TUHH. Breite Vorstellung von Aktivitäten und Zielen der Initiative unter Einbezug von Studierenden, Lehrenden und Forschenden. Ansprechpartner: {{% mention "turau" %}}, {{% mention "schuster" %}} 
+MLE ist eine Initiative zur Bündelung der Kompetenzen im Bereich Machine Learning an der TUHH, die kontinuierlich interne wie externe Veranstaltungen zum Thema durchführt:
 
 - Öffentliche Ringvorlesung für die interessierte Öffentlichkeit im Laufe des Wintersemesters 2020/21 mit Persönlichkeiten aus Wissenschaft und Industrie. Organisator: [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html)
 
