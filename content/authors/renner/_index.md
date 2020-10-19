@@ -6,7 +6,7 @@ name: Bernd-Christian Renner
 authors:
 - renner
 
-weight: 178
+weight: 177
 
 # Is this the primary user of the site?
 superuser: false
