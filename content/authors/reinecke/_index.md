@@ -6,7 +6,7 @@ name: Pauline Reinecke
 authors:
 - reinecke
 
-weight: 176
+weight: 161
 
 # Is this the primary user of the site?
 superuser: false
