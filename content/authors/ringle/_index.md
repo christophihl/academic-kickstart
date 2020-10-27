@@ -31,16 +31,16 @@ bio:
 
 interests:
 - Business analytics
-- clustering
-- decision trees
-- dimension reduction
-- machine learning
-- methods development
-- multivariate analysis
-- prediction
-- segmentation
-- simulation
-- structural equation modeling
+- Clustering
+- Decision trees
+- Dimension reduction
+- Machine learning
+- Methods development
+- Multivariate analysis
+- Prediction
+- Segmentation
+- Simulation
+- Structural equation modeling
 
 
 
@@ -53,7 +53,7 @@ education:
     institution: University of Hamburg, Germany
     year: 2009 - 2010
   - course: Habilitation & Venia Legendi in Business Administration
-    institution: RUniversity of Hamburg, Germany
+    institution: University of Hamburg, Germany
     year: 2008
   - course: Doctorate in Economics and Social Sciences (Dr. rer. pol.)
     institution: University of Hamburg, Germany
@@ -72,9 +72,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:c.ringle@tuhh.de"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/christian-m-ringle-989ba634/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=y5F176wAAAAJ&hl=de
+  link: https://scholar.google.co.uk/citations?user=rOAPv_gAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Christian_Ringle
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7027-8804
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2700666/christian-m-ringle/
+
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

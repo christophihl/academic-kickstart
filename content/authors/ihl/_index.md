@@ -88,9 +88,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0842-5201
-#- icon: publons
-#  icon_pack: ai
-#  link: https://publons.com/researcher/1886744/christoph-ihl/
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1886744/christoph-ihl/
 # - icon: impactstory
 #   icon_pack: ai
 #   link: https://profiles.impactstory.org/u/0000-0002-0842-5201
