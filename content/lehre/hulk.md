@@ -63,7 +63,7 @@ The goal of this event is the exchange of information between RoboCup teams from
 Here you find more information on [RoHOW](https://rohow.de).
 
 
-{{< figure src="/img/hulks.jpg" caption="HULKs@TUHH - RoboCup SPL Team" >}}
+{{< figure src="/img/hulks.png" caption="HULKs@TUHH - RoboCup SPL Team" >}}
 
 
 ### Weitere Informationen auf der Webseite der Hulks:
