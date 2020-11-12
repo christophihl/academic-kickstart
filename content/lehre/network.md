@@ -70,12 +70,12 @@ hero_media = ""
 | 2 | 23.11.20 | {{% mention "schierholz" %}} | Data Sources for Machine Learning Applications in Engineering |
 | 3 | 30.11.20 | {{% mention "kastner" %}} | How to Talk About Machine Learning with Jupyter Notebooks |
 | 4 | 07.12.20 | Thomas Kohlsche | Data-driven construction of fast predictors for complex systems using Gaussian process regression techniques |
-| 5 | 14.12.20 | {{% mention "boll" %}} | Data-driven construction of fast predictors for complex systems using Gaussian process regression techniques |
+| 5 | 14.12.20 | {{% mention "boll" %}} | Weakbond Detection -- Enhancing Vibro-Acoustic Modulation Analysis by Machine Learning |
 | - | 21.12.20 | - | Winter break |
 | - | 28.12.20 | - | Winter break |
 | 6 | 04.01.21 | Lars Köttner, Jan Mehnen, Denys Romaneko | Prozessüberwachung mit maschinellem Lernen für semi-automatisches Bohren von Nietlöchern in der Luftfahrtindustrie |
 | 7 | 11.01.21 | {{% mention "feiler" %}}| Exploring Chemical Space using Computational Techniques |
-| 8 | 18.01.21 | {{% mention "angerbauer" %}} | Exploring Chemical Space using Computational Techniques |
+| 8 | 18.01.21 | {{% mention "angerbauer" %}} | Anwendung von Methoden des Maschinellen Lernens zur Darstellung komplexer Strömungsfelder |
 | 9 | 25.01.21 | Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKs](/lehre/#hulks)) | Distributed Genetic Neural Network Architecture Search at HULKs |
 
 ### Abstracts:
