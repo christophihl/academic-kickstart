@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Train Your Engineering Network"
 
@@ -49,19 +49,9 @@ hero_media = ""
 
 +++
 
-### Ziel:
-- Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der TUHH und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden. 
+## Sommersemester 2020
 
-### Ansprechpartner: 
-- Organisatoren sind Axel Friedewald, Mijail Guillemard, Haibo Ruan, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
-- Ansprechpartner für Professorinnen und Professoren, die beitragen wollen, sind {{% mention "leborne" %}} und [Marc-André Pick](https://www.tuhh.de/mum/mitarbeiter/oberingenieur/marc-andre-pick.html).
-
-### Ort und Zeit:
-- Die Vorträge finden aktuell im Sommersemester montags vorerst online ab 17:30 und je nach Ankündigung in deutscher oder englischer Sprache statt.
-
-### Inhalte und Vortragende im aktuellen Semester:
-[Vergangene Semester](/_archive/lehre/#network_ss20)
-
+### Inhalte und Vortragende:
 
 
 | # | Datum | Vortragende/r | Thema |
