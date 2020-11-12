@@ -76,7 +76,7 @@ hero_media = ""
 | 6 | 04.01.21 | Lars Köttner, Jan Mehnen, Denys Romaneko | Prozessüberwachung mit maschinellem Lernen für semi-automatisches Bohren von Nietlöchern in der Luftfahrtindustrie |
 | 7 | 11.01.21 | {{% mention "feiler" %}}| Exploring Chemical Space using Computational Techniques |
 | 8 | 18.01.21 | {{% mention "angerbauer" %}} | Exploring Chemical Space using Computational Techniques |
-| 9 | 25.01.21 | Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKS](/lehre/#hulks)) | Distributed Genetic Neural Network Architecture Search at HULKs |
+| 9 | 25.01.21 | Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKs](/lehre/#hulks)) | Distributed Genetic Neural Network Architecture Search at HULKs |
 
 ### Abstracts:
 
@@ -113,7 +113,7 @@ The degradation behaviour of magnesium (Mg) renders it one of the most versatile
 8. {{< hl >}}{{% mention "angerbauer" %}}: Anwendung von Methoden des Maschinellen Lernens zur Darstellung komplexer Strömungsfelder. {{< /hl >}} <br/>
 tba
 
-9. {{< hl >}}Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKS](/lehre/#hulks)): Distributed Genetic Neural Network Architecture Search at HULKs.{{< /hl >}} <br/>
+9. {{< hl >}}Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKs](/lehre/#hulks)): Distributed Genetic Neural Network Architecture Search at HULKs.{{< /hl >}} <br/>
 The increasing application of artificial neural networks (ANN) in various domains of robotics demands highly optimized ANN architectures. The efficient architecture search requires horizontal and vertical scaling of ANN evaluation. In this talk the HULKs present their approach and application of a scalable genetic algorithm based on distributed task execution, to be used in the context of RoboCup soccer competitions. 
 
 
