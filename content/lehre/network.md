@@ -111,7 +111,7 @@ The degradation behaviour of magnesium (Mg) renders it one of the most versatile
 
 
 8. {{< hl >}}{{% mention "angerbauer" %}}: Anwendung von Methoden des Maschinellen Lernens zur Darstellung komplexer Strömungsfelder. {{< /hl >}} <br/>
-tba
+N/A
 
 9. {{< hl >}}Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKs](/lehre/#hulks)): Distributed Genetic Neural Network Architecture Search at HULKs.{{< /hl >}} <br/>
 The increasing application of artificial neural networks (ANN) in various domains of robotics demands highly optimized ANN architectures. The efficient architecture search requires horizontal and vertical scaling of ANN evaluation. In this talk the HULKs present their approach and application of a scalable genetic algorithm based on distributed task execution, to be used in the context of RoboCup soccer competitions. 
