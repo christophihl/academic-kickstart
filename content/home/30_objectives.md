@@ -32,7 +32,7 @@ subtitle = ""
   icon = "satellite-dish"
   icon_pack = "fas"
   name = "Moderne ML-Verfahren"
-  description = "Wir nutzen Machine Learning Verfahren, die auf dem neuesten Kenntnistand beruhen."
+  description = "Wir nutzen Machine Learning Verfahren, die auf dem neuesten Kenntnisstand beruhen."
   
 [[feature]]
   icon = "space-shuttle"
@@ -44,7 +44,7 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "Vernetzung und Austausch"
-  description = "Wir bieten durch verschiedene Veranstaltungformate einen flexiblen Austausch mit Firmen der Metropolregion Hamburg."
+  description = "Wir bieten durch verschiedene Veranstaltungsformate einen flexiblen Austausch mit Firmen der Metropolregion Hamburg."
 
 [[feature]]
   icon = "graduation-cap"
