@@ -124,22 +124,28 @@
   weight = 1
 
 [[main]]
-  name = "Engineering"
-  url = "engineering/"
+  name = "Network & Exchange"
+  url = "network_and_exchange/"
   parent = "transfer"
   weight = 2
 
 [[main]]
-  name = "Business"
-  url = "business/"
+  name = "Training & Executive Education"
+  url = "training_and_executive_education/"
   parent = "transfer"
   weight = 3
 
 [[main]]
-  name = "Training"
-  url = "training/"
+  name = "Consulting & Transformation"
+  url = "consulting_and_tranformation/"
   parent = "transfer"
   weight = 4
+
+[[main]]
+  name = "Customized Project Development"
+  url = "customized_project_development/"
+  parent = "transfer"
+  weight = 5
 
 
 

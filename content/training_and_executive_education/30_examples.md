@@ -2,15 +2,15 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Angebote"
+title = "Referenz-<br>projekte"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "_offerings"
+  page_type = "_engineering"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -64,20 +64,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Mit dem primären Ziel des Wissenstransfers in Richtung Wirtschaft und Industrie basiert unser Angebot auf drei inhaltlichen Säulen:
-
-* `Engineering & Logistics`: Unsere erste zentrale Säule besteht darin, Maschinelles Lernen für Entwicklungs- und Produktionsprozesse in nutzbringende Anwendungen zu bringen. Zusätzlich bieten wir Kompetenzen im Logistikbereich, um das Angebot zu erweitern.
-
-* `Business & Society`: Im Hinblick auf ganzheitliche Lösungen ergänzen wir eine ingenieurswissenschaftliche Herangehensweise durch betriebswirtschaftliche Perspektiven.
-Zusätzlich komplementieren wir unser Angebot mit ethischen Themen und einer gesellschaftlich kritischen Perspektive.
-
-* `Computing & Mathematics`: Unsere dritte Säule besteht aus der informations-technologischen & mathematischen Sichtweise des maschinellen Lernens, die vielseitig Anwendung in konkreten Prozessen und Schritten findet. Auch in Kombination mit einer ingenieurswissenschaftlichen Perspektive ist das Wissen der Informationstechnologien und Mathematik unumgänglich.
-
-Erfahren Sie hier mehr über unsere Angebotskomponenten:
-
-
-
-
-
-
-
+Hier finden Sie bald eine Übersicht über bisherige Referenzprojekte. Bitte besuchen Sie diese Seite bald wieder!

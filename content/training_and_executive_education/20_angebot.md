@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Partnerschaft"
+title = "Angebot im Bereich Training & Executive Education"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -49,17 +49,14 @@ hero_media = ""
 
 +++
 
-Das zentrale Wertangebot an Sie ist unsere interdisziplinäre Problemlösungkompetenz rund um ML-Anwendungen für Ihre Entwicklungs-, Produktions-, Logistik und Geschäftsprozesse.
+Das Angebot Training & Executive Education umfasst unser Angebot an Trainingsmöglichkeiten, für welches wir eine Plattform bilden. Wir organisieren Schulungen, eine Konferenz, und interaktive Workshops im Rahmen eines vorgefertigten Angebotkatalogs. Firmen können aus diesem Katalog auswählen. Unser Angebot kann auch zu maßgeschneiderten Angeboten übergehen. Der Angebotsbereich umfasst konkret:
 
-Um dieses ganzheitliche Wertangebot bestmöglich erbringen zu können, bieten wir Unternehmen langfristige Partnerschaften und eine kontinuierliche Zusammenarbeit an. Als Partner haben Sie die exklusive Möglichkeit eines stetigen Austauschs, um Ihr Angebotspaket optimal und fortlaufend an Ihre Bedürfnisse anzupassen.
+* `Conference`
+* `Education`
+* `Workshop`
+* `Customized Education`
 
 Bei Interesse nehmen Sie bitte [*Kontakt*](/#contact) mit uns auf. Wir arbeiten gerne ein individelles Kooperationsangebot mit Ihnen aus.
-
-![Angebotspakete für Partner](/img/offerings.png)
-
-
-
-
 
 
 
