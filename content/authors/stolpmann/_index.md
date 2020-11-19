@@ -12,7 +12,7 @@ weight: 198
 superuser: false
 
 # Role/position
-role: Doktorand
+role: Doktorand & MLE-Webmaster
 
 # Room
 room: Gebäude E, Raum E1.052
@@ -68,6 +68,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- MLE-Koordination
 - Team an der Technischen Universität Hamburg
 ---
 
