@@ -66,7 +66,7 @@ hero_media = ""
 
 | # | Datum | Vortragende/r | Thema |
 | --- | ---  | --- | --- |
-| 1 | 16.11.20 | Lennart Bargsten | Deep learning approaches for intravascular ultrasound image processing: dealing with data scarcity |
+| 1 | 16.11.20 | {{% mention "bargsten" %}} | Deep learning approaches for intravascular ultrasound image processing: dealing with data scarcity [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/1bc91dde43d740a0825946ed33a8cffa1d) |
 | 2 | 23.11.20 | {{% mention "schierholz" %}} | Data Sources for Machine Learning Applications in Engineering |
 | 3 | 30.11.20 | {{% mention "kastner" %}} | How to Talk About Machine Learning with Jupyter Notebooks |
 | 4 | 07.12.20 | Thomas Kohlsche | Data-driven construction of fast predictors for complex systems using Gaussian process regression techniques |
