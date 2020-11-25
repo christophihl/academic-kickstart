@@ -67,7 +67,7 @@ Machine-Learning in Engineering (MLE@TUHH) ist eine Initiative zur Bündelung de
 
   - {{% mention "schoepflin" %}}
 
-  - {{% mention "meyer" %}}
+  - {{% mention "meyer" %}} - Bestärkendes Lernen für das Industrielle Internet der Dinge {{% staticref "pdf/2020-11-04-internal_MLE_event-slides-florian_meyer.pdf" "newtab" %}}(Folien){{% /staticref %}}
 
 * Vorstellung Kooperationspartner [Artificial Intelligence Center Hamburg e.V. (ARIC)](https://www.aric-hamburg.de/) durch CEO Alois Krtil
 
