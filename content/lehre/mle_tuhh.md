@@ -65,7 +65,7 @@ Machine-Learning in Engineering (MLE@TUHH) ist eine Initiative zur Bündelung de
 
   - {{% mention "rueckert" %}}
 
-  - {{% mention "schoepflin" %}}
+  - {{% mention "schoepflin" %}} - Synthetische Trainingsdaten für industrielle Objekterkennung {{% staticref "pdf/2020-11-04-internal_MLE_event-slides-daniel_schoepflin.pdf" "newtab" %}}(Folien){{% /staticref %}}
 
   - {{% mention "meyer" %}} - Bestärkendes Lernen für das Industrielle Internet der Dinge {{% staticref "pdf/2020-11-04-internal_MLE_event-slides-florian_meyer.pdf" "newtab" %}}(Folien){{% /staticref %}}
 
