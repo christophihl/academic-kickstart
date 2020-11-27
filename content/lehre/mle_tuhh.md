@@ -63,7 +63,7 @@ Machine-Learning in Engineering (MLE@TUHH) ist eine Initiative zur Bündelung de
 
 * 3 Pitches von Doktoranden (aus diversen Bereichen), wie sie ML in ihrer Forschung anwenden:
 
-  - {{% mention "rueckert" %}}
+  - {{% mention "rueckert" %}} - Machine Learning in Kombination mit Operations Research {{% staticref "pdf/2020-11-04-internal_MLE_event-slides-nicolas_rueckert.pdf" "newtab" %}}(Folien){{% /staticref %}}
 
   - {{% mention "schoepflin" %}} - Synthetische Trainingsdaten für industrielle Objekterkennung {{% staticref "pdf/2020-11-04-internal_MLE_event-slides-daniel_schoepflin.pdf" "newtab" %}}(Folien){{% /staticref %}}
 
