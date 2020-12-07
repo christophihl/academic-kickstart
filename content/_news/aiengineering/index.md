@@ -3,7 +3,7 @@ title: 'Konferenzbeitrag: Artificial Intelligence in Engineering'
 #subtitle: 'Bündelung der Kompetenzen und Austausch mit der Praxis'
 summary: Am 2. Dezember fand die Konferenz "Artificial Intelligence in Engineering" als virtuelle Veranstaltung statt. Die MLE Initiative stellte mit Prof. Dr. Christian Schuster einen der Hauptredner.
 authors:
-- Prof. Dr. Volker Turau
+- turau
 tags:
 categories:
 date: "2020-12-03T00:00:00Z"

@@ -3,7 +3,7 @@ title: 'Machine Learning in Engineering mit Matlab'
 #subtitle: 'Bündelung der Kompetenzen und Austausch mit der Praxis'
 summary: In Zusammenarbeit mit dem Unternehmen MathWorks hat die MLE Initiative am 5. und 11. November zwei Workshops durchgeführt, in denen die Möglichkeiten der Software "Matlab" für die Umsetzung von Verfahren des maschinellen Lernens vorgestellt wurden.
 authors:
-- Prof. Dr. Volker Turau
+- turau
 tags:
 categories:
 date: "2020-11-27T00:00:00Z"

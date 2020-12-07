@@ -3,7 +3,7 @@ title: 'Workshop: ML an der Technischen Universität Hamburg - Stand der Dinge'
 #subtitle: 'Bündelung der Kompetenzen und Austausch mit der Praxis'
 summary: Am 13. 11. und 4. 12. 2019 fanden an der TUHH zwei Workshops zum Thema "ML an der Technischen Universität Hamburg" statt.
 authors:
-- Prof. Dr. Volker Turau
+- turau
 tags:
 categories:
 date: "2019-12-06T00:00:00Z"

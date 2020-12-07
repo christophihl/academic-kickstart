@@ -3,7 +3,7 @@ title: 'MLE stellt sich bei AI.Hamburg vor'
 #subtitle: 'Bündelung der Kompetenzen und Austausch mit der Praxis'
 summary: Am Donnerstag 10. Dezember 2020 wird sich die MLE Initiative im Rahmen eines "Virtual AI Info Breakfast" bei AI.Hamburg vorstellen.
 authors:
-- Prof. Dr. Volker Turau
+- turau
 tags:
 categories:
 date: "2020-12-04T00:00:00Z"
