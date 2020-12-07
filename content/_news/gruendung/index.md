@@ -3,7 +3,7 @@ title: 'Gründung der Initiative "Machine Learning in Engineering" an der TUHH'
 subtitle: 'Bündelung der Kompetenzen und Austausch mit der Praxis'
 summary: Bündelung der Kompetenzen und Austausch mit der Praxis.
 authors:
-- admin
+- ihl
 tags:
 categories:
 date: "2020-03-09T00:00:00Z"

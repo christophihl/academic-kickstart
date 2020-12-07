@@ -8,11 +8,16 @@
   url = "#"
   weight = 10
 
+  [[main]]
+  name = "News"
+  url = "news/"
+  weight = 20
+
 [[main]]
   name = "Team"
   url = "team/"
   identifier = "team"
-  weight = 20
+  weight = 30
 
 
 [[main]]
@@ -40,7 +45,7 @@
   name = "Forschung"
   url = "research/"
   identifier = "research"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Themen"
@@ -67,7 +72,7 @@
   name = "Lehre"
   url = "lehre/"
   identifier = "lehre"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "MLE@TUHH internes Netzwerkevent"
