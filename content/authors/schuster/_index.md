@@ -6,7 +6,7 @@ name: Christian Schuster
 authors:
 - schuster
 
-weight: 191
+weight: 192
 
 # Is this the primary user of the site?
 superuser: false
