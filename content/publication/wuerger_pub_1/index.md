@@ -32,7 +32,7 @@ abstract: "Small organic molecules that modulate the degradation behavior of Mg 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Magnesium,  Degradation Modulators, Quantitative Structure-Property Relationships, Kernel Ridge Re-gression, SOAP, Dimensionality Reduction, In silico Discovery]
+tags: [Magnesium, Degradation Modulators, Quantitative Structure-Property Relationships, Kernel Ridge Regression, SOAP, Dimensionality Reduction, In silico Discovery]
 categories: []
 featured: false
 
