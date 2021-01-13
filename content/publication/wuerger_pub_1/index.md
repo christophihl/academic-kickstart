@@ -44,7 +44,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.nature.com/articles/s41529-020-00148-z
+url_pdf: https://www.nature.com/articles/s41529-020-00148-z.epdf
 url_code: 
 url_dataset:
 url_poster:
