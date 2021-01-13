@@ -8,7 +8,7 @@ authors:
 - Mohamed Marouf
 - Sören Ehlers
 date: 2019-11-27T09:04:22+01:00
-doi: "https://doi.org/10.1080/17445302.2019.1697075"
+doi: "10.1080/17445302.2019.1697075"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-11-27T09:04:22+01:00

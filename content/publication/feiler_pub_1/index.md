@@ -13,7 +13,7 @@ authors:
 - zheludkevich
 - Sviatlana Lamaka
 date: 2020-02-01T09:04:22+01:00
-doi: "https://doi.org/10.1016/j.corsci.2019.108245"
+doi: "10.1016/j.corsci.2019.108245"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-24T09:04:22+01:00
