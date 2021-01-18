@@ -80,7 +80,7 @@ social:
   link: https://scholar.google.de/citations?user=83MkY1wAAAAJ&hl=de&oi=ao
 - icon: orcid
   icon_pack: ai
-  link: http://orcid.org/0000-0001-6433-6265
+  link: https://orcid.org/0000-0001-6433-6265
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Goerschwin_Fey

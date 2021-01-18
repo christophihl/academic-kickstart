@@ -84,7 +84,7 @@ social:
   link: https://www.linkedin.com/in/robert-seifried-5662b91a6/
 - icon: orcid
   icon_pack: ai
-  link:  http://orcid.org/0000-0001-5795-7610
+  link:  https://orcid.org/0000-0001-5795-7610
 
 
 
