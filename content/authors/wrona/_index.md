@@ -69,7 +69,7 @@ social:
   link: "mailto:thomas.wrona@tuhh.de"
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/thomas-wrona-88027825
+  link: https://www.linkedin.com/in/thomas-wrona-88027825
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
