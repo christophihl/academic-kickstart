@@ -76,7 +76,7 @@ hero_media = ""
 | 6 | 04.01.21 | Lars Köttner, Jan Mehnen, Denys Romaneko | Prozessüberwachung mit maschinellem Lernen für semi-automatisches Bohren von Nietlöchern in der Luftfahrtindustrie |
 | 7 | 11.01.21 | {{% mention "feiler" %}}| Exploring Chemical Space using Computational Techniques |
 | 8 | 18.01.21 | {{% mention "angerbauer" %}} | Anwendung von Methoden des Maschinellen Lernens zur Darstellung komplexer Strömungsfelder |
-| 9 | 25.01.21 | Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKs](/lehre/#hulks)) | Distributed Genetic Neural Network Architecture Search at HULKs |
+| 9 | 25.01.21 | Pascal Gleske, Konrad Nölle, Hendrik Sieck ([HULKs](/lehre/#hulks)) | Distributed Genetic Neural Network Architecture Search at HULKs [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/a83994be9e7d4bb899ca9d0c843c4b291d)|
 
 ### Abstracts:
 
