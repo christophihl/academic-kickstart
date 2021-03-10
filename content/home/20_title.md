@@ -11,7 +11,7 @@ weight = 20  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo_big_white.png"
+hero_media = "logo_big_white.svg"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
