@@ -12,7 +12,7 @@ weight: 210
 superuser: false
 
 # Role/position
-role: Assistenz, Workshopkoordinatorin
+role: Assistenz & Workshopkoordinatorin
 
 # Room
 room: Gebäude HS20, Raum 320

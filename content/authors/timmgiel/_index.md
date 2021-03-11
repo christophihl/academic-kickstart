@@ -12,7 +12,7 @@ weight: 199
 superuser: false
 
 # Role/position
-role: Professor und geschäftsführender Präsident
+role: Professor & geschäftsführender Präsident
 
 # Room
 room: Gebäude E, Raum E1-057
