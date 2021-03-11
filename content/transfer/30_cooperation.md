@@ -49,7 +49,7 @@ hero_media = ""
 
 +++
 
-Das zentrale Wertangebot an Sie ist unsere interdisziplinäre Problemlösungkompetenz rund um ML-Anwendungen für Ihre Entwicklungs-, Produktions-, Logistik und Geschäftsprozesse.
+Das zentrale Wertangebot an Sie ist unsere interdisziplinäre Problemlösungskompetenz rund um ML-Anwendungen für Ihre Entwicklungs-, Produktions-, Logistik und Geschäftsprozesse.
 
 Um dieses ganzheitliche Wertangebot bestmöglich erbringen zu können, bieten wir Unternehmen langfristige Partnerschaften und eine kontinuierliche Zusammenarbeit an. Als Partner haben Sie die exklusive Möglichkeit eines stetigen Austauschs, um Ihr Angebotspaket optimal und fortlaufend an Ihre Bedürfnisse anzupassen.
 
