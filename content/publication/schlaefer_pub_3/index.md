@@ -3,6 +3,9 @@
 
 title: "Force Estimation from OCT Volumes using 3D CNNs"
 authors:
+- Nils Gessert
+- Jens Beringhoff
+- Christoph Otte
 - schlaefer
 date: 2018-04-26T09:04:22+01:00
 doi: ""

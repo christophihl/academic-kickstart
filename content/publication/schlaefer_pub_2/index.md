@@ -3,6 +3,8 @@
 
 title: "A Deep Learning Approach for Pose Estimation from Volumetric OCT Data"
 authors:
+- Nils Gessert
+- Matthias Schlüter
 - schlaefer
 date: 2020-03-10T09:04:22+01:00
 doi: ""
