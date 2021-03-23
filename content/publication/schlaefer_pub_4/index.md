@@ -3,6 +3,7 @@
 
 title: "Left Ventricle Quantification Using Direct Regression with Segmentation Regularization and Ensembles of Pretrained 2D and 3D CNNs"
 authors:
+- Nils Gessert
 - schlaefer
 date: 2019-12-08T09:04:22+01:00
 doi: ""

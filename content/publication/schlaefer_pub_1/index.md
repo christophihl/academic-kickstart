@@ -3,6 +3,8 @@
 
 title: "Melanoma detection with electrical impedance spectroscopy and dermoscopy using joint deep learning models"
 authors:
+- Nils Gessert
+- Marcel Bengs
 - schlaefer
 date: 2020-02-05T09:04:22+01:00
 doi: ""
