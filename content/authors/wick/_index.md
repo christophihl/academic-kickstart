@@ -6,6 +6,8 @@ name: Dr. Jan Niklas Wick
 authors:
 - wick
 
+weight: 229
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -63,6 +65,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:jan.niklas.wick@tuhh.de"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jnwick/
