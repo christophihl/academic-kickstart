@@ -21,7 +21,7 @@ role: Post-doc & MLE-Referent
 # phone:
 
 # Organizations/Affiliations
-# organizations:
+organizations:
 - name: TUHH Institute of Entrepreneurship
   url: "https://www.startupengineer.io"
 
