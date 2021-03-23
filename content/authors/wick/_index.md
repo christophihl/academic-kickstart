@@ -22,8 +22,8 @@ role: Post-doc & MLE-Referent
 
 # Organizations/Affiliations
 # organizations:
-# - name: Hamburg University of Technology
-#   url: "https://www.tuhh.de/tuhh/startseite.html"
+- name: TUHH Institute of Entrepreneurship
+  url: "https://www.startupengineer.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Group behaviour, Crowdfunding, Early-stage Venture Financing
