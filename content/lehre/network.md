@@ -79,7 +79,7 @@ hero_media = ""
 | 9 | 21.06.21 <br/> (Prof Date) | Benedikt Kriegesmann, Matthias Mnich | tba |
 | 10 | 28.06.21 | Frederic Bock | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
 | 11 | 05.07.21 | Patrick Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
-| 12 | 12.07.21 | Falko Kähler | tba |
+| 12 | 12.07.21 | N/A | - |
 
 ### Abstracts:
 
@@ -117,8 +117,7 @@ N/A
 11. {{< hl >}}Patrick Göttsch: MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software {{< /hl >}} <br/>
 In this talk a MARL Simulation environment will be introduced to let heterogeneous groups of agents controlled by hand crafted control algorithms or by learned control policies flock for search and rescue missions or to move in a formation by avoiding obstacles. This environment allows simulations of agents constrained by non-ideal communication.
 
-12. {{< hl >}}Falko Kähler: tba. {{< /hl >}} <br/>
-tba
+12. {{< hl >}}N/A{{< /hl >}} <br/>
 
 </details>
 
