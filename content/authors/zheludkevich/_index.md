@@ -22,8 +22,8 @@ phone: +49 4152 87-1988
 
 # Organizations/Affiliations
 organizations:
-- name: HZG Magnesium Innovation Centre - MagIC
-  url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology/"
+- name: Hereon Institute of Surface Science
+  url: "https://www.hereon.de/institutes/surface_science/index.php.de"
 - name: Technische Fakultät Universität Kiel
   url: "http://www.tf.uni-kiel.de/matwis/instmat/de/lehrstuehle/links-zu-den-arbeitsgruppen/korrosion-und-oberflachentechnik"
 
@@ -43,7 +43,7 @@ education:
     institution: Northeastern University Shenyang
     year: 2018 - heute
   - course: Abteilungsleiter
-    institution: Helmholtz-Zentrum Geesthacht
+    institution: Helmholtz-Zentrum Hereon
     year: 2014 - heute
   - course: Professor
     institution: Universität Kiel
@@ -86,7 +86,7 @@ email: "mikhail.zheludkevich@hzg.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team am Helmholtz-Zentrum Geesthacht
+- Team am Helmholtz-Zentrum Hereon
 ---
 
 Seit 2014 leite ich die Abteilung für Korrosions- und Oberflächentechnik und unterrichte in diesem Zusammenhang Materialwissenschaften an der Technischen Fakultät der Universität Kiel. Zu meinen aktuellen Forschungsinteressen zählen Ansätze zum intelligenten Korrosionsschutz durch Selbstheilungseffekte sowie die gezielte Freisetzung von Korrosionsinhibitoren, nanostrukturierte Schutzschichten und selbstauflösende metallische Biomaterialien. Um diese Ziele zu verwirklichen und die grundlegenden Mechanismen hinter Korrosionsvorgängen besser zu verstehen, nutze ich neben hochaufgelösten elektrochemischen, auch eine Vielzahl anderer spektroskopischer Techniken sowie multiskalige Computersimulationen. Darüber hinaus verwende ich Methoden des maschinellen Lernens, um die Auswirkung unbekannter Verbindungen vorherzusagen.

@@ -24,8 +24,8 @@ phone: +49 40 42878-2580
 organizations:
 - name: TUHH Institut für Kunststoffe und Verbundwerkstoffe
   url: "https://www.tuhh.de/kvweb"
-- name: Magnesium Innovation Centre - MagIC
-  url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology"
+- name: Hereon Institute of Surface Science
+  url: "https://www.hereon.de/institutes/surface_science/index.php.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Molekulardynamische Simulationen von Grenzflächen, Berechnung freier Energien biomolekularer und elektrochemischer Systeme, atomistische Betrachtung der Magnesiumkorrosion, Entwicklung datengetriebener Modelle zur Indentifikation von (umweltfreundlichen) Degradationsmodulatoren
@@ -76,11 +76,11 @@ email: "robert.meissner@tuhh.de"
 #   Set this to `[]` or comment out if you are not using People widget.
 
 user_groups:
-- Team am Helmholtz-Zentrum Geesthacht
+- Team am Helmholtz-Zentrum Hereon
 
 ---
 
-Im Oktober 2017 wurde ich als Juniorprofessor an die TUHH und Leiter der Forschungsgruppe für Molekulardynamiksimulationen berufen. Unsere Gruppe ist eng mit dem Institut für Kunststoffe und Verbundwerkstoffe verbunden, wo wir gemeinsam an Polymeren, nanopartikelverstärkten Kunststoffen und Superkondensatoren forschen. Gleichzeitig beschäftige ich mich mit atomistischen Betrachtungen von Magnesium-Korrosionsprozessen am Magnesium Innovation Centre -- MagIC des Helmholtz-Zentrums Geesthacht mittels Methoden des maschinellen Lernens und quantenchemischen Berechnungen auf der Basis von *ab initio*-Methoden. Meine Vorlesungen befassen sich mit grundlegenden quantenmechanischen Fragestellungen und deren Anwendung in der Dichtefunktionaltheorie. Desweiteren werden thermodynamische Aspekte der statistischen Physik behandelt und deren Auswirkungen in molekularen Simulationen. Außerdem halte ich Vorlesungen über grundlegende Eigenschaften von Polymeren und Verbundwerkstoffen.
+Im Oktober 2017 wurde ich als Juniorprofessor an die TUHH und Leiter der Forschungsgruppe für Molekulardynamiksimulationen berufen. Unsere Gruppe ist eng mit dem Institut für Kunststoffe und Verbundwerkstoffe verbunden, wo wir gemeinsam an Polymeren, nanopartikelverstärkten Kunststoffen und Superkondensatoren forschen. Gleichzeitig beschäftige ich mich mit atomistischen Betrachtungen von Magnesium-Korrosionsprozessen am Institute of Surface Science des Helmholtz-Zentrums Hereon mittels Methoden des maschinellen Lernens und quantenchemischen Berechnungen auf der Basis von *ab initio*-Methoden. Meine Vorlesungen befassen sich mit grundlegenden quantenmechanischen Fragestellungen und deren Anwendung in der Dichtefunktionaltheorie. Desweiteren werden thermodynamische Aspekte der statistischen Physik behandelt und deren Auswirkungen in molekularen Simulationen. Außerdem halte ich Vorlesungen über grundlegende Eigenschaften von Polymeren und Verbundwerkstoffen.
 
 Ich bin langjähriges Mitglied der Deutschen Physikalischen Gesellschaft (DPG) und stellvertretendes Mitglied für die TUHH im Topic Selection and Evaluation Committee der Helmholtz-Graduiertenschule für die Struktur der Materie (DASHH).
 

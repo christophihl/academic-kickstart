@@ -22,8 +22,8 @@ phone: +49 4152 87-2125
 
 # Organizations/Affiliations
 organizations:
-- name: HZG Magnesium Innovation Centre - MagIC
-  url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology/"
+- name: Hereon Institute of Surface Science
+  url: "https://www.hereon.de/institutes/surface_science/index.php.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Atomistische Simulation & Modellierung, Entwicklung von Quantitativen Struktur-Eigenschafts-Beziehungsmodellen 
@@ -37,7 +37,7 @@ interests:
 education:
   courses:
   - course: Postdoc
-    institution: Helmholtz-Zentrum Geesthacht
+    institution: Helmholtz-Zentrum Hereon
     year: 2017 - heute
   - course: Promotion (Chemie)
     institution: Universität Kiel
@@ -72,9 +72,9 @@ email: "christian.feiler@hzg.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team am Helmholtz-Zentrum Geesthacht
+- Team am Helmholtz-Zentrum Hereon
 ---
 
-Ich bin seit 2017 Postdoc am Magnesium Innovation Centre (MagIC) des Helmholtz-Zentrums Geesthacht und fühle mich der Technischen Universität Hamburg durch bestehende Kooperationsprojekte eng verbunden. Schon während meines Chemiestudiums habe ich damit begonnen mit Hilfe von quantenchemischen Methoden molekulare Maschinen zu entwickeln oder das letzte Puzzlestück für die Interpretation experimenteller Ergebnisse zu liefern. Darauf aufbauend konnte ich während meiner Promotion in vielen Teilprojekten des Sonderforschungsbereichs 677 „Funktion durch Schalten“ dabei mitwirken funktionelle Moleküle für verschiedenste Anwendungen von photoschaltbaren Kontrastmitteln bis hin zum gerichteten Transport auf Oberflächen zu entwickeln, ihre Funktionsweise zu verbessern und die grundlegenden Mechanismen ihrer Funktion besser zu verstehen. Seit zwei Jahren nutze ich atomistische Simulationen, um Inputparameter für künstliche neuronale Netzwerke zu erzeugen, die den Effekt ungetesteter Additive auf das Korrosionsverhalten von Leichtmetallen, insbesondere Magnesiumlegierungen, vorhersagen. 
+Ich bin seit 2017 Postdoc am Institute of Surface Science des Helmholtz-Zentrums Hereon und fühle mich der Technischen Universität Hamburg durch bestehende Kooperationsprojekte eng verbunden. Schon während meines Chemiestudiums habe ich damit begonnen mit Hilfe von quantenchemischen Methoden molekulare Maschinen zu entwickeln oder das letzte Puzzlestück für die Interpretation experimenteller Ergebnisse zu liefern. Darauf aufbauend konnte ich während meiner Promotion in vielen Teilprojekten des Sonderforschungsbereichs 677 „Funktion durch Schalten“ dabei mitwirken funktionelle Moleküle für verschiedenste Anwendungen von photoschaltbaren Kontrastmitteln bis hin zum gerichteten Transport auf Oberflächen zu entwickeln, ihre Funktionsweise zu verbessern und die grundlegenden Mechanismen ihrer Funktion besser zu verstehen. Seit zwei Jahren nutze ich atomistische Simulationen, um Inputparameter für künstliche neuronale Netzwerke zu erzeugen, die den Effekt ungetesteter Additive auf das Korrosionsverhalten von Leichtmetallen, insbesondere Magnesiumlegierungen, vorhersagen. 
 
 

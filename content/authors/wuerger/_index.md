@@ -22,8 +22,8 @@ phone: +49 40 42878-3412
 
 # Organizations/Affiliations
 organizations:
-- name: HZG Magnesium Innovation Centre - MagIC
-  url: "https://www.hzg.de/institutes_platforms/materials_research/magnesium_technology/"
+- name: Hereon Institute of Surface Science
+  url: "https://www.hereon.de/institutes/surface_science/index.php.de"
 - name: TUHH Institut für Kunststoffe und Verbundwerkstoffe
   url: "https://www.tuhh.de/kvweb"
 
@@ -40,7 +40,7 @@ interests:
 education:
   courses:
   - course: Wissenschaftlicher Mitarbeiter
-    institution: Helmholtz-Zentrum Geesthacht
+    institution: Helmholtz-Zentrum Hereon
     year: 2018 - heute
   - course: Doktorand
     institution: Technische Universität Hamburg
@@ -87,8 +87,8 @@ email: "tim.wuerger@tuhh.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team am Helmholtz-Zentrum Geesthacht
+- Team am Helmholtz-Zentrum Hereon
 ---
 
-Seit 2018 bin ich wissenschaftlicher Mitarbeiter am Magnesium Innovation Centre (MagIC) des Helmholtz-Zentrums Geesthacht und promoviere parallel an der Technischen Universität Hamburg. Durch meine Tätigkeiten als studentische Hilfskraft, forsche ich bereits seit 2014 aktiv im Bereich der atomistischen Materialmodellierung. Dabei motivierte mich vor allem mein Masterstudium im Fach Mediziningenieurwesen, diese Erfahrungen zu nutzen um in meiner Dissertation das Korrosionsverhalten von Magnesium zu untersuchen – einem Material was auch für selbstauflösende medizintechnische Implantate verwendet werden kann. Aufgrund einer Vielzahl von Einflussparametern nutze ich neben atomistischen Modellierungsmethoden auch maschinelles Lernen und datengetriebende Ansätze um das Degradationsverhalten von Magnesium tiefgehender zu verstehen. Ein Schwerpunkt liegt hier insbesondere auf der Untersuchung von Struktur-Eigenschaftsbeziehungen mithilfe von unüberwachtem Lernen.
+Seit 2018 bin ich wissenschaftlicher Mitarbeiter am Institute of Surface Science des Helmholtz-Zentrums Hereon und promoviere parallel an der Technischen Universität Hamburg. Durch meine Tätigkeiten als studentische Hilfskraft, forsche ich bereits seit 2014 aktiv im Bereich der atomistischen Materialmodellierung. Dabei motivierte mich vor allem mein Masterstudium im Fach Mediziningenieurwesen, diese Erfahrungen zu nutzen um in meiner Dissertation das Korrosionsverhalten von Magnesium zu untersuchen – einem Material was auch für selbstauflösende medizintechnische Implantate verwendet werden kann. Aufgrund einer Vielzahl von Einflussparametern nutze ich neben atomistischen Modellierungsmethoden auch maschinelles Lernen und datengetriebende Ansätze um das Degradationsverhalten von Magnesium tiefgehender zu verstehen. Ein Schwerpunkt liegt hier insbesondere auf der Untersuchung von Struktur-Eigenschaftsbeziehungen mithilfe von unüberwachtem Lernen.
 
