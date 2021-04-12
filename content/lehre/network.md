@@ -75,8 +75,10 @@ hero_media = ""
 | - | 24.05.21 | - | Holiday |
 | 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments |
 | 7 | 07.06.21 | Mijail&nbsp;Guillemard| Basics of Persistent Homology in Machine Learning |
-| 8 | 14.06.21 <br/> (Prof&nbsp;Date) | Nihat&nbsp;Ay <br/> Mirko&nbsp;Skiborowski | tba <br/> tba |
-| 9 | 21.06.21 <br/> (Prof&nbsp;Date) | Benedikt&nbsp;Kriegesmann <br/> Matthias&nbsp;Mnich | tba <br/> tba |
+| 8 | 14.06.21 | Nihat&nbsp;Ay | tba |
+|   | (Prof.&nbsp;Date) | Mirko&nbsp;Skiborowski | tba |
+| 9 | 21.06.21 | Benedikt&nbsp;Kriegesmann | tba |
+|   | (Prof.&nbsp;Date) | Matthias&nbsp;Mnich | tba |
 | 10 | 28.06.21 | Frederic&nbsp;Bock | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
 | 11 | 05.07.21 | Patrick&nbsp;Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
 | 12 | 12.07.21 | N/A | - |
@@ -105,10 +107,14 @@ The biological functions of macromolecular systems, such as peptides and protein
 7. {{< hl >}}Mijail Guillemard: Basics of Persistent Homology in Machine Learning{{< /hl >}} <br/>
 Persistent Homology is a recent development in applied algebraic topology that has been used in several machine learning strategies. In this talk, we present a short introduction to this topic with several applications in signal processing and data analysis.
 
-8. {{< hl >}}Prof Date: Nihat Ay, Mirko Skiborowski. {{< /hl >}} <br/>
+8. {{< hl >}}Prof. Date: Nihat Ay {{< /hl >}} <br/>
+tba <br/>
+{{< hl >}}Prof. Date: Mirko Skiborowski {{< /hl >}} <br/>
 tba
 
-9. {{< hl >}}Prof Date: Benedikt Kriegesmann, Matthias Mnich. {{< /hl >}} <br/>
+9. {{< hl >}}Prof. Date: Benedikt Kriegesmann {{< /hl >}} <br/>
+tba <br/>
+{{< hl >}}Prof. Date: Matthias Mnich {{< /hl >}} <br/>
 tba
 
 10. {{< hl >}}Frederic Bock: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach. {{< /hl >}} <br/>
