@@ -87,17 +87,17 @@ hero_media = ""
 
 <details class="description" close><summary data-close="Show" data-open="Hide"></summary>
 
-2. {{< hl >}}Hidde Lekanne Deprez: Enhancing simulation images with GANs.{{< /hl >}} <br/>
+2. {{< hl >}}Hidde Lekanne Deprez: Enhancing simulation images with GANs{{< /hl >}} <br/>
 In the Standard Platform League, certain types of annotations such as semantic segmentations, depth maps and object localization are difficult to obtain from real world recordings. The use of synthetic data could circumvent this problem as obtaining these annotations within a simulation is trivial. However, there is a catch, the reality gap makes algorithms trained on the synthetic images perform much worse in actual applications. Researchers can painstakingly implement more features to the simulation to close this gap. However, there are alternatives such as the neural networks presented here.
 The CycleGan and MUNIT architectures are able to make a domain translation, maintaining semantic information but changing the style, without any labels or matchings. This could mean that a translation between simulation and real images is possible as long as we have images of both domains. For my bachelor thesis I experimented with using these two neural networks to make this translation and my insights are presented in this talk. 
 
 3. {{< hl >}}N/A{{< /hl >}} <br/>
 
-4. {{< hl >}}{{% mention "stender" %}}: Physics-Informed Learning.{{< /hl >}} <br/>
+4. {{< hl >}}{{% mention "stender" %}}: Physics-Informed Learning{{< /hl >}} <br/>
 Machine Learning and Deep Learning have brought disruptive innovations to many fields since 2012. Today the application of those data-driven, and mostly black-box type models,  can be regarded state-of-the-art in many scientific disciplines. However, the question of knowledge conservation arises: how to bring prior knowledge from generations of research and experience into the modeling process? 
 This talk summarizes recent advances, lines of research and perspectives on “Physics-Informed Learning”, which is an umbrella term for blending first principles into evidence-based and data-driven models. Particular focus is put on engineering vibrations and spatio-temporal dynamics, e.g. water waves. 
 
-5. {{< hl >}}Daniel Höche: Towards predictive maintenance.{{< /hl >}} <br/>
+5. {{< hl >}}Daniel Höche: Towards predictive maintenance{{< /hl >}} <br/>
 Sustainable engineering requires reliable and plannable material behaviour in critical working environments like offshore. The extension of digital-twins towards virtual engineering assisted circular economy therefore needs computational models that enable the calculation of maintenance intervals or even the material condition at the end of its service life. 
 The talk outlines how the combination of AI tools, data based models and physics based models facilitate predictive maintenance for metallic engineering materials exposed to severe conditions in-service. Aspects related to uncertainty, data availability or validation will be discussed. 
 
@@ -107,20 +107,20 @@ The biological functions of macromolecular systems, such as peptides and protein
 7. {{< hl >}}Mijail Guillemard: Basics of Persistent Homology in Machine Learning{{< /hl >}} <br/>
 Persistent Homology is a recent development in applied algebraic topology that has been used in several machine learning strategies. In this talk, we present a short introduction to this topic with several applications in signal processing and data analysis.
 
-8. {{< hl >}}Prof. Date: Nihat Ay {{< /hl >}} <br/>
+8. {{< hl >}}Prof. Date: Nihat Ay{{< /hl >}} <br/>
 tba <br/>
-{{< hl >}}Prof. Date: Mirko Skiborowski {{< /hl >}} <br/>
+{{< hl >}}Prof. Date: Mirko Skiborowski{{< /hl >}} <br/>
 tba
 
-9. {{< hl >}}Prof. Date: Benedikt Kriegesmann {{< /hl >}} <br/>
+9. {{< hl >}}Prof. Date: Benedikt Kriegesmann{{< /hl >}} <br/>
 tba <br/>
-{{< hl >}}Prof. Date: Matthias Mnich {{< /hl >}} <br/>
+{{< hl >}}Prof. Date: Matthias Mnich{{< /hl >}} <br/>
 tba
 
-10. {{< hl >}}Frederic Bock: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach. {{< /hl >}} <br/>
+10. {{< hl >}}Frederic Bock: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach{{< /hl >}} <br/>
 N/A
 
-11. {{< hl >}}Patrick Göttsch: MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software {{< /hl >}} <br/>
+11. {{< hl >}}Patrick Göttsch: MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software{{< /hl >}} <br/>
 In this talk a MARL Simulation environment will be introduced to let heterogeneous groups of agents controlled by hand crafted control algorithms or by learned control policies flock for search and rescue missions or to move in a formation by avoiding obstacles. This environment allows simulations of agents constrained by non-ideal communication.
 
 12. {{< hl >}}N/A{{< /hl >}} <br/>
