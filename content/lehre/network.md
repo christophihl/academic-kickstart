@@ -71,7 +71,7 @@ hero_media = ""
 | 3 | 26.04.21 | N/A | - |
 | 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning |
 | - | 10.05.21 | - | Holiday |
-| 5 | 17.05.21 | Daniel Höhe | Towards predictive maintenance |
+| 5 | 17.05.21 | Daniel Höche | Towards predictive maintenance |
 | - | 24.05.21 | - | Holiday |
 | 6 | 31.05.21 | Amir Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments |
 | 7 | 07.06.21 | Mijail Guillemard| Basics of Persistent Homology in Machine Learning |
@@ -95,7 +95,7 @@ The CycleGan and MUNIT architectures are able to make a domain translation, main
 Machine Learning and Deep Learning have brought disruptive innovations to many fields since 2012. Today the application of those data-driven, and mostly black-box type models,  can be regarded state-of-the-art in many scientific disciplines. However, the question of knowledge conservation arises: how to bring prior knowledge from generations of research and experience into the modeling process? 
 This talk summarizes recent advances, lines of research and perspectives on “Physics-Informed Learning”, which is an umbrella term for blending first principles into evidence-based and data-driven models. Particular focus is put on engineering vibrations and spatio-temporal dynamics, e.g. water waves. 
 
-5. {{< hl >}}Daniel Höhe: Towards predictive maintenance.{{< /hl >}} <br/>
+5. {{< hl >}}Daniel Höche: Towards predictive maintenance.{{< /hl >}} <br/>
 Sustainable engineering requires reliable and plannable material behaviour in critical working environments like offshore. The extension of digital-twins towards virtual engineering assisted circular economy therefore needs computational models that enable the calculation of maintenance intervals or even the material condition at the end of its service life. 
 The talk outlines how the combination of AI tools, data based models and physics based models facilitate predictive maintenance for metallic engineering materials exposed to severe conditions in-service. Aspects related to uncertainty, data availability or validation will be discussed. 
 
