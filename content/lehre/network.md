@@ -67,18 +67,18 @@ hero_media = ""
 | # | Datum | Vortragende/r | Thema |
 | --- | ---  | --- | --- |
 | 1 | 12.04.21 | - | - |
-| 2 | 19.04.21 | Hidde Lekanne Deprez | Enhancing simulation images with GANs |
+| 2 | 19.04.21 | Hidde&nbsp;Lekanne&nbsp;Deprez | Enhancing simulation images with GANs |
 | 3 | 26.04.21 | N/A | - |
 | 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning |
 | - | 10.05.21 | - | Holiday |
-| 5 | 17.05.21 | Daniel Höche | Towards predictive maintenance |
+| 5 | 17.05.21 | Daniel&nbsp;Höche | Towards predictive maintenance |
 | - | 24.05.21 | - | Holiday |
-| 6 | 31.05.21 | Amir Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments |
-| 7 | 07.06.21 | Mijail Guillemard| Basics of Persistent Homology in Machine Learning |
-| 8 | 14.06.21 <br/> (Prof Date) | Nihat Ay, Mirko Skiborowski | tba |
-| 9 | 21.06.21 <br/> (Prof Date) | Benedikt Kriegesmann, Matthias Mnich | tba |
-| 10 | 28.06.21 | Frederic Bock | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
-| 11 | 05.07.21 | Patrick Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
+| 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments |
+| 7 | 07.06.21 | Mijail&nbsp;Guillemard| Basics of Persistent Homology in Machine Learning |
+| 8 | 14.06.21 <br/> (Prof&nbsp;Date) | Nihat&nbsp;Ay <br/> Mirko&nbsp;Skiborowski | tba <br/> tba |
+| 9 | 21.06.21 <br/> (Prof&nbsp;Date) | Benedikt&nbsp;Kriegesmann <br/> Matthias&nbsp;Mnich | tba <br/> tba |
+| 10 | 28.06.21 | Frederic&nbsp;Bock | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
+| 11 | 05.07.21 | Patrick&nbsp;Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
 | 12 | 12.07.21 | N/A | - |
 
 ### Abstracts:
