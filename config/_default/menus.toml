@@ -126,7 +126,7 @@
 [[main]]
   name = "MLE-Days"
   url = "https://www.mle-days.hamburg"
-  identifier = "transfer"
+  parent = "transfer"
   weight = 1
   
 [[main]]

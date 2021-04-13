@@ -16,6 +16,22 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "MLE-Days"
+  content = "Konferenz zu ML-Forschung und Engineering-Anwendung."
+  align = "left"
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "platinen_blue.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_caption = "&copy; TUHH, Martin Kunze"
+
+  cta_label = "Save the date."
+  cta_url = "https://www.mle-days.hamburg"
+  cta_icon_pack = "fas"
+  cta_icon = "users"
+
+
+[[item]]
   title = "Team"
   content = "Unsere Kompetenzen und Ansprechpartner."
   align = "left"  # Choose `center`, `left`, or `right`.
@@ -35,6 +51,7 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "users"
 
+
 [[item]]
   title = "Forschung"
   content = "Unsere Arbeit in Projekten und Publikationen."
@@ -50,20 +67,6 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "search"
 
-[[item]]
-  title = "MLE-Days"
-  content = "Konferenz zu ML-Forschung und Engineering-Anwendung."
-  align = "left"
-
-  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "platinen_blue.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-  overlay_caption = "&copy; TUHH, Martin Kunze"
-
-  cta_label = "Save the date."
-  cta_url = "https://www.mle-days.hamburg"
-  cta_icon_pack = "fas"
-  cta_icon = "users"
 
 [[item]]
   title = "Praxistransfer"
