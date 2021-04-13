@@ -65,7 +65,11 @@
   parent = "research"
   weight = 3
 
-
+[[main]]
+  name = "ML-Kompetenzen"
+  url = "https://vigorous-sammet-c5c09e.netlify.app/"
+  parent = "research"
+  weight = 4
 
 
 [[main]]
@@ -107,10 +111,7 @@
 
 
 
-# [[main]]
-#   name = "MLE-Days"
-#   url = "conference/"
-#   weight = 50
+
 
 
 
@@ -121,36 +122,42 @@
   url = "transfer/"
   identifier = "transfer"
   weight = 60
+
+[[main]]
+  name = "MLE-Days"
+  url = "https://www.mle-days.hamburg"
+  identifier = "transfer"
+  weight = 1
   
 [[main]]
   name = "Angebote"
   url = "transfer/"
   parent = "transfer"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "Network & Exchange"
   url = "network_and_exchange/"
   parent = "transfer"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Training & Executive Education"
   url = "training_and_executive_education/"
   parent = "transfer"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "Consulting & Transformation"
   url = "consulting_and_tranformation/"
   parent = "transfer"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Customized Project Development"
   url = "customized_project_development/"
   parent = "transfer"
-  weight = 5
+  weight = 6
 
 
 

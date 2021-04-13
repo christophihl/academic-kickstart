@@ -61,7 +61,7 @@ height = ""
   overlay_caption = "&copy; TUHH, Martin Kunze"
 
   cta_label = "Save the date."
-  cta_url = "/conference/"
+  cta_url = "https://www.mle-days.hamburg"
   cta_icon_pack = "fas"
   cta_icon = "users"
 
