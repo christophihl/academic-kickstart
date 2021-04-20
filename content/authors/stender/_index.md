@@ -13,7 +13,7 @@ weight: 197
 superuser: false
 
 # Role/position
-role: Doktorand
+role: Postdoc
 
 # Room
 room: Schlossmühlendamm 30, 2.OG
