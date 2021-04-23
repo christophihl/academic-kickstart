@@ -79,7 +79,7 @@ hero_media = ""
 |   | (Prof.&nbsp;Date) | Mirko&nbsp;Skiborowski | tba |
 | 9 | 21.06.21 | Benedikt&nbsp;Kriegesmann | tba |
 |   | (Prof.&nbsp;Date) | Matthias&nbsp;Mnich | tba |
-| 10 | 28.06.21 | Frederic&nbsp;Bock | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
+| 10 | 28.06.21 | {{% mention "bock" %}} | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
 | 11 | 05.07.21 | Patrick&nbsp;Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
 | 12 | 12.07.21 | N/A | - |
 
@@ -117,7 +117,7 @@ tba <br/>
 {{< hl >}}Prof. Date: Matthias Mnich{{< /hl >}} <br/>
 tba
 
-10. {{< hl >}}Frederic Bock: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach{{< /hl >}} <br/>
+10. {{< hl >}}{{% mention "bock" %}}: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach{{< /hl >}} <br/>
 N/A
 
 11. {{< hl >}}Patrick Göttsch: MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software{{< /hl >}} <br/>
