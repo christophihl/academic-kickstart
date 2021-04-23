@@ -6,7 +6,7 @@ name: Benjamin Boll
 authors:
 - boll
 
-weight: 21
+weight: 22
 
 # Is this the primary user of the site?
 superuser: false
