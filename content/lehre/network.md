@@ -69,12 +69,12 @@ hero_media = ""
 | 1 | 12.04.21 | - | - |
 | 2 | 19.04.21 | Hidde&nbsp;Lekanne&nbsp;Deprez | Enhancing simulation images with GANs |
 | 3 | 26.04.21 | N/A | - |
-| 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning |
+| 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning [(Zoom)](https://tuhh.zoom.us/j/85800601422?pwd=RCt4U2FQdTE1WlVrcndvMWcrbm5pZz09) |
 | - | 10.05.21 | - | Holiday |
-| 5 | 17.05.21 | Daniel&nbsp;Höche | Towards predictive maintenance |
+| 5 | 17.05.21 | Daniel&nbsp;Höche | Towards predictive maintenance [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
 | - | 24.05.21 | - | Holiday |
-| 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments |
-| 7 | 07.06.21 | Mijail&nbsp;Guillemard| Basics of Persistent Homology in Machine Learning |
+| 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
+| 7 | 07.06.21 | Mijail&nbsp;Guillemard| Basics of Persistent Homology in Machine Learning [(Zoom)](https://tuhh.zoom.us/j/98032176135?pwd=YUpBSEp3MHJWQmZzUE0zaGFOekUvdz09) |
 | 8 | 14.06.21 | Nihat&nbsp;Ay | tba |
 |   | (Prof.&nbsp;Date) | Mirko&nbsp;Skiborowski | tba |
 | 9 | 21.06.21 | Benedikt&nbsp;Kriegesmann | tba |
