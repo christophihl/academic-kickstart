@@ -71,14 +71,14 @@ hero_media = ""
 | 3 | 26.04.21 | N/A | - |
 | 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning [(Zoom)](https://tuhh.zoom.us/j/85800601422?pwd=RCt4U2FQdTE1WlVrcndvMWcrbm5pZz09) |
 | - | 10.05.21 | - | Holiday |
-| 5 | 17.05.21 | Daniel&nbsp;Höche | Towards predictive maintenance [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
+| 5 | 17.05.21 | {{% mention "hoeche" %}} | Towards predictive maintenance [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
 | - | 24.05.21 | - | Holiday |
 | 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
 | 7 | 07.06.21 | Mijail&nbsp;Guillemard| Basics of Persistent Homology in Machine Learning [(Zoom)](https://tuhh.zoom.us/j/98032176135?pwd=YUpBSEp3MHJWQmZzUE0zaGFOekUvdz09) |
 | 8 | 14.06.21 | Nihat&nbsp;Ay | Information Geometry for Deep Learning |
 |   | (Prof.&nbsp;Date) | Mirko&nbsp;Skiborowski | tba |
-| 9 | 21.06.21 | Benedikt&nbsp;Kriegesmann | Efficient uncertainty quantification using surrogate models: application to fiber composite structures |
-|   | (Prof.&nbsp;Date) | Matthias&nbsp;Mnich | Reinforcement Learning for Integer Programming |
+| 9 | 21.06.21 | {{% mention "kriegesmann" %}} | Efficient uncertainty quantification using surrogate models: application to fiber composite structures |
+|   | (Prof.&nbsp;Date) | {{% mention "mnich" %}} | Reinforcement Learning for Integer Programming |
 | 10 | 28.06.21 | {{% mention "bock" %}} | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
 | 11 | 05.07.21 | Patrick&nbsp;Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
 | 12 | 12.07.21 | N/A | - |
@@ -97,7 +97,7 @@ The CycleGan and MUNIT architectures are able to make a domain translation, main
 Machine Learning and Deep Learning have brought disruptive innovations to many fields since 2012. Today the application of those data-driven, and mostly black-box type models,  can be regarded state-of-the-art in many scientific disciplines. However, the question of knowledge conservation arises: how to bring prior knowledge from generations of research and experience into the modeling process? 
 This talk summarizes recent advances, lines of research and perspectives on “Physics-Informed Learning”, which is an umbrella term for blending first principles into evidence-based and data-driven models. Particular focus is put on engineering vibrations and spatio-temporal dynamics, e.g. water waves. 
 
-5. {{< hl >}}Daniel Höche: Towards predictive maintenance{{< /hl >}} <br/>
+5. {{< hl >}}{{% mention "hoeche" %}}: Towards predictive maintenance{{< /hl >}} <br/>
 Sustainable engineering requires reliable and plannable material behaviour in critical working environments like offshore. The extension of digital-twins towards virtual engineering assisted circular economy therefore needs computational models that enable the calculation of maintenance intervals or even the material condition at the end of its service life. 
 The talk outlines how the combination of AI tools, data based models and physics based models facilitate predictive maintenance for metallic engineering materials exposed to severe conditions in-service. Aspects related to uncertainty, data availability or validation will be discussed. 
 
@@ -113,11 +113,11 @@ In the first part of my presentation I will highlight the importance of the geom
 {{< hl >}}Prof. Date: Mirko Skiborowski{{< /hl >}} <br/>
 tba
 
-9. {{< hl >}}Prof. Date: Benedikt Kriegesmann: Efficient uncertainty quantification using surrogate models: application to fiber composite structures{{< /hl >}} <br/>
+9. {{< hl >}}Prof. Date: {{% mention "kriegesmann" %}}: Efficient uncertainty quantification using surrogate models: application to fiber composite structures{{< /hl >}} <br/>
 Uncertainty quantification in engineering sciences takes into account the uncertainties that may exist and affect a certain physical system in an a priori unknown manner. If the input parameters of a system or model are subject to stochastic scatter, then also the output parameters (i.e. objective values) scatter randomly. The stochastic distribution of an objective value can be determined with uncertainty quantification methods such as Monte Carlo simulations. This requires a multitude of evaluations of the underlying model (up to 103, 106). Hence, this approach is infeasible for computationally demanding models. For such applications, surrogate models, like artificial neural networks, Kriging and polynomial chaos expansions, can be first trained with a small amount of model evaluations and then used as a proxy instead of the expensive model. <br/>
 In the current talk, this procedure is demonstrated by the example of fiber composite structures. Here, the random objective functions are the strength and the stiffness of a component. Random input parameters are (amongst others) material properties, geometric deviations and manufacturing defects. Some random input parameters can only be modelled on a smaller scale than the whole component. Therefore, surrogate-boosted Monte Carlo simulations are performed on different scales and the results in each case are propagated to the higher scale. Strength however can hardly be approximated with standard surrogate models. Here, hierarchical surrogate models are used, which link models of different fidelity, to still allow for an efficient and accurate prediction of the stochastic distribution of strength properties. <br/>
 <br/>
-{{< hl >}}Prof. Date: Matthias Mnich: Reinforcement Learning for Integer Programming{{< /hl >}} <br/>
+{{< hl >}}Prof. Date: {{% mention "mnich" %}}: Reinforcement Learning for Integer Programming{{< /hl >}} <br/>
 The integer programming problem is one of the most fundamental problems in combinatorial optimization, where one seeks an optimal solution among a finite, but usually extremely large set of discrete alternatives. Integer programs are ubiquitous in engineering and industrial applications, as they can model a large variety of highly complex tasks by means of discrete variables which are tight together through constraints. Powerful commercial solvers exists, which can solve large-scale instances with thousands of variables generally quite fast, but there are still several important integer programming models which cannot be solved at all. Theoretical and design and analysis of integer programming algorithms usually fails to explain both the successes, and the failures, of industrial solvers, as worst-case run times of those algorithms are often super-exponential in the number of variables. We discuss novel approaches based on methods of reinforcement learning to attack some of the most prominent integer programming models for which classical methods suffer from expensive time and memory usage, talking about their advantages and limitations.
 
 10. {{< hl >}}{{% mention "bock" %}}: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach{{< /hl >}} <br/>
