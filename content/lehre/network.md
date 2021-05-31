@@ -69,12 +69,12 @@ hero_media = ""
 | 1 | 12.04.21 | - | - |
 | 2 | 19.04.21 | Hidde&nbsp;Lekanne&nbsp;Deprez | Enhancing simulation images with GANs |
 | 3 | 26.04.21 | N/A | - |
-| 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning [(Zoom)](https://tuhh.zoom.us/j/85800601422?pwd=RCt4U2FQdTE1WlVrcndvMWcrbm5pZz09) |
+| 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/3368465b1d894ff0815ef450fd0027061d) |
 | - | 10.05.21 | - | Holiday |
-| 5 | 17.05.21 | {{% mention "hoeche" %}} | Towards predictive maintenance [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
+| 5 | 17.05.21 | {{% mention "hoeche" %}} | Towards predictive maintenance [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/f9a4fdc1ca9043bba1d831414264f26c1d) |
 | - | 24.05.21 | - | Holiday |
-| 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments [(Zoom)](https://tuhh.zoom.us/j/93080364767?pwd=ZG5BYTBtdG1keE1LckcvaHJmVWVYdz09) |
-| 7 | 07.06.21 | Mijail&nbsp;Guillemard| Basics of Persistent Homology in Machine Learning [(Zoom)](https://tuhh.zoom.us/j/98032176135?pwd=YUpBSEp3MHJWQmZzUE0zaGFOekUvdz09) |
+| 6 | 31.05.21 | Amir&nbsp;Kotobi | Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/ef2f74fff5f847e78d11b208346ad0ba1d) |
+| 7 | 07.06.21 | - | (canceled) |
 | 8 | 14.06.21 | Nihat&nbsp;Ay | Information Geometry for Deep Learning |
 |   | (Prof.&nbsp;Date) | Mirko&nbsp;Skiborowski | Automatic model development for the prediction of solvent flux and solute rejection in organic solvent nanofiltration |
 | 9 | 21.06.21 | {{% mention "kriegesmann" %}} | Efficient uncertainty quantification using surrogate models: application to fiber composite structures |
