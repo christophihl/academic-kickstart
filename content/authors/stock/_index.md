@@ -6,7 +6,7 @@ name: Simon Stock
 authors:
 - Stock
 
-weight: 198
+weight: 199
 
 # Is this the primary user of the site?
 superuser: false

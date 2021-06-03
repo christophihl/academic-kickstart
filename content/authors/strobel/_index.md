@@ -6,7 +6,7 @@ name: Christina Strobel
 authors:
 - strobel
 
-weight: 200
+weight: 201
 
 # Is this the primary user of the site?
 superuser: false

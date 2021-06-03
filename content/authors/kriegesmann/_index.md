@@ -6,7 +6,7 @@ name: Benedikt Kriegesmann
 authors:
 - kriegesmann
 
-weight: 116
+weight: 115
 
 # Is this the primary user of the site?
 superuser: false

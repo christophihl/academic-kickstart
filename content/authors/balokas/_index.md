@@ -6,7 +6,7 @@ name: Georgios Balokas
 authors:
 - balokas
 
-weight: 18
+weight: 17
 
 # Is this the primary user of the site?
 superuser: false

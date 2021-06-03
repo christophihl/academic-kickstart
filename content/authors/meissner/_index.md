@@ -6,7 +6,7 @@ name: Robert Meißner
 authors:
 - meissner
 
-weight: 122
+weight: 124
 
 # Is this the primary user of the site?
 superuser: false

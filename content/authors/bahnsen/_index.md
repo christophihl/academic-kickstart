@@ -6,7 +6,7 @@ name: Fin Hendrik Bahnsen
 authors:
 - bahnsen
 
-weight: 17
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false

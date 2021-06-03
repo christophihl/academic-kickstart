@@ -6,7 +6,7 @@ name: Sebastian Lindner
 authors:
 - lindner_s
 
-weight: 119
+weight: 120
 
 # Is this the primary user of the site?
 superuser: false

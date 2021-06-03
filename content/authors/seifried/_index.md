@@ -6,7 +6,7 @@ name: Robert Seifried
 authors:
 - seifried
 
-weight: 194
+weight: 195
 
 # Is this the primary user of the site?
 superuser: false

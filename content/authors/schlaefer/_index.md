@@ -6,7 +6,7 @@ name: Alexander Schlaefer
 authors:
 - schlaefer
 
-weight: 188
+weight: 186
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ name: Daniel Stolpmann
 authors:
 - stolpmann
 
-weight: 199
+weight: 200
 
 # Is this the primary user of the site?
 superuser: false

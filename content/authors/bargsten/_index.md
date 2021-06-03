@@ -6,7 +6,7 @@ name: Lennart Bargsten
 authors:
 - bargsten
 
-weight: 19
+weight: 18
 
 # Is this the primary user of the site?
 superuser: false
