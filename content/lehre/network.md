@@ -60,9 +60,6 @@ hero_media = ""
 - Die Vorträge finden aktuell im Sommersemester 2021 online montags ab 17:00 und je nach Ankündigung (siehe Vortragstitel) in deutscher oder englischer Sprache statt.
 
 ### Inhalte und Vortragende im aktuellen Semester:
-[Vergangene Semester](/_archive/lehre/#network_ws20)
-
-
 
 | # | Datum | Vortragende/r | Thema |
 | --- | ---  | --- | --- |
@@ -83,7 +80,7 @@ hero_media = ""
 | 11 | 05.07.21 | Patrick&nbsp;Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
 | 12 | 12.07.21 | N/A | - |
 
-### Abstracts:
+#### Abstracts:
 
 <details class="description" close><summary data-close="Show" data-open="Hide"></summary>
 
@@ -130,4 +127,6 @@ In this talk a MARL Simulation environment will be introduced to let heterogeneo
 
 </details>
 
-
+### Vergangene Semester:
+ * [Wintersemester 2020/21](/_archive/network/#wise20_21)
+ * [Sommersemester 2020](/_archive/network/#sose20)
