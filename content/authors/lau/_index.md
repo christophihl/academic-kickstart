@@ -12,13 +12,19 @@ weight: 116
 superuser: false
 
 # Role/position
-role: Professor
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
 - name: DLR-Lufttransportsysteme
   url: "https://www.dlr.de/lk"
 
+# Short bio (displayed in user profile at end of posts)
+bio: Operations Research und Maschinelles Lernen in komplexen Verkehrssystemen, Verkehrsflusssteuerung und Kapazitätsmanagement in der Luftfahrt
+
+interests:
+- Operations Research und Maschinelles Lernen in komplexen Verkehrssystemen
+- Verkehrsflusssteuerung und Kapazitätsmanagement in der Luftfahrt
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
