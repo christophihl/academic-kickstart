@@ -25,6 +25,27 @@ organizations:
 - name: TUHH Institut für Eingebettete Systeme
   url: "https://www.tuhh.de/es"
 
+# Short bio (displayed in user profile at end of posts)
+bio: Anomaly Detection, Design Exploration, Self-Healing Systems, Formal Verification, Computational Physics
+
+interests:
+- Anomaly Detection
+- Design Exploration
+- Self-Healing Systems
+- Formal Verification
+- Computational Physics
+
+education:
+  courses:
+  - course: Wissenschaftlicher Mitarbeiter
+    institution: Technische Universität Hamburg (TUHH)
+    year: 2017 - heute
+  - course: Master of Computer Engineering
+    institution: Politecnico di Torino
+    year: 2017
+  - course: Bachelor of Computer Engineering
+    institution: Politecnico di Torino
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,6 +55,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:gianluca.martino@tuhh.de"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gianlucamartino
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7838-3844
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
