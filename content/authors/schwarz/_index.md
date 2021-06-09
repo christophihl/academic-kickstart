@@ -44,7 +44,7 @@ education:
     year: 2018
   - course: Internships & student work in management consulting and the automotive industry
     institution: Fraunhofer IPT & ILT, Audi, Horváth
-    year: 2011-2018
+    year: 2011 - 2018
   - course: Exchange student at the School of Business and Economics
     institution: Maastricht University, Netherlands
     year: 2016
