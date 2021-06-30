@@ -77,8 +77,8 @@ hero_media = ""
 | 9 | 21.06.21 | {{% mention "kriegesmann" %}} | Efficient uncertainty quantification using surrogate models: application to fiber composite structures |
 |   | (Prof.&nbsp;Date) | {{% mention "mnich" %}} | Reinforcement Learning for Integer Programming |
 | 10 | 28.06.21 | {{% mention "bock" %}} | Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach |
-| 11 | 05.07.21 | Patrick&nbsp;Göttsch | MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software |
-| 12 | 12.07.21 | N/A | - |
+| 11 | 05.07.21 | - | (canceled) |
+| 12 | 12.07.21 | Falko&nbsp;Kähler | Anomalie-Detektion zur Defekterkennung während der Oberflächeninspektion von Luftfahrtkomponenten |
 
 #### Abstracts:
 
@@ -101,9 +101,6 @@ The talk outlines how the combination of AI tools, data based models and physics
 6. {{< hl >}}Amir Kotobi: Dynamic structure investigation of biomolecules with pattern recognition algorithms and X-ray experiments{{< /hl >}} <br/>
 The biological functions of macromolecular systems, such as peptides and proteins, are largely defined by their spatial and electronic structures and thus it is of great importance to have high resolution view over these structures. Dynamic structure investigation of biomolecules with advanced molecular dynamic simulations and machine learning approaches on the basis of free energy calculations can give valuable opportunity in analysing the trajectories.
 
-7. {{< hl >}}Mijail Guillemard: Basics of Persistent Homology in Machine Learning{{< /hl >}} <br/>
-Persistent Homology is a recent development in applied algebraic topology that has been used in several machine learning strategies. In this talk, we present a short introduction to this topic with several applications in signal processing and data analysis.
-
 8. {{< hl >}}Prof. Date: Nihat Ay: Information Geometry for Deep Learning{{< /hl >}} <br/>
 In the first part of my presentation I will highlight the importance of the geometric perspective when dealing with learning systems. Information geometry offers a general framework for the identification of natural geometric structures for learning. The impact of this approach has been demonstrated in terms of the natural gradient method, one of the most prominent information-geometric methods within the field of machine learning. It was proposed by Amari in 1998 and uses the Fisher-Rao metric as a Riemannian metric for the definition of a gradient within optimisation tasks. Since then it proved to be extremely efficient in the context of neural networks, reinforcement learning, and robotics. However, training deep neural networks with this method remains a difficult task. I will present recent results that allow us to greatly simplify the natural gradient for deep learning. I will conclude my talk with an outline of further applications and extensions of information geometry that are particularly important for mathematical data science. <br/>
 <br/>
@@ -119,11 +116,6 @@ The integer programming problem is one of the most fundamental problems in combi
 
 10. {{< hl >}}{{% mention "bock" %}}: Data-driven Machine Learning Corrections of Physics-Based Analytical Model Predictions towards High-Fidelity Simulation Solutions – a Hybrid Modelling Approach{{< /hl >}} <br/>
 N/A
-
-11. {{< hl >}}Patrick Göttsch: MARL Simulation – Multi-Agent Reinforcement Learning Simulation Software{{< /hl >}} <br/>
-In this talk a MARL Simulation environment will be introduced to let heterogeneous groups of agents controlled by hand crafted control algorithms or by learned control policies flock for search and rescue missions or to move in a formation by avoiding obstacles. This environment allows simulations of agents constrained by non-ideal communication.
-
-12. {{< hl >}}N/A{{< /hl >}} <br/>
 
 </details>
 
