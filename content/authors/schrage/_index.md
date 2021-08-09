@@ -30,9 +30,10 @@ bio: Machnine / deep learning w.r.t. natural language processing, causal inferen
 
 
 interests:
-- Machine learning & strategic management
-- Machine learning & competitive advantages
-- Machine learning & ethics
+- Machine Learning & Strategic Management
+- Machine Learning & Supply Chain Management
+- Machine Learning & Competitive Advantages
+- Machine Learning & Ethics
 
 
 education:
