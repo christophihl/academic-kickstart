@@ -57,9 +57,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:daniel.stolpmann@tuhh.de"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=gmkamgcAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Daniel_Stolpmann
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9852-9962
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dstolpmann
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
