@@ -6,7 +6,7 @@ name: Manuel Derra
 authors:
 - derra
 
-weight: 25
+weight: 26
 
 # Is this the primary user of the site?
 superuser: false
