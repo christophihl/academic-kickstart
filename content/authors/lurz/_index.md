@@ -6,7 +6,7 @@ name: Fabian Lurz
 authors:
 - lurz
 
-weight: 122
+weight: 123
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ name: Sebastian Lodemann
 authors:
 - lodemann
 
-weight: 121
+weight: 122
 
 # Is this the primary user of the site?
 superuser: false
