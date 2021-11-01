@@ -6,7 +6,7 @@ authors:
 - schiessler
 - Roland Aydin
 - Kevin Linka
-- Christian Cyron
+- cyron
 date: 2021-08-30T00:00:00+01:00
 doi: "10.1016/j.neunet.2021.08.034"
 
