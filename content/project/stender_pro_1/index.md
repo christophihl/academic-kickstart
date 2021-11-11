@@ -13,7 +13,7 @@ date: "2021-11-09T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Emission von Bremsgeräuschen als Folge eines Lastkollektivs und abbildung der multivariaten Zusammenhänge per tiefen rekurrenten neuronalen Netzwerken."
+  caption: "Emission von Bremsgeräuschen als Folge eines Lastkollektivs und Abbildung der multivariaten Zusammenhänge per tiefen rekurrenten neuronalen Netzwerken."
   focal_point:
 
 links:
