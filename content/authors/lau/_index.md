@@ -12,7 +12,7 @@ weight: 116
 superuser: false
 
 # Role/position
-role: PostDoc
+role: Gruppenleiter
 
 # Organizations/Affiliations
 organizations:
