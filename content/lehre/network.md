@@ -50,13 +50,13 @@ hero_media = ""
 +++
 
 ### Ziel:
-- Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der TUHH sowie allgemein in der Region Hamburg und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sowie in deren Umfeld sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden. Im aktuellen Wintersemester 2021 werden vor allem Workshops zu ML Themen von Lehrenden der TUHH Angeboten.
+- Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der TUHH sowie allgemein in der Region Hamburg und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sowie in deren Umfeld sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden. Im aktuellen Wintersemester 2021/22 werden vor allem Workshops zu ML Themen von Lehrenden der TUHH Angeboten.
 
 ### Ansprechpartner: 
 - Organisatoren sind Axel Friedewald, Patrick Göttsch, Mijail Guillemard, Haibo Ruan, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
 
 ### Ort und Zeit:
-- Die Workshops/Vorträge finden aktuell im Wintersemester 2021 online Montag nachmittags (Startzeit je nach Ankündigung zwischen 15 und 17 Uhr) in deutscher Sprache statt.
+- Die Workshops/Vorträge finden aktuell im Wintersemester 2021/22 online Montag nachmittags (Startzeit je nach Ankündigung zwischen 15 und 17 Uhr) in deutscher Sprache statt.
 
 ### Inhalte und Vortragende im aktuellen Semester:
 
