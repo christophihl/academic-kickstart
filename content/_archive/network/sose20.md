@@ -73,7 +73,7 @@ hero_media = ""
 | 14 | 27.07.20 | {{% mention "jahn" %}} | ML-unterstützte Problembeschreibungen in digitalen Assistenzsystemen |
 
 
-### Abstracts:
+#### Abstracts:
 
 <details class="description" close><summary data-close="Show" data-open="Hide"></summary>
 
