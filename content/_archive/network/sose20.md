@@ -60,16 +60,16 @@ hero_media = ""
 | 2 | 27.04.20 | {{% mention "dostal" %}} | Advances in the development of car simulation models for vibration load prediction using Machine Learning [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/df17d927c5a8405a8bc53349d70577f11d)|
 | 3 | 04.05.20 | {{% mention "grossert" %}} | A Hybrid Approach for Modeling of Multibody Systems with Nonlinear Force Elements |
 | 4 | 11.05.20 | {{% mention "schoepflin" %}} | Bilddatengenerierung als Trainingsdatensatz für eine KI-Objektidentifikation in der Intralogistik [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/b94a47b0850c448fbab1097928bbaf1c1d)|
-| 5 | 18.05.20 <br/> (Prof Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> {{% mention "meissner" %}} | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
-| 6 | 25.05.20 | Kai Sellschopp, {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/269456c1ead74566916bbbe2f23196071d )|
+| 5 | 18.05.20 <br/> (Prof&nbsp;Date) | {{% mention "knopp" %}} <br/> {{% mention "fey" %}} <br/> {{% mention "meissner" %}} | Deep Learning for the Classification of Diseases in Chest X-Ray <br/> Artificial Neural Networks and Faults <br/> An automatic, data-driven definition of atomic-scale structural motifs |
+| 6 | 25.05.20 | Kai&nbsp;Sellschopp & <br/> {{% mention "wuerger" %}}| Exploration of structure - property relationships with unsupervised ML [(Video)](http://webcast.tu-harburg.de/Mediasite/Play/269456c1ead74566916bbbe2f23196071d )|
 | - | 01.06.20 | - | Pfingsten Holiday |
-| 7 | 08.06.20 | {{% mention "kellner" %}}, {{% mention "stender" %}} | Explainable AI and its application to ice mechanics |
+| 7 | 08.06.20 | {{% mention "kellner" %}} & <br/> {{% mention "stender" %}} | Explainable AI and its application to ice mechanics |
 | 8 | 15.06.20 | {{% mention "bahnsen" %}}| Emulation von neuronalen Netzen unter Hardwarefehlern |
-| 9 | 22.06.20 <br/> (Prof Date) | {{% mention "schlaefer" %}} <br/> Christian Cyron <br/> Carlos Jahn | Machine Learning for Spatio-Temporal Signal Processing <br/> Maschinelles Lernen in der Materialmodellierung <br/> ML in der maritimen Logistik - Anwendungen aus Schifffahrt und Hafen |
+| 9 | 22.06.20 <br/> (Prof&nbsp;Date) | {{% mention "schlaefer" %}} <br/> Christian&nbsp;Cyron <br/> Carlos&nbsp;Jahn | Machine Learning for Spatio-Temporal Signal Processing <br/> Maschinelles Lernen in der Materialmodellierung <br/> ML in der maritimen Logistik - Anwendungen aus Schifffahrt und Hafen |
 | 10 | 29.06.20 | {{% mention "schierholz" %}} | Application of Artificial Neural Networks for Power Integrity Evaluation |
 | 11 | 06.07.20 | {{% mention "lindner_s" %}} | Predictive medium access techniques for wireless networks |
-| 12 | 13.07.20 | {{% mention "stark" %}} | End-to-end learning in Wireless Communications |
-| 13 | 20.07.20 | Rüdiger Schmitz | tbd |
+| 12 | 13.07.20 | Maximilian&nbsp;Stark | End-to-end learning in Wireless Communications |
+| 13 | 20.07.20 | Rüdiger&nbsp;Schmitz | tbd |
 | 14 | 27.07.20 | {{% mention "jahn" %}} | ML-unterstützte Problembeschreibungen in digitalen Assistenzsystemen |
 
 

@@ -62,14 +62,14 @@ hero_media = ""
 
 | # | Datum | Vortragende/r | Thema |
 | --- | ---  | --- | --- |
-| 1 | 29.11.21 | {{% mention "becker" %}} & {{% mention "babazadeh" %}} | Einsatz von KI für die Betriebsführung elektrischer Netze |
-| 2 | 06.12.21 | {{% mention "meissner" %}} & {{% mention "boll" %}} | Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks |
+| 1 | 29.11.21 | {{% mention "becker" %}} & <br/> {{% mention "babazadeh" %}} | Einsatz von KI für die Betriebsführung elektrischer Netze |
+| 2 | 06.12.21 | {{% mention "meissner" %}} & <br/> {{% mention "boll" %}} | Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks |
 | 3 | 13.12.21 | {{% mention "kriegesmann" %}} | Effiziente Quantifizierung von Unsicherheiten (Monte-Carlo-Simulationen) mittels Ersatzmodellen |
 | - | 20.12.21 | - | Holiday |
 | - | 27.12.21 | - | Holiday |
-| 4 | 03.01.22 | {{% mention "schuster" %}} & {{% mention "schierholz" %}} | Einsatz und Chancen von Methoden des Maschinellen Lernens in der Elektromagnetischen Verträglichkeit |
+| 4 | 03.01.22 | {{% mention "schuster" %}} & <br/> {{% mention "schierholz" %}} | Einsatz und Chancen von Methoden des Maschinellen Lernens in der Elektromagnetischen Verträglichkeit |
 | 5 | 10.01.22 | {{% mention "schulte" %}} | Einführung in Support Vector Machines |
-| 6 | 17.01.22 | Mijail Guillemard | Grundlagen zur persistenten Homologie im maschinellen Lernen |
+| 6 | 17.01.22 | Mijail&nbsp;Guillemard | Grundlagen zur persistenten Homologie im maschinellen Lernen |
 | 7 | 24.01.22 | {{% mention "venzke" %}} | Implementation von Neuronalen Netzen auf ressourcenbeschränkten Mikrocontrollern für den Einsatz in der Sensorik |
 
 #### Abstracts:
