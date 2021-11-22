@@ -26,7 +26,7 @@ organizations:
   url: "https://www.tuhh.de/kvweb/institut/einfuehrung.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Maschinelles Lernen im Structural Health Monitoring, Vibro - Acustic Modulation, Predictive Maintenance, Composite Materials
+bio: Maschinelles Lernen, Structural Health Monitoring, Vibro - Acustic Modulation, Predictive Maintenance, Composite Materials
 
 interests:
 - Structural Health Monitoring
@@ -77,6 +77,6 @@ user_groups:
 - Team an der Technischen Universität Hamburg
 ---
 
-Bereits während des Studiums entwickelte ich ein Interesse an den Methoden des maschinellen Lernens und versuchte das Wissen in die Materialentwicklung zu integrieren. So entwickelte ich in meiner Abschlussarbeit ein Neuronales Netz, welches die thermische Degradation von Kunststoffen anhand von FTIR Messungen klassifizieren und die resultierenden mechanischen Eigenschaften als Regression bestimmen kann. 
+Während meines Maschinenbau-Studiums wurde ich auf die Möglichkeiten von Machine- und Deep-Learning aufmerksam, habe die Grundlagen erarbeitet und versucht das Wissen in die Materialentwicklung zu integrieren. So konnte ich in meiner Abschlussarbeit die thermische Degradation von Kunststoffen anhand von FTIR Messungen quantifizieren und die resultierenden mechanischen Eigenschaften als Regression bestimmen. Dies war durch die Anwendung von Deep-Learning Methoden auf Infrarot-Spektroskopie Messungen sehr genau möglich.
 
-Für die Analyse von komplexen Bauteilen forsche ich nun im Rahmen meiner Promotion an der Auswertung von Schwingungsdaten mit maschinellem Lernen in dem Projekt "I3VAM Vibro-akustische Modulation". Hier soll durch die Auswertung von modulierten  Schwingungen die Schadensentwicklung im Bauteil prognostiziert werden.
+Für die Schadensanalyse von komplexen Bauteilen forsche ich nun im Rahmen meiner Promotion an der Auswertung von Schwingungsdaten mit maschinellem Lernen in dem Projekt "I3VAM Vibro-akustische Modulation". Hier soll durch die Auswertung von modulierten Schwingungen die Schadensentwicklung im Bauteil prognostiziert werden. Erste Erfolge hierbei konnten bereits erzielt werden, für die Überprüfung von Klebeverbindungen. So kann durch die Auswertung der Vibro-Akustischen Modulation, mit einer hohen Sicherheit, das Auftreten von sogenannten "Weak-Bonds" detektiert werden.
