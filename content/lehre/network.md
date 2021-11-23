@@ -50,7 +50,7 @@ hero_media = ""
 +++
 
 ### Ziel:
-- Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der TUHH sowie allgemein in der Region Hamburg und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sowie in deren Umfeld sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden. Im aktuellen Wintersemester 2021/22 werden vor allem Workshops zu ML Themen von Lehrenden der TUHH Angeboten.
+- Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der TUHH sowie allgemein in der Region Hamburg und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sowie in deren Umfeld sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden. Im aktuellen Wintersemester 2021/22 werden vor allem Workshops zu ML Themen von Lehrenden der TUHH angeboten.
 
 ### Ansprechpartner: 
 - Organisatoren sind Axel Friedewald, Patrick Göttsch, Mijail Guillemard, Haibo Ruan, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
@@ -60,17 +60,17 @@ hero_media = ""
 
 ### Inhalte und Vortragende im aktuellen Semester:
 
-| # | Datum | Vortragende/r | Thema |
-| --- | ---  | --- | --- |
-| 1 | 29.11.21 | {{% mention "becker" %}} & <br/> {{% mention "babazadeh" %}} | Einsatz von KI für die Betriebsführung elektrischer Netze |
-| 2 | 06.12.21 | {{% mention "meissner" %}} & <br/> {{% mention "boll" %}} | Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks |
-| 3 | 13.12.21 | {{% mention "kriegesmann" %}} | Effiziente Quantifizierung von Unsicherheiten (Monte-Carlo-Simulationen) mittels Ersatzmodellen |
-| - | 20.12.21 | - | Holiday |
-| - | 27.12.21 | - | Holiday |
-| 4 | 03.01.22 | {{% mention "schuster" %}} & <br/> {{% mention "schierholz" %}} | Einsatz und Chancen von Methoden des Maschinellen Lernens in der Elektromagnetischen Verträglichkeit |
-| 5 | 10.01.22 | {{% mention "schulte" %}} | Einführung in Support Vector Machines |
-| 6 | 17.01.22 | Mijail&nbsp;Guillemard | Grundlagen zur persistenten Homologie im maschinellen Lernen |
-| 7 | 24.01.22 | {{% mention "venzke" %}} | Implementation von Neuronalen Netzen auf ressourcenbeschränkten Mikrocontrollern für den Einsatz in der Sensorik |
+| # | Datum | Zeit | Vortragende/r | Thema |
+| --- | --- | --- | --- | --- |
+| 1 | 29.11.21 | 16:30&nbsp;-&nbsp;17:45 | {{% mention "becker" %}} & <br/> {{% mention "babazadeh" %}} | Einsatz von KI für die Betriebsführung elektrischer Netze |
+| 2 | 06.12.21 | 15:00&nbsp;-&nbsp;18:00 | {{% mention "meissner" %}} & <br/> {{% mention "boll" %}} | Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks |
+| 3 | 13.12.21 | 15:00&nbsp;-&nbsp;16:00 | {{% mention "kriegesmann" %}} | Effiziente Quantifizierung von Unsicherheiten (Monte-Carlo-Simulationen) mittels Ersatzmodellen |
+| - | 20.12.21 | - | - | Holiday |
+| - | 27.12.21 | - | - | Holiday |
+| 4 | 03.01.22 | 17:00&nbsp;-&nbsp;18:30 | {{% mention "schuster" %}} & <br/> {{% mention "schierholz" %}} | Einsatz und Chancen von Methoden des Maschinellen Lernens in der Elektromagnetischen Verträglichkeit |
+| 5 | 10.01.22 | 15:30&nbsp;-&nbsp;17:00 | {{% mention "schulte" %}} | Einführung in Support Vector Machines |
+| 6 | 17.01.22 | 16:00&nbsp;-&nbsp;17:00 | Mijail&nbsp;Guillemard | Grundlagen zur persistenten Homologie im maschinellen Lernen |
+| 7 | 24.01.22 | 15:30&nbsp;-&nbsp;18:15 | {{% mention "venzke" %}} | Implementation von Neuronalen Netzen auf ressourcenbeschränkten Mikrocontrollern für den Einsatz in der Sensorik |
 
 #### Abstracts:
 
@@ -81,7 +81,7 @@ Durch die Energiewende entwickelt sich die Betriebsführung von elektrischen Net
 
 2. {{< hl >}}{{% mention "meissner" %}} & {{% mention "boll" %}}: Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks.{{< /hl >}} <br/>
 Ziel dieses Workshops ist ein Einblick in die Klassifikation handgeschriebener Zahlen mit Hilfe des Maschinellen Lernens zu gewähren. Nach einer kleinen Einführung in die Grundlagen über einfache neuronale Netze für diese Anwendung, Jupyter-Notebooks als Arbeitsumgebung für Python, und Keras für die Entwicklung der ANNs, wird der Workflow für eine Zeichenerkennung bearbeitet. Schlussendlich werden die trainierten Netze für die Detektion und Erkennung von handgeschriebenen Texten auf Bildern angewendet.
-Für die Teilnahme an diesem Workshop sind Grundkenntnisse in Python von Vorteil und eine lokale Python-Installation von Anaconda3 wird vorausgesetzt.
+Für die Teilnahme an diesem Workshop sind Grundkenntnisse in Python von Vorteil und eine lokale Python-Installation von Anaconda3 wird vorausgesetzt. Eine Anleitung zur Installation findet sich [hier](https://cloud.tuhh.de/index.php/s/kXofwjoBtkLmW2c).
 
 3. {{< hl >}}{{% mention "kriegesmann" %}}: Effiziente Quantifizierung von Unsicherheiten (Monte-Carlo-Simulationen) mittels Ersatzmodellen.{{< /hl >}} <br/>
 In vielen Ingenieuranwendungen liegen mathematische Modelle und Simulationstools vor, um für vorgegebene Eingangsgrößen relevante Zielgrößen zu ermitteln. Beispielsweise in der Strukturmechanik sind die vorgegebenen Eingangsgrößen die Geometrie und Material­parameter einer Struktur, sowie die einwirkenden Lasten. Typische Zielgrößen sind die Verformung der Struktur und die maximal auftretenden Spannungen, aus denen sich das Bauteilversagen ergibt. Tatsächlich sind die Eingangsgrößen i.d.R. nicht genau bekannt, sondern unterliegen einer stochastischen Streuung. Dementsprechend unterliegen auch die Zielgrößen einer Streuung, die sich mit probabilistischen Methoden (a.k.a. Uncertainty Quantification) bestimmen lässt. Ein weit verbreitetes, probabilistisches Verfahren ist die Monte-Carlo-Methode. Dieses sehr robuste Verfahren ist einfach zu implementieren, jedoch auch sehr rechenintensiv. Die Grundidee ist, dass die Werte der Eingangsgrößen entsprechend ihrer stochastischen Verteilung erzeugt und in das Simulationsmodell eingesetzt werden. Dies geschieht so oft, bis die Verteilung der Zielfunktion ausreichend genau bestimmt ist (z.B. bis Mittelwert und Standard­abweichung der Zielfunktion konvergieren). Das beutet, dass das Simulationsmodell sehr oft (Größenordnung 103 bis 106) ausgewertet werden muss, was bei komplexen, sehr rechenintensiven Simulationsmodellen zum Problem wird. Hier kommen Methoden des Maschinellen Lernens zum Einsatz um effiziente Ersatzmodelle (a.k.a. Surrogate Model, Meta Model) zu erzeugen. Diese Ersatzmodelle (z.B. neuronale Netze) werden zunächst trainiert und dann anstelle des eigentlichen Simulationsmodells deutlich schneller ausgewertet. Im Workshop, zeigen wir Anhand strukturmechanischer Beispiele, wie die Streuung einer Zielgröße mittels Monte-Carlo-Simulation unter Verwendung von Ersatzmodellen bestimmt werden kann.
