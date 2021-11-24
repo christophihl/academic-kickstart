@@ -37,10 +37,10 @@ interests:
 education:
   courses:
   - course: Scientific Staff
-    institution: Technische Universität Hamburg (TUHH)
+    institution: Technische Universität Hamburg (TUHH), Deutschland
     year: 2021 - heute
   - course: Project Research Assistant
-    institution: Technische Universität Graz
+    institution: Technische Universität Graz, Österreich
     year: 2021
   - course: RF/Microwave Engineer
     institution:
