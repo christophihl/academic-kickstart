@@ -6,7 +6,7 @@ name: Meike Schröder
 authors:
 - schroeder
 
-weight: 188
+weight: 189
 
 # Is this the primary user of the site?
 superuser: false

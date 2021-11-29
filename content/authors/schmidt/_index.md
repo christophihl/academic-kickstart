@@ -6,7 +6,7 @@ name: Jens M. Schmidt
 authors:
 - schmidt
 
-weight: 187
+weight: 186
 
 # Is this the primary user of the site?
 superuser: false

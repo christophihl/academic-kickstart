@@ -6,7 +6,7 @@ name: Daniel Schoepflin
 authors:
 - schoepflin
 
-weight: 189
+weight: 187
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ name: Matthias Schulte
 authors:
 - schulte
 
-weight: 191
+weight: 190
 
 # Is this the primary user of the site?
 superuser: false
