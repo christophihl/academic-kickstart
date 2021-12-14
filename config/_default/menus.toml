@@ -38,6 +38,11 @@
   parent = "team"
   weight = 3
 
+[[main]]
+  name = "Affiliates"
+  url = "team/#affiliates"
+  parent = "team"
+  weight = 4
 
 
 
