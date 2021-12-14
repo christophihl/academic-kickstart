@@ -6,7 +6,7 @@ name: Frederic E. Bock
 authors:
 - bock
 
-weight: 22
+weight: 23
 
 # Is this the primary user of the site?
 superuser: false
