@@ -6,7 +6,7 @@ name: Daniel Höche
 authors:
 - hoeche
 
-weight: 78
+weight: 79
 
 # Is this the primary user of the site?
 superuser: false
