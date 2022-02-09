@@ -6,7 +6,7 @@ name: Koojana Kuladinithi
 authors:
 - kuladinithi
 
-weight: 115
+weight: 114
 
 # Is this the primary user of the site?
 superuser: false

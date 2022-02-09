@@ -6,7 +6,7 @@ name: Marco Klein
 authors:
 - klein
 
-weight: 111
+weight: 110
 
 # Is this the primary user of the site?
 superuser: false

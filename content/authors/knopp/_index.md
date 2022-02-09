@@ -6,7 +6,7 @@ name: Tobias Knopp
 authors:
 - knopp
 
-weight: 112
+weight: 111
 
 # Is this the primary user of the site?
 superuser: false

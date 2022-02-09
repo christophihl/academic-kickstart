@@ -6,7 +6,7 @@ name: Marvin Kastner
 author:
 - kastner
 
-weight: 108
+weight: 107
 
 # Is this the primary user of the site?
 superuser: false
