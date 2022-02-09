@@ -26,13 +26,13 @@ organizations:
   url: "https://www3.tuhh.de/e-exk3"
 
 # Short bio (displayed in user profile at end of posts)
-bio: HWSW-Architekturen, Low-Power Processing, Energy-Neutral Sensing, Zuverlässigleit und Fehlertoleranz in eingebetteten Systemen, Sensor Networks
+bio: HWSW-Architekturen, Low-Power Processing, Energy-Neutral Sensing, Zuverlässigkeit und Fehlertoleranz in eingebetteten Systemen, Sensor Networks
 
 interests:
 - Sensoren, Sensornetze, IoT
 - UPL Processing auf MCUs + FPGAs
-- Integreirte Signalverarbeitung, Embedded AI
-- Zuverlässigkeit, Fehlertoleranz und integrierte Fehlerdiagnose auf ressourcenbeschrönkten Systemen
+- Integrierte Signalverarbeitung, Embedded AI
+- Zuverlässigkeit, Fehlertoleranz und integrierte Fehlerdiagnose auf ressourcenbeschränkten Systemen
 
 education:
   courses:
@@ -42,23 +42,23 @@ education:
   - course: Head of Pre-Development
     institution: DSI Aerospace Technologie GmbH, Bremen
     year: 2019 - heute
-  - course: Vertreungsprofessor Technische Informatik
+  - course: Vertretungsprofessor Technische Informatik
     institution: Technische Universität Braunschweig
     year: 2018 - 2019
   - course: PostDoc
     institution: Institut für Betriebssysteme und Rechnerverbund, Technische Universität Braunschweig
     year: 2016 - 2018
-  - course: Promotion (Dr.-ing.)
+  - course: Promotion (Dr.-Ing.)
     institution: Technische Universität Braunschweig
     year: 2016
   - course: Wissenschaftlicher Mitarbeiter
     institution: Institut für Betriebssysteme und Rechnerverbund, Technische Universität Braunschweig
     year: 2012 - 2016
   - course: Masterstudium Informatik
-    institution: Technsiche Universität Braunschweig
+    institution: Technische Universität Braunschweig
     year: 2010 - 2012
   - course: Bachelorstudium Informationssystemtechnik
-    institution: Technsiche Universität Braunschweig
+    institution: Technische Universität Braunschweig
     year: 2007 - 2010
 
 # Social/Academic Networking
