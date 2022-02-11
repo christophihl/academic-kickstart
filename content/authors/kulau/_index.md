@@ -30,7 +30,7 @@ bio: HWSW-Architekturen, Low-Power Processing, Energy-Neutral Sensing, Zuverläs
 
 interests:
 - Sensoren, Sensornetze, IoT
-- UPL Processing auf MCUs + FPGAs
+- ULP Processing auf MCUs + FPGAs
 - Integrierte Signalverarbeitung, Embedded AI
 - Zuverlässigkeit, Fehlertoleranz und integrierte Fehlerdiagnose auf ressourcenbeschränkten Systemen
 
@@ -38,7 +38,7 @@ education:
   courses:
   - course: Juniorprofessor Smart Sensors
     institution: Technische Universität Hamburg (TUHH)
-    year: 2020 - heute
+    year: 2021 - heute
   - course: Head of Pre-Development
     institution: DSI Aerospace Technologie GmbH, Bremen
     year: 2019 - heute
@@ -91,6 +91,6 @@ user_groups:
 - Team an der Technischen Universität Hamburg
 ---
 
-Seit 2022 bin ich Juniorprofessor an der Technischen Universität Hamburg und baue derzeit das Institut für Smart Sensors auf. Meine Forschung adressiert innovative Architekturen (Hardware und Software) für sensornahe Datenverarbeitung (’Sensing & Computing’), um in Verbindung mit Energieeffizienzmechanismen einen Beitrag für ’Smart Sensor’ Technologien zu liefern, welche sich zusätzlich durch hohe Zuverlässigkeit und Fehlertoleranz auszeichnen. Maschinelles Lernen, oder speziell die eingebettete KI (Embedded AI) bieten im Bereich der Smart Sensors großes Potential für eine effiziente Datenverarbeitung direkt auf dem Sensor. Ich bin ein großer Fan von spannenden Anwendungen und lege auch viel Wert darauf, dass die theoretischen Konzepte auch praktisch validiert werden. Ich halte Vorlesungen über Energieeffizienz in eingebetteten Systemen und Smart Sensors.
+Seit 2021 bin ich Juniorprofessor an der Technischen Universität Hamburg und baue derzeit das Institut für Smart Sensors auf. Meine Forschung adressiert innovative Architekturen (Hardware und Software) für sensornahe Datenverarbeitung (’Sensing & Computing’), um in Verbindung mit Energieeffizienzmechanismen einen Beitrag für ’Smart Sensor’ Technologien zu liefern, welche sich zusätzlich durch hohe Zuverlässigkeit und Fehlertoleranz auszeichnen. Maschinelles Lernen, oder speziell die eingebettete KI (Embedded AI) bieten im Bereich der Smart Sensors großes Potential für eine effiziente Datenverarbeitung direkt auf dem Sensor. Ich bin ein großer Fan von spannenden Anwendungen und lege auch viel Wert darauf, dass die theoretischen Konzepte auch praktisch validiert werden. Ich halte Vorlesungen über Energieeffizienz in eingebetteten Systemen und Smart Sensors.
 
 Neben meiner Tätigkeit an der TUHH leite ich die Vorentwicklung bei der DSI Aerospace Technologie GmbH, mit zahlreichen Projekten im Bereich der Weltraumelektronik. Als Jungwissenschaftler versuche ich mich derzeit in verschiedenen Gremien und Organisationen zu engagieren und zu vernetzen.
