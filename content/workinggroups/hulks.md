@@ -50,7 +50,6 @@ hero_media = ""
 +++
 
 
-### HULKs:
 We are a team of students from the Hamburg University of Technology. Since the foundation of our team in the year 2013, we are participating anually in the Standard Platform League of the RoboCup competition. The RoboCup is an international initiative with the goal of advancing research in humanoid robotics and artificial intelligence. Our team consists mostly of students who work on this project in their free time. Furthermore, we are one of the few teams that developed their entire framework from scratch.
 
 ### RoHOW:
@@ -67,10 +66,6 @@ Here you find more information on [RoHOW](https://rohow.de).
 
 
 ### Weitere Informationen auf der Webseite der Hulks:
-
 * [Treffen Sie das HULK Team](https://hulks.de/team/team2020.html)
-
 * [Publikationen](https://hulks.de/publications/)
-
 * [Mitglied werden!](https://hulks.de/meet/)
-
