@@ -19,6 +19,11 @@ subtitle = ""
   url = "https://www.aric-hamburg.de"
 
 [[affiliation]]
+  name = "AI.STARTUP.HUB"
+  image = "img/affiliations/aistartuphub.png"
+  url = "https://www.aistartuphub.com/"
+
+[[affiliation]]
   name = "AI for Hamburg GmbH"
   image = "img/affiliations/aihamburg.png"
   url = "https://ai.hamburg/"
