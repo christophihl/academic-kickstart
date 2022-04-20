@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "AG Hybrid PB/ML"
+title = "AG Physics-based Machine Learning"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -50,7 +50,7 @@ hero_media = ""
 +++
 
 ### Ziel:
-Das Ziel der AG Hybrid PB/ML (physics-based modelling/machine learning) ist der fachliche Austausch rund um Physik- und Daten-basierte Modelle sowie deren Verbindung zur Beantwortung physikalischer/technischer Fragestellungen. Die Aktivitäten reichen von der Diskussion konkreter Probleme, über das Erarbeiten von Lösungsvorschlägen bis hin zur Vorstellung von mathematischen Grundlagen, Tools, und Implementierungstechniken.
+Das Ziel der AG Physics-based Machine Learning ist der fachliche Austausch rund um Physik- und Daten-basierte Modelle sowie deren Verbindung zur Beantwortung physikalischer/technischer Fragestellungen. Die Aktivitäten reichen von der Diskussion konkreter Probleme, über das Erarbeiten von Lösungsvorschlägen bis hin zur Vorstellung von mathematischen Grundlagen, Tools, und Implementierungstechniken.
 
 Zugleich wollen wir anhand von use cases Kriterien entwickeln, um eine Entscheidungshilfe für die optimale Verbindung von physikalischer und datenbasierter Modellierung bereitzustellen.
 
