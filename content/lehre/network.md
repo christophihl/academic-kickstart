@@ -50,57 +50,63 @@ hero_media = ""
 +++
 
 ### Ziel:
-- Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der TUHH sowie allgemein in der Region Hamburg und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sowie in deren Umfeld sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden. Im aktuellen Wintersemester 2021/22 werden vor allem Workshops zu ML Themen von Lehrenden der TUHH angeboten.
+Die Vortragsreihe "Train your engineering network" zu vielfältigen Themen des Machine Learnings wendet sich in erster Linie an die wissenschaftlichen Mitarbeiter*innen der TUHH sowie allgemein in der Region Hamburg und zielt darauf ab, den Informationsaustausch zwischen diesen Personen sowie deren Vernetzung in lockerer Atmosphäre zu fördern. Dadurch sollen die Machine-Learning-Aktivitäten innerhalb der TUHH sowie in deren Umfeld sichtbarer gemacht, Kooperationen gefördert und auch interessierten Studierenden ein Einblick ermöglicht werden.
 
 ### Ansprechpartner: 
-- Organisatoren sind Axel Friedewald, Patrick Göttsch, Mijail Guillemard, Haibo Ruan, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
+Organisatoren sind Mijail Guillemard, {{% mention "vonbun_feldbauer" %}}, {{% mention "zemke" %}}.
 
 ### Ort und Zeit:
-- Die Workshops/Vorträge finden aktuell im Wintersemester 2021/22 online Montag nachmittags (Startzeit je nach Ankündigung zwischen 15 und 17 Uhr) in deutscher Sprache statt.
+Die Vorträge finden aktuell im Sommersemester 2022 online montags ab 16:00 und je nach Ankündigung (siehe Vortragstitel) in deutscher oder englischer Sprache statt.
 
 ### Inhalte und Vortragende im aktuellen Semester:
 
 | # | Datum | Zeit | Vortragende/r | Thema |
 | --- | --- | --- | --- | --- |
-| 1 | 29.11.21 | 16:30&nbsp;-&nbsp;17:45 | {{% mention "becker" %}} & <br/> {{% mention "babazadeh" %}} | Einsatz von KI für die Betriebsführung elektrischer Netze |
-| 2 | 06.12.21 | 15:00&nbsp;-&nbsp;18:00 | {{% mention "meissner" %}} & <br/> {{% mention "boll" %}} | Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks |
-| 3 | 13.12.21 | 15:00&nbsp;-&nbsp;16:00 | {{% mention "kriegesmann" %}} | Effiziente Quantifizierung von Unsicherheiten (Monte-Carlo-Simulationen) mittels Ersatzmodellen |
-| - | 20.12.21 | - | - | Holiday |
-| - | 27.12.21 | - | - | Holiday |
-| 4 | 03.01.22 | 17:00&nbsp;-&nbsp;18:30 | {{% mention "schuster" %}} & <br/> {{% mention "schierholz" %}} | Einsatz und Chancen von Methoden des Maschinellen Lernens in der Elektromagnetischen Verträglichkeit |
-| 5 | 10.01.22 | 15:30&nbsp;-&nbsp;17:00 | {{% mention "schulte" %}} | Einführung in Support Vector Machines |
-| 6 | 17.01.22 | 16:00&nbsp;-&nbsp;17:00 | Mijail&nbsp;Guillemard | Grundlagen zur persistenten Homologie im maschinellen Lernen |
-| 7 | 24.01.22 | 15:30&nbsp;-&nbsp;18:15 | {{% mention "venzke" %}} | Implementation von Neuronalen Netzen auf ressourcenbeschränkten Mikrocontrollern für den Einsatz in der Sensorik |
+| 1 | 25.04.22 | 16:00&nbsp;-&nbsp;17:00 | Florian&nbsp;Schneider | Transformer Models for Cross-Modal Text-Image Retrieval |
+| 2 | 02.05.22 | 16:00&nbsp;-&nbsp;17:00 | Lina&nbsp;Fesefeldt | Second Order Information in Neural Network Training |
+| 3 | 09.05.22 | - | - | - |
+| 4 | 16.05.22 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "stolpmann" %}} | Distributed Reinforcement Learning on a High Performance Cluster Using Ray |
+| - | 23.05.22 | - | - | Holiday |
+| 5 | 30.05.22 | - | - | - |
+| - | 06.06.22 | - | - | Holiday |
+| 6 | 13.06.22 | - | - | - |
+| 7 | 20.06.22 | 16:00&nbsp;-&nbsp;17:00 | Mijail&nbsp;Guillemard | Tangential bundles, curvature and persistent homology for material defect detection |
+| 8 | 27.06.22 | 16:00&nbsp;-&nbsp;17:00 | N.N. | N.N. |
+| 9 | 04.07.22 | 16:00&nbsp;-&nbsp;17:00 | Trishita&nbsp;Banerjee | Machine Learning in Security |
+| 10 | 11.07.22 | 16:00&nbsp;-&nbsp;17:00 | Denys&nbsp;Romanenko | Holistic process monitoring with machine learning classification methods using internal machine sensors for semi-automatic drilling |
 
 #### Abstracts:
 
 <details class="description" close><summary data-close="Show" data-open="Hide"></summary>
 
-1. {{< hl >}}{{% mention "becker" %}} & {{% mention "babazadeh" %}}: Einsatz von KI für die Betriebsführung elektrischer Netze.{{< /hl >}} <br/>
-Durch die Energiewende entwickelt sich die Betriebsführung von elektrischen Netzen zu einer immer komplexeren Aufgabe, woraus sich neue Anforderungen an die Systeme zur Netzüberwachung und Netzregelung ergeben. Im Rahmen dieses Workshops werden verschiedene Anwendungsfälle aus dem Bereich der Betriebsführung von elektrischen Netzen betrachtet, für die der Einsatz von KI möglich ist. Hierbei werden sowohl die einzelnen Anwendungen in den Grundzügen erläutert, als auch die erwarteten Vorteile durch den Einsatz der verschiedenen KI-Verfahren. Zu den behandelten Themen gehören unter anderem die Modellierung und Vorhersage von Lasten im Netz, die Fehlerdetektion und Diagnose, die Zustandsschätzung sowie die Stabilitätserfassung und -beeinflussung.
+1. {{< hl >}}Florian Schneider: Transformer Models for Cross-Modal Text-Image Retrieval.{{< /hl >}} <br/>
+When the Transformer architecture was first introduced, its target research domain was Natural Language Processing, where the famous BERT model pushed the boundaries in several downstream tasks. Motivated by these breakthroughs, other research fields like Computer Vision started to leverage Transformers with great success.
+In state-of-the-art cross-modal text-image retrieval, where images are searched via textual queries, the acquired knowledge from both fields is combined to significantly improve the quality of retrieved images. Further, employing Transformer models enables computing not only global text-image similarity but also fine-granular word-region alignments, which allows in-image search, useful for many real world applications.
 
-2. {{< hl >}}{{% mention "meissner" %}} & {{% mention "boll" %}}: Klassifikation handgeschriebener Zahlen mit Hilfe eines mehrschichtigen neuronalen Perceptron (MLP)-Netzes und Jupyter-Notebooks.{{< /hl >}} <br/>
-Ziel dieses Workshops ist ein Einblick in die Klassifikation handgeschriebener Zahlen mit Hilfe des Maschinellen Lernens zu gewähren. Nach einer kleinen Einführung in die Grundlagen über einfache neuronale Netze für diese Anwendung, Jupyter-Notebooks als Arbeitsumgebung für Python, und Keras für die Entwicklung der ANNs, wird der Workflow für eine Zeichenerkennung bearbeitet. Schlussendlich werden die trainierten Netze für die Detektion und Erkennung von handgeschriebenen Texten auf Bildern angewendet.
-Für die Teilnahme an diesem Workshop sind Grundkenntnisse in Python von Vorteil und eine lokale Python-Installation von Anaconda3 wird vorausgesetzt. Eine Anleitung zur Installation findet sich [hier](https://cloud.tuhh.de/index.php/s/tXrRkPo6FCd5TLT).
+2. {{< hl >}}Lina Fesefeldt: Second Order Information in Neural Network Training.{{< /hl >}} <br/>
+When choosing an optimizer for your neural network, you will probably consider methods that are based only on first order derivatives, like Stochastic Gradient Descent or Adam. But recent research suggests that second order optimizers are also applicable for neural network training. This is possible via implicit Hessian-vector products.
+This talk tackles the problem of minimizing your cost function from a mathematical point of view. While talking about the use of second order optimizers in neural network training, we will stumble across some interesting properties of neural networks and their cost functions.
 
-3. {{< hl >}}{{% mention "kriegesmann" %}}: Effiziente Quantifizierung von Unsicherheiten (Monte-Carlo-Simulationen) mittels Ersatzmodellen.{{< /hl >}} <br/>
-In vielen Ingenieuranwendungen liegen mathematische Modelle und Simulationstools vor, um für vorgegebene Eingangsgrößen relevante Zielgrößen zu ermitteln. Beispielsweise in der Strukturmechanik sind die vorgegebenen Eingangsgrößen die Geometrie und Material­parameter einer Struktur, sowie die einwirkenden Lasten. Typische Zielgrößen sind die Verformung der Struktur und die maximal auftretenden Spannungen, aus denen sich das Bauteilversagen ergibt. Tatsächlich sind die Eingangsgrößen i.d.R. nicht genau bekannt, sondern unterliegen einer stochastischen Streuung. Dementsprechend unterliegen auch die Zielgrößen einer Streuung, die sich mit probabilistischen Methoden (a.k.a. Uncertainty Quantification) bestimmen lässt. Ein weit verbreitetes, probabilistisches Verfahren ist die Monte-Carlo-Methode. Dieses sehr robuste Verfahren ist einfach zu implementieren, jedoch auch sehr rechenintensiv. Die Grundidee ist, dass die Werte der Eingangsgrößen entsprechend ihrer stochastischen Verteilung erzeugt und in das Simulationsmodell eingesetzt werden. Dies geschieht so oft, bis die Verteilung der Zielfunktion ausreichend genau bestimmt ist (z.B. bis Mittelwert und Standard­abweichung der Zielfunktion konvergieren). Das beutet, dass das Simulationsmodell sehr oft (Größenordnung 103 bis 106) ausgewertet werden muss, was bei komplexen, sehr rechenintensiven Simulationsmodellen zum Problem wird. Hier kommen Methoden des Maschinellen Lernens zum Einsatz um effiziente Ersatzmodelle (a.k.a. Surrogate Model, Meta Model) zu erzeugen. Diese Ersatzmodelle (z.B. neuronale Netze) werden zunächst trainiert und dann anstelle des eigentlichen Simulationsmodells deutlich schneller ausgewertet. Im Workshop, zeigen wir Anhand strukturmechanischer Beispiele, wie die Streuung einer Zielgröße mittels Monte-Carlo-Simulation unter Verwendung von Ersatzmodellen bestimmt werden kann.
+4. {{< hl >}}{{% mention "stolpmann" %}}: Distributed Reinforcement Learning on a High Performance Cluster Using Ray.{{< /hl >}} <br/>
+Ray is a Python framework for developing distributed applications. While not limited to it, it has a strong focus on Machine Learning and supports it with a variety of included libraries. For example, Ray RLlib provides implementations of many common Reinforcement Learning algorithms, which reduces development time and allows the user to quickly compare different approaches to best solve the problem at hand. As Reinforcement Learning algorithms can be very sensitive to the choice of hyperparameters, Ray Tune can be used to tune them via optimization-based methods. While this typically requires a large number of simulation runs, Ray can speed up the process by running them in parallel on multiple processors or machines.
+This talk gives an introduction to Ray, its libraries and how they can be used to seamlessly scale Reinforcement Learning applications from a laptop to the High Performance Cluster (HPC) of the TUHH.
 
-4. {{< hl >}}{{% mention "schuster" %}} & {{% mention "schierholz" %}}: Einsatz und Chancen von Methoden des Maschinellen Lernens in der Elektromagnetischen Verträglichkeit.{{< /hl >}} <br/>
-Die Elektromagnetische Verträglichkeit (EMV) befasst sich mit der Unterdrückung ungewollter elektromagnetischer Störungen zwischen elektronischen Geräten, Systemen und Komponenten. Steigende Anforderungen im Bereich der EMV – man denke z.B. an die fortschreitende drahtlose Kommunikation bei immer höheren Frequenzen – erfordern eine kontinuierliche Entwicklung der ingenieurwissenschaftlichen Methoden, um früh und kostengünstig die richtigen Entscheidungen bei der Entwicklung zu treffen. In diesem Workshop werden verschiedene Methoden des Maschinellen Lernens vorgestellt, die in den EMV-Anwendungsfeldern der Signalintegrität (signal integrity) von drahtgebundenen Kanälen sowie der Kontrolle der Spannungsversorgung (power integrity) und der Abstrahlung (electromagnetic interference) von elektronischen Komponenten und Systemen aktuell erforscht werden. Eigene Forschungen im Bereich von künstlichen Neuronalen Netzen, die zur Analyse von Leiterplattenstrukturen verwendet werden, zeigen hierbei auf, welche Chance sich für die EMV und ganz allgemein die Hardware-Entwicklung in Zukunft ergeben.
+7. {{< hl >}}Mijail Guillemard: Tangential bundles, curvature and persistent homology for material defect detection.{{< /hl >}} <br/>
+An application to the detection of material defects using persistent homology is presented. We combine tangent bundles and curvature with persistent homology in the context of machine learning.
 
-5. {{< hl >}}{{% mention "schulte" %}}: Einführung in Support Vector Machines.{{< /hl >}} <br/>
-Support Vector Machines (SVM) sind ein leistungsstarkes und vielseitiges Verfahren des Maschinellen Lernens, das für viele Anwendungen eingesetzt wird. Die Grundidee von SVM ist, die zu zwei unterschiedlichen Gruppen gehörenden Daten mit einer Hyperebene zu trennen. Mit Hilfe von Transformationen in höherdimensionale Räume und der Verwendung von Kernel-Funktionen lässt sich dies auch für den Fall durchführen, dass die zugrundeliegenden Daten nicht linear getrennt werden können. Der Workshop zielt vor allem darauf ab SVM einzuführen und setzt den Schwerpunkt auf die theoretischen Grundlagen.
+8. {{< hl >}}N.N.: N.N.{{< /hl >}} <br/>
+N.N.
 
-6. {{< hl >}}Mijail Guillemard: Grundlagen zur persistenten Homologie im maschinellen Lernen.{{< /hl >}} <br/>
-Persistente Homologie ist eine neuere Entwicklung in der angewandten algebraischen Topologie, die in verschiedenen Strategien des maschinellen Lernens verwendet wurde. In diesem Vortrag präsentieren wir eine kurze Einführung in dieses Thema mit mehreren Anwendungen in der Signalverarbeitung und Datenanalyse. 
+9. {{< hl >}}Trishita Banerjee: Machine Learning in Security.{{< /hl >}} <br/>
+Tba
 
-7. {{< hl >}}{{% mention "venzke" %}}: Implementation von Neuronalen Netzen auf ressourcenbeschränkten Mikrocontrollern für den Einsatz in der Sensorik.{{< /hl >}} <br/>
-Der Workshop vermittelt, wie maschinelles Lernen mit künstlichen neuronalen Netzen (KNNs) in Sensormodulen mit preiswerten, leistungsschwachen Mikrocontrollern eingesetzt werden kann. Als Use-Case dient ein Sensormodul mit Lichtsensoren zur Erkennung einfacher Handgesten mit Mikrocontroller ATMega4809 (6 kB RAM, 20 MHz). Neben theoretischen Lehreinheiten enthält der Workshop viele praktische Demonstrationen zum Training und Einsatz von KNNs in den Sprachen Python (mit Keras / Tensorflow) und C (in Arduino-Entwicklungsumgebung).
+10. {{< hl >}}Denys Romanenko: Holistic process monitoring with machine learning classification methods using internal machine sensors for semi-automatic drilling.{{< /hl >}} <br/>
+Since one third of rivet holes during aircraft assembly are produced with semi-automatic drilling units, in this work reliable and efficient methods for process state prediction using Machine Learning (ML) classification  methods were developed for this application. Process states were holistically varied in the experiments, gathering motor current and machine vibration data. These data were used as input to identify the optimal combination of five data feature preparation and nine ML methods for process state prediction. K-nearest-neighbour, decision tree and artificial neural network models provided reliable predictions of the process states: workpiece material, rotational speed, feed, peck-feed amplitude and lubrication state. Data preprocessing through sequential feature selection and principal components analysis proved to be favourably for these applications. The prediction of the workpiece clamping distance revealed frequent misclassifications and thus, was not reliable.
 
 </details>
 
 ### Vergangene Semester:
+ * [Wintersemester 2021/22](/_archive/network/#wise21_22)
  * [Sommersemester 2021](/_archive/network/#sose21)
  * [Wintersemester 2020/21](/_archive/network/#wise20_21)
  * [Sommersemester 2020](/_archive/network/#sose20)
