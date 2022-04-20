@@ -110,7 +110,7 @@
 
 [[main]]
   name = "AG Physics-based Machine Learning"
-  url = "workinggroups/#hybrid_pb_ml"
+  url = "workinggroups/#pb_ml"
   parent = "workinggroups"
   weight = 2
 
