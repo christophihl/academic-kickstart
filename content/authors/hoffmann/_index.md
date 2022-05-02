@@ -6,7 +6,7 @@ name: Norbert Hoffmann
 authors:
 - hoffmann
 
-weight: 80
+weight: 81
 
 # Is this the primary user of the site?
 superuser: false
