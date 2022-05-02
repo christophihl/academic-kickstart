@@ -6,7 +6,7 @@ name: Morten Schierholz
 authors:
 - schierholz
 
-weight: 183
+weight: 182
 
 # Is this the primary user of the site?
 superuser: false

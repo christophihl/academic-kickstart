@@ -6,7 +6,7 @@ name: Elisabeth Schiessler
 authors:
 - schiessler
 
-weight: 184
+weight: 183
 
 # Is this the primary user of the site?
 superuser: false

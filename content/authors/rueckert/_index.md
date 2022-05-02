@@ -6,7 +6,7 @@ name: Nicolas Rückert
 authors:
 - rueckert
 
-weight: 177
+weight: 176
 
 # Is this the primary user of the site?
 superuser: false
