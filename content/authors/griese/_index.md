@@ -6,7 +6,7 @@ name: Florian Griese
 authors:
 - griese
 
-weight: 75
+weight: 74
 
 # Is this the primary user of the site?
 superuser: false
