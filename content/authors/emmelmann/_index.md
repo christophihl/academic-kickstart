@@ -6,7 +6,7 @@ name: Claus Emmelmann
 authors:
 - emmelmann
 
-weight: 45
+weight: 46
 
 # Is this the primary user of the site?
 superuser: false
