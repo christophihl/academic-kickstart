@@ -6,7 +6,7 @@ name: Chris Biemann
 authors:
 - biemann
 
-weight: 22
+weight: 21
 
 # Is this the primary user of the site?
 superuser: false
