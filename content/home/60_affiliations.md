@@ -38,6 +38,11 @@ subtitle = ""
   image = "img/affiliations/dashh.png"
   url = "https://www.dashh.org"
 
+ [[affiliation]]
+  name = "Deutsches Elektronen-Synchrotron DESY"
+  image = "img/affiliations/desy.png"
+  url = "https://www.desy.de/"
+
 
 +++
 
