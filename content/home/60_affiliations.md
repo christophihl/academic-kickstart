@@ -9,7 +9,7 @@ title = "Partner"
 subtitle = ""
 
 [[affiliation]]
-  name = "Hamurg University of Technology (TUHH)"
+  name = "Technische Universität Hamburg (TUHH)"
   image = "img/affiliations/TUHH.png"
   url = "http://www.tuhh.de/"
 
