@@ -12,7 +12,7 @@ weight: 170
 superuser: false
 
 # Role/position
-role: Projektkoordinatorin (DESY)
+role: Professor (DESY)
 
 # Room
 #room:
@@ -24,6 +24,8 @@ role: Projektkoordinatorin (DESY)
 organizations:
 - name: Deutsches Elektronen-Synchrotron DESY
   url: "https://www.desy.de"
+- name: UHH I. Institut für Theoretische Physik
+  url: "https://www.physik.uni-hamburg.de/th1.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
