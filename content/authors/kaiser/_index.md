@@ -12,7 +12,7 @@ weight: 105
 superuser: false
 
 # Role/position
-role: Doktorand
+role: Doktorand (DESY)
 
 # Room
 room:

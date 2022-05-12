@@ -12,7 +12,7 @@ weight: 180
 superuser: false
 
 # Role/position
-role: Doktorand
+role: Doktorand (DESY)
 
 # Room
 room: Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85 (Building 99, Room O3.010), 22607 Hamburg, Germany

@@ -12,7 +12,7 @@ weight: 21
 superuser: false
 
 # Role/position
-role: Professor
+role: Professor (UHH)
 
 # Room
 room: Gebäude F, Raum F429

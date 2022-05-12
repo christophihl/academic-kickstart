@@ -12,7 +12,7 @@ weight: 185
 superuser: false
 
 # Role/position
-role: Stellvertretender Leiter
+role: Stellvertretender Leiter (DESY)
 
 # Room
 #room:

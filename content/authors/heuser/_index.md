@@ -12,7 +12,7 @@ weight: 79
 superuser: false
 
 # Role/position
-role: Head of HIP Service Team
+role: Head of HIP Service Team (DESY)
 
 # Room
 #room:

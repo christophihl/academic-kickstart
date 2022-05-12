@@ -12,7 +12,7 @@ weight: 202
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc (DESY)
 
 # Room
 #room:

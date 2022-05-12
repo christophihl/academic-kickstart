@@ -12,7 +12,7 @@ weight: 76
 superuser: false
 
 # Role/position
-role: Gruppenleiter
+role: Gruppenleiter (DESY)
 
 # Room
 #room:

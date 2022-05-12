@@ -12,7 +12,7 @@ weight: 204
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc (UHH)
 
 # Room
 room: Notkestraße 11, 1. Stock, Raum 1016

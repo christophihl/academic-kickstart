@@ -12,7 +12,7 @@ weight: 24
 superuser: false
 
 # Role/position
-role: Leitende Wissenschaftlerin
+role: Leitende Wissenschaftlerin (DESY)
 
 # Room
 #room:

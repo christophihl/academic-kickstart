@@ -12,7 +12,7 @@ weight: 170
 superuser: false
 
 # Role/position
-role: Projektkoordinatorin
+role: Projektkoordinatorin (DESY)
 
 # Room
 #room:

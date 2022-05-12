@@ -12,7 +12,7 @@ weight: 43
 superuser: false
 
 # Role/position
-role: Scientific Coordinator
+role: Scientific Coordinator (DASHH)
 
 # Room
 room: Notkestr. 85, Building 61, Room 01.108, 22607 Hamburg, Germany

@@ -12,7 +12,7 @@ weight: 44
 superuser: false
 
 # Role/position
-role: Stellvertretender Projektkoordinator
+role: Stellvertretender Projektkoordinator (DESY)
 
 # Room
 #room:
