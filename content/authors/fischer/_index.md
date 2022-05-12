@@ -12,7 +12,7 @@ weight: 62
 superuser: false
 
 # Role/position
-role: Professor
+role: Professorin
 
 # Room
 room: Gebäude D, Raum D 4.003

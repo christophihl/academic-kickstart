@@ -12,7 +12,7 @@ weight: 118
 superuser: false
 
 # Role/position
-role: Professor
+role: Professorin
 
 # Room
 room: Gebäude E, Raum E3.053

@@ -12,7 +12,7 @@ weight: 170
 superuser: false
 
 # Role/position
-role: Professor (DESY)
+role: Professorin (DESY)
 
 # Room
 #room:
