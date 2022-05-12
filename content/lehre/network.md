@@ -67,7 +67,7 @@ Die Vorträge finden aktuell im Sommersemester 2022 online montags ab 16:00 und 
 | 3 | 09.05.22 | - | - | - |
 | 4 | 16.05.22 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "stolpmann" %}} | Distributed Reinforcement Learning on a High Performance Cluster Using Ray |
 | - | 23.05.22 | - | - | Holiday |
-| 5 | 30.05.22 | - | - | - |
+| 5 | 30.05.22 | 16:00&nbsp;-&nbsp;17:00 | Cornelia&nbsp;Hofsäß | Pulmonary Embolus Detection with Dual-Energy CT Data Augmentation |
 | - | 06.06.22 | - | - | Holiday |
 | 6 | 13.06.22 | - | - | - |
 | 7 | 20.06.22 | 16:00&nbsp;-&nbsp;17:00 | Mijail&nbsp;Guillemard | Tangential bundles, curvature and persistent homology for material defect detection |
@@ -90,6 +90,9 @@ This talk tackles the problem of minimizing your cost function from a mathematic
 4. {{< hl >}}{{% mention "stolpmann" %}}: Distributed Reinforcement Learning on a High Performance Cluster Using Ray.{{< /hl >}} <br/>
 Ray is a Python framework for developing distributed applications. While not limited to it, it has a strong focus on Machine Learning and supports it with a variety of included libraries. For example, Ray RLlib provides implementations of many common Reinforcement Learning algorithms, which reduces development time and allows the user to quickly compare different approaches to best solve the problem at hand. As Reinforcement Learning algorithms can be very sensitive to the choice of hyperparameters, Ray Tune can be used to tune them via optimization-based methods. While this typically requires a large number of simulation runs, Ray can speed up the process by running them in parallel on multiple processors or machines. <br/>
 This talk gives an introduction to Ray, its libraries and how they can be used to seamlessly scale Reinforcement Learning applications from a laptop to the High Performance Cluster (HPC) of the TUHH.
+
+5. {{< hl >}}Cornelia Hofsäß: Pulmonary Embolus Detection with Dual-Energy CT Data Augmentation.{{< /hl >}} <br/>
+3D segmentation U-Nets are trained for pulmonary embolus (PE) detection on three different data sets. We investigate the impact of the training data set on the generalization capabilities and use dual-energy CT data augmentation to increase performance.
 
 7. {{< hl >}}Mijail Guillemard: Tangential bundles, curvature and persistent homology for material defect detection.{{< /hl >}} <br/>
 An application to the detection of material defects using persistent homology is presented. We combine tangent bundles and curvature with persistent homology in the context of machine learning.
