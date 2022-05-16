@@ -62,7 +62,7 @@ Die Vorträge finden aktuell im Sommersemester 2022 online montags ab 16:00 und 
 
 | # | Datum | Zeit | Vortragende/r | Thema |
 | --- | --- | --- | --- | --- |
-| 1 | 25.04.22 | 16:00&nbsp;-&nbsp;17:00 | Florian&nbsp;Schneider | Transformer Models for Cross-Modal Text-Image Retrieval |
+| 1 | 25.04.22 | 16:00&nbsp;-&nbsp;17:00 | Florian&nbsp;Schneider | Transformer Models for Cross-Modal Text-Image Retrieval [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/4a114b42ced94fb49c6335c24a795b7e1d) |
 | 2 | 02.05.22 | 16:00&nbsp;-&nbsp;17:00 | Lina&nbsp;Fesefeldt | Second Order Information in Neural Network Training |
 | 3 | 09.05.22 | - | - | - |
 | 4 | 16.05.22 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "stolpmann" %}} | Distributed Reinforcement Learning on a High Performance Cluster Using Ray |
