@@ -6,7 +6,7 @@ name: Wolfgang Kersten
 authors:
 - kersten
 
-weight: 109
+weight: 108
 
 # Is this the primary user of the site?
 superuser: false
