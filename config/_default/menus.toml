@@ -84,10 +84,16 @@
   weight = 50
 
 [[main]]
+  name = "MLE-School"
+  url = "https://www.mle-school.hamburg"
+  parent = "lehre"
+  weight = 1
+
+[[main]]
   name = "Train Your Engineering Network"
   url = "lehre/#network"
   parent = "lehre"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "Archiv"
