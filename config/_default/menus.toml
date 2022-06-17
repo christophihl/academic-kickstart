@@ -8,17 +8,18 @@
   url = "#"
   weight = 10
 
-  [[main]]
+
+[[main]]
   name = "News"
   url = "news/"
   weight = 20
+
 
 [[main]]
   name = "Team"
   url = "team/"
   identifier = "team"
   weight = 30
-
 
 [[main]]
   name = "MLE-Koordination"
@@ -45,16 +46,46 @@
   weight = 4
 
 
+[[main]]
+  name = "Aktivitäten"
+  url = "activities/"
+  identifier = "activities"
+  weight = 40
+
+[[main]]
+  name = "MLE-Days"
+  url = "activities/#mle_days"
+  parent = "activities"
+  weight = 1
+
+[[main]]
+  name = "MLE-School"
+  url = "activities/#mle_school"
+  parent = "activities"
+  weight = 2
+
+[[main]]
+  name = "Train Your Engineering Network"
+  url = "activities/#network"
+  parent = "activities"
+  weight = 3
+
+[[main]]
+  name = "Archiv"
+  url = "_archive/activities"
+  parent = "activities"
+  weight = 4
+
 
 [[main]]
   name = "Forschung"
   url = "research/"
   identifier = "research"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Themen"
-  url = "research/"
+  url = "research/#projects"
   parent = "research"
   weight = 1
 
@@ -65,48 +96,23 @@
   weight = 2
 
 [[main]]
-  name = "ML-Methoden"
+  name = "Kompetenzen"
+  url = "research/#competences"
+  parent = "research"
+  weight = 3
+
+[[main]]
+  name = "Methoden"
   url = "_repos/methods/"
   parent = "research"
-  weight = 3
-
-[[main]]
-  name = "ML-Kompetenzen"
-  url = "https://competences.mle.hamburg"
-  parent = "research"
   weight = 4
-
-
-[[main]]
-  name = "Lehre"
-  url = "lehre/"
-  identifier = "lehre"
-  weight = 50
-
-[[main]]
-  name = "MLE-School"
-  url = "https://www.mle-school.hamburg"
-  parent = "lehre"
-  weight = 1
-
-[[main]]
-  name = "Train Your Engineering Network"
-  url = "lehre/#network"
-  parent = "lehre"
-  weight = 2
-
-[[main]]
-  name = "Archiv"
-  url = "_archive/lehre"
-  parent = "lehre"
-  weight = 3
 
 
 [[main]]
   name = "Arbeitsgruppen"
   url = "workinggroups/"
   identifier = "workinggroups"
-  weight = 55
+  weight = 60
 
 [[main]]
   name = "HULKs@TUHH - RoboCup SPL Team"
@@ -125,53 +131,28 @@
   name = "Transfer"
   url = "transfer/"
   identifier = "transfer"
-  weight = 60
+  weight = 70
 
 [[main]]
-  name = "MLE-Days"
-  url = "https://www.mle-days.hamburg"
+  name = "Angebote"
+  url = "transfer/#pillars"
   parent = "transfer"
   weight = 1
-  
+
 [[main]]
-  name = "Angebote"
-  url = "transfer/"
+  name = "Komponenten"
+  url = "transfer/#offerings"
   parent = "transfer"
   weight = 2
 
-[[main]]
-  name = "Network & Exchange"
-  url = "network_and_exchange/"
+  [[main]]
+  name = "Partnerschaft"
+  url = "transfer/#cooperation"
   parent = "transfer"
   weight = 3
-
-[[main]]
-  name = "Training & Executive Education"
-  url = "training_and_executive_education/"
-  parent = "transfer"
-  weight = 4
-
-[[main]]
-  name = "Consulting & Transformation"
-  url = "consulting_and_tranformation/"
-  parent = "transfer"
-  weight = 5
-
-[[main]]
-  name = "Customized Project Development"
-  url = "customized_project_development/"
-  parent = "transfer"
-  weight = 6
-
-
-
 
 
 [[main]]
   name = "Kontakt"
   url = "#contact"
-  weight = 70
-
-
-
-
+  weight = 80
