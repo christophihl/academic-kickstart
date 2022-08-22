@@ -12,29 +12,37 @@ header:
   image: ""
 ---
 
-### Anschrift
+Inhaltliche Gestaltung: Im Sinne des § 5 des TMG (Telemediengesetz) sind für die TUHH folgende Angaben aufzuführen:
 
-Technische Universität Hamburg <br/>
-Am Schwarzenberg-Campus 3 (Gebäude E) <br/>
-21073 Hamburg <br/>
- <br/>
-Telefon: +49 40 42878 - 3530 <br/>
-E-Mail: mle@tuhh.de
+### Adresse
+Technische Universität Hamburg (TUHH)<br/>
+Am Schwarzenberg-Campus 1<br/>
+21073 Hamburg
 
-### Haftungshinweis
+E-Mail: pressestelle@tuhh.de
 
-Trotz sorgfältiger Bemühungen können wir keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität unserer Webseiten geben. Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+### Rechtsform
+Körperschaft des öffentlichen Rechts
 
-### Herausgeber
+### Gesetzlicher Vertreter
+der Präsident der TUHH, z. Zt. Prof. Dr. Andreas Timm-Giel
 
-Prof. Dr. Christian Schuster <br/>
-Prof. Dr. Volker Turau <br/>
-Prof. Dr. Christoph Ihl
+### Zuständige Aufsichtsbehörde
+Behörde für Wissenschaft, Forschung, Gleichstellung und Bezirke der Freien und Hansestadt Hamburg<br/>
+Hamburger Straße 37<br/>
+22083 Hamburg
 
+### Umsatzsteuer-Identifikationsnummer
+DE 245 980 291
 
-### Redaktion / Webmaster
+### Herausgeber (Verantwortlich für den Inhalt gem. § 18 MStV)
+Prof. Christoph Ihl<br/>
+Prof. Christian Schuster<br/>
+Prof. Volker Turau<br/>
+Prof. Thomas Wrona
 
-Christoph Ihl
- <br/> <br/>
-Telefon: +49 40 42878 - 3226 <br/>
-E-Mail: christoph.ihl@tuhh.de
+Technische Universität Hamburg (TUHH)<br/>
+Am Schwarzenberg-Campus 1<br/>
+21073 Hamburg
+
+christoph.ihl@tuhh.de, schuster@tuhh.de, turau@tuhh.de, thomas.wrona@tuhh.de
