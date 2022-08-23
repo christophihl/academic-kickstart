@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-Inhaltliche Gestaltung: Im Sinne des § 5 des TMG (Telemediengesetz) sind für die TUHH folgende Angaben aufzuführen:
+Angaben gemäß § 5 des TMG (Telemediengesetz):
 
 ### Adresse
 Technische Universität Hamburg (TUHH)<br/>
@@ -34,6 +34,9 @@ Hamburger Straße 37<br/>
 
 ### Umsatzsteuer-Identifikationsnummer
 DE 245 980 291
+
+### Haftungshinweis
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 ### Herausgeber (Verantwortlich für den Inhalt gem. § 18 MStV)
 Prof. Christoph Ihl<br/>
