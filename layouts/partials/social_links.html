@@ -1,0 +1,32 @@
+<ul class="network-icon" aria-hidden="true">
+  {{ range .Params.social }}
+    {{ $pack := or .icon_pack "fas" }}
+    {{ $pack_prefix := $pack }}
+    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+      {{ $pack_prefix = "fa" }}
+    {{ end }}
+    {{ $link := .link }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = .link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+    <li>
+      {{ if in (slice "mailto") $scheme }}
+        {{ $mail := index (split $link "mailto:") 1 }}
+        {{ $components := split $mail "@" }}
+        {{ $first := index $components 0 }}
+        {{ $second := index $components 1 }}
+        <a href="#" class="envelope" data-envelope_first="{{ base64Encode $first }}" data-envelope_second="{{ base64Encode $second }}">
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        </a>
+      {{ else }}
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        </a>
+      {{ end }}
+    </li>
+  {{end}}
+</ul>

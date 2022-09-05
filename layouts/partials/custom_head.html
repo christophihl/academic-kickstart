@@ -1,0 +1,16 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+	var envelopes = document.getElementsByClassName('envelope');
+	for(var i = 0; i < envelopes.length; i++) {
+		envelopes[i].onclick = function() {
+			let target = '';
+			target += ':otliam'.split('').reverse().join('');
+			target += decodeURIComponent(atob(this.dataset.envelope_first));
+			target += String.fromCharCode(Math.pow(2, 6));
+			target += decodeURIComponent(atob(this.dataset.envelope_second));
+			window.location.href = target;
+			return false;
+		};
+	}
+});
+</script>
