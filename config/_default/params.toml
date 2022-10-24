@@ -106,6 +106,8 @@ office_hours = ["Terminvereinbarung über Kontaktformular oder mle@tuhh.de"]
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "Treten Sie unserer Linkedin Gruppe bei", link = "https://www.linkedin.com/groups/8912997"},
+  {icon = "twitter", icon_pack = "fab", name = "Folgen Sie uns auf Twitter", link = "https://twitter.com/mletuhh1"},
+  {icon = "instagram", icon_pack = "fab", name = "Folgen Sie uns auf Instagram", link = "https://www.instagram.com/mle.tuhamburg"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
