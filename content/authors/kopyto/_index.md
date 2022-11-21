@@ -6,7 +6,7 @@ name: David Kopyto
 authors:
 - kopyto
 
-weight: 112
+weight: 111
 
 # Is this the primary user of the site?
 superuser: false
