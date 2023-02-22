@@ -3,7 +3,7 @@
 
 title: "bSTAB: an open-source software for computing the basin stability of multi-stable dynamical systems"
 authors:
-- stender
+- Merten Stender
 - hoffmann
 date: 2021-09-01T00:00:00+00:00
 doi: "10.1007/s11071-021-06786-5"

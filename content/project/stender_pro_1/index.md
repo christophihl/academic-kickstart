@@ -1,7 +1,7 @@
 ---
 title: Machine Learning für Automobil-Bremsen und deren Emissionen
 authors:
-- stender
+- Merten Stender
 - hoffmann
 tags:
 - Mechanische Systeme

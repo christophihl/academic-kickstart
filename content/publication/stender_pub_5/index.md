@@ -5,7 +5,7 @@ title: "Exploring the application of reinforcement learning to wind farm control
 authors:
 - Henry Korb
 - Henrik Asmuth
-- stender
+- Merten Stender
 - Stefan Ivanell
 date: 2021-06-15T00:00:00+00:00
 doi: "10.1088/1742-6596/1934/1/012022"

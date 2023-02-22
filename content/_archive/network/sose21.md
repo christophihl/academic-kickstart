@@ -58,7 +58,7 @@ hero_media = ""
 | 1 | 12.04.21 | - | - |
 | 2 | 19.04.21 | Hidde&nbsp;Lekanne&nbsp;Deprez | Enhancing simulation images with GANs |
 | 3 | 26.04.21 | N/A | - |
-| 4 | 03.05.21 | {{% mention "stender" %}} | Physics-Informed Learning [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/3368465b1d894ff0815ef450fd0027061d) |
+| 4 | 03.05.21 | Merten&nbsp;Stender | Physics-Informed Learning [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/3368465b1d894ff0815ef450fd0027061d) |
 | - | 10.05.21 | - | Holiday |
 | 5 | 17.05.21 | {{% mention "hoeche" %}} | Towards predictive maintenance [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/f9a4fdc1ca9043bba1d831414264f26c1d) |
 | - | 24.05.21 | - | Holiday |
@@ -82,7 +82,7 @@ The CycleGan and MUNIT architectures are able to make a domain translation, main
 
 3. {{< hl >}}N/A{{< /hl >}} <br/>
 
-4. {{< hl >}}{{% mention "stender" %}}: Physics-Informed Learning{{< /hl >}} <br/>
+4. {{< hl >}}Merten Stender: Physics-Informed Learning{{< /hl >}} <br/>
 Machine Learning and Deep Learning have brought disruptive innovations to many fields since 2012. Today the application of those data-driven, and mostly black-box type models,  can be regarded state-of-the-art in many scientific disciplines. However, the question of knowledge conservation arises: how to bring prior knowledge from generations of research and experience into the modeling process? 
 This talk summarizes recent advances, lines of research and perspectives on “Physics-Informed Learning”, which is an umbrella term for blending first principles into evidence-based and data-driven models. Particular focus is put on engineering vibrations and spatio-temporal dynamics, e.g. water waves. 
 

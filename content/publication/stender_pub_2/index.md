@@ -3,7 +3,7 @@
 
 title: "Explainable machine learning determines effects on the sound absorption coefficient measured in the impedance tube"
 authors:
-- stender
+- Merten Stender
 - Christian Adams
 - Mathies Wedler
 - Antje Grebel

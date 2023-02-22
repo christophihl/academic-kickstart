@@ -3,7 +3,7 @@
 
 title: "Deep learning for brake squeal: Brake noise detection, characterization and prediction"
 authors:
-- stender
+- Merten Stender
 - Merten Tiedemann
 - Dawid Spieler
 - schoepflin

@@ -3,7 +3,7 @@
 
 title: "Explainable machine learning: A case study on impedance tube measurements"
 authors:
-- stender
+- Merten Stender
 - Mathies Wedler
 - hoffmann
 - Christian Adams

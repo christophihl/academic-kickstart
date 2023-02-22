@@ -4,7 +4,7 @@
 title: "Establishing a common database of ice experiments and using machine learning to understand and predict ice behavior"
 authors:
 - kellner
-- stender
+- Merten Stender
 - Rüdiger U. Franz von Bock und Polach
 - Hauke Herrnring
 - Sören Ehlers
