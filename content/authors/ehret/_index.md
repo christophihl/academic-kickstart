@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Klaus Ehrt
+name: Klaus Ehret
 
 # Username (this should match the folder name)
 authors:
-- ehrt_k
+- ehret
 
 weight: 44
 
