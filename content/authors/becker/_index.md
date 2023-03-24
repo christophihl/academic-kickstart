@@ -31,7 +31,7 @@ bio:
 
 interests:
 - Flexible elektrische Energieübertragung und -verteilung
-- Intelligente Elektroenergiesysteme: "Smart Grids"
+- "Intelligente Elektroenergiesysteme: \"Smart Grids\""
 - Dynamik, Stabilität und Regelung elektrischer Energiesysteme
 - Elektrische Bordsysteme und -netze
 - Sektorgekoppelte Energiesysteme

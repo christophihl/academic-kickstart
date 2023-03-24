@@ -33,7 +33,7 @@ interests:
 - Numerische Algorithmen
 - Nichtlineare und PDE-beschränkte Optimierung
 - High Performance Computing
-- Anwendungsgebiete: Zerstörungfreies Prüfen, Medizin
+- "Anwendungsgebiete: Zerstörungfreies Prüfen, Medizin"
 
 
 education:
