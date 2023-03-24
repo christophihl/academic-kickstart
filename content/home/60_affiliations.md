@@ -43,6 +43,11 @@ subtitle = ""
   image = "img/affiliations/desy.png"
   url = "https://www.desy.de/"
 
+ [[affiliation]]
+  name = "Helmholtz-Zentrum Hereon"
+  image = "img/affiliations/hereon.png"
+  url = "https://hereon.de/"
+
 
 +++
 
