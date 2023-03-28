@@ -3,7 +3,6 @@ title: Sustainable & Cost Efficient High Performance Composite Structures - SuCo
 summary: Künstliche neuronale Netze zur effizienten Quantifizierung von Unsicherheiten in der Analyse von Faserverbundstrukturen
 authors:
 - kriegesmann
-- balokas
 tags:
 - Neuronale Netze
 date: "2021-11-08T00:00:00Z"
