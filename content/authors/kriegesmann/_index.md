@@ -12,7 +12,7 @@ weight: 113
 superuser: false
 
 # Role/position
-role: Juniorprofessor
+role: Professor
 
 # Room
 room: Gebäude D, Raum 1.017
@@ -22,21 +22,25 @@ phone: +49 40 42878-4857
 
 # Organizations/Affiliations
 organizations:
-- name: TUHH Arbeitsgruppe Strukturoptimierung im Leichtbau
-  url: "https://www.tuhh.de/sol"
+- name: TUHH Institut für Strukturmechanik im Leichtbau
+  url: "https://www.tuhh.de/sml"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Probabilistische Analysen mit trainierten Ersatzmodellen
+- Strukturoptimierung mittels Maschinellem Lernen
 
 
 education:
   courses:
+  - course: Leiter des Instituts für Strukturmechanik im Leichtbau
+    institution: Technische Universität Hamburg, Deutschland
+    year: 2021 - heute
   - course: Leiter der Arbeitsgruppe Strukturoptimierung im Leichtbau, Airbus-Stiftungsprofessor
     institution: Technische Universität Hamburg, Deutschland
-    year: 2016 - jetzt
+    year: 2016 - 2021
   - course: Entwicklungsingenieur
     institution: Airbus Operations GmbH
     year: 2011 - 2015
