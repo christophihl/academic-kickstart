@@ -31,11 +31,9 @@ bio: Maschinelles Lernen in der Flugzeugkabine, Smart Cabin, Learning Galley Cat
 
 interests:
 - Maschinelles Lernen in der Flugzeugkabine
-- Mobile Roboter
-- Autonome Unterwasserfahrzeuge
+- Maschinelles Lernen in sicherheitskritischen cyberphysischen Systemen
 - Bildverarbeitung
 - Computer/Robot Vision
-- Ingenieurethik
 
 
 education:
