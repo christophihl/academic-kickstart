@@ -6,7 +6,7 @@ name: Stephanie Schrage
 authors:
 - schrage
 
-weight: 188
+weight: 187
 
 # Is this the primary user of the site?
 superuser: false

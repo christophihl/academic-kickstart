@@ -6,7 +6,7 @@ name: Stefan Schulte
 authors:
 - schulte_s
 
-weight: 191
+weight: 190
 
 # Is this the primary user of the site?
 superuser: false
