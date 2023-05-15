@@ -4,7 +4,7 @@ name: Henning Schwarz
 
 # Username (this should match the folder name)
 authors:
-- schwarz
+- schwarz_h
 
 weight: 193
 
