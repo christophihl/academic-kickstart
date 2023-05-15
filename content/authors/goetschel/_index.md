@@ -6,7 +6,7 @@ name: Sebastian Götschel
 authors:
 - goetschel
 
-weight: 70
+weight: 69
 
 # Is this the primary user of the site?
 superuser: false

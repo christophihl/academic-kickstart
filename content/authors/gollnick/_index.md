@@ -6,7 +6,7 @@ name: Volker Gollnick
 authors:
 - gollnick
 
-weight: 71
+weight: 70
 
 # Is this the primary user of the site?
 superuser: false

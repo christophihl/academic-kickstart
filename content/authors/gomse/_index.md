@@ -6,7 +6,7 @@ name: Martin Gomse
 authors:
 - gomse
 
-weight: 72
+weight: 71
 
 # Is this the primary user of the site?
 superuser: false

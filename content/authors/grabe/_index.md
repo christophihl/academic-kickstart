@@ -6,7 +6,7 @@ name: Jürgen Grabe
 authors:
 - grabe
 
-weight: 73
+weight: 72
 
 # Is this the primary user of the site?
 superuser: false
