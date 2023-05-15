@@ -12,7 +12,7 @@ weight: 73
 superuser: false
 
 # Role/position
-role: Marketing Professional/Student & MLE-Referent Social Media
+role: Mitarbeiter & MLE-Referent Social Media
 
 # Room
 room: Gebäude D, Raum D1.006
