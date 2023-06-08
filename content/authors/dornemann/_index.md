@@ -6,7 +6,7 @@ name: Jorin Dornemann
 authors:
 - dornemann
 
-weight: 30
+weight: 31
 
 # Is this the primary user of the site?
 superuser: false
