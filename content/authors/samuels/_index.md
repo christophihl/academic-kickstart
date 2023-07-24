@@ -6,7 +6,7 @@ name: Uve Samuels
 authors:
 - samuels
 
-weight: 180
+weight: 179
 
 # Is this the primary user of the site?
 superuser: false

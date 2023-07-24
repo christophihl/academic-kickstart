@@ -6,7 +6,7 @@ name: Riccardo Scandariato
 authors:
 - scandariato
 
-weight: 181
+weight: 180
 
 # Is this the primary user of the site?
 superuser: false
