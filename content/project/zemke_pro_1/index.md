@@ -3,6 +3,7 @@ title: ExtraDrey
 summary: Entwicklung und Qualifizierung von Greybox-Modellen zur Vorhersage des Werkzeugverschleißes bei der Drehbearbeitung von hochlegiertem Edelstahl mit TiAlN-beschichteten Werkzeugen
 authors:
 - dege
+- schibsdat
 - hoeche
 - Christoph Herrmann
 - Martin Keunecke
