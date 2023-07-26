@@ -12,7 +12,7 @@ weight: 69
 superuser: false
 
 # Role/position
-role: Oberingenieur
+role: Oberingenieur & MLE-Koordinator
 
 # Room
 room: Gebäude E, Raum E3.056
