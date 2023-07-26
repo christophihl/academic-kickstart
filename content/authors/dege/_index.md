@@ -41,31 +41,31 @@ education:
   courses:
   - course: Professor und Lehrstuhlinhaber am Institut für Produktionsmanagement und -Technik (IPMT)
     institution: Technische Universität Hamburg (TUHH)
-    year: 2011-2012
+    year: 2022 - heute
   - course: Leiter NC-Programmierung und -Technologie
     institution: Premium AEROTEC GmbH, Varel
-    year: 2015-2022
+    year: 2015 - 2022
   - course: Leiter NC-Programmierung Nordenham / Varel
     institution: Premium AEROTEC GmbH, Varel
-    year: 2013-2015
+    year: 2013 - 2015
   - course: Leiter Werkzeugtechnologie
     institution: Premium AEROTEC GmbH, Varel
-    year: 2012-2013
+    year: 2012 - 2013
   - course: Projektingenieur Werkzeugtechnologie
     institution: Premium AEROTEC GmbH, Varel
-    year: 2011-2012
+    year: 2011 - 2012
   - course: Promotion, Dr.-Ing., summa cum laude
     institution: Institut für Fertigungstechnik und Werkzeugmaschinen (IFW), Leibniz Universität Hannover
     year: 2012
   - course: Leiter Abteilung Zerspanungstechnologie
     institution: Institut für Fertigungstechnik und Werkzeugmaschinen (IFW), Leibniz Universität Hannover
-    year: 2008-2011
+    year: 2008 - 2011
   - course: Projektingenieur
     institution: Institut für Fertigungstechnik und Werkzeugmaschinen (IFW), Leibniz Universität Hannover
-    year: 2005-2008
+    year: 2005 - 2008
   - course: Studium Maschinenbau, Dipl.-Ing.
     institution: Technische Universität Dortmund, Dortmund
-    year: 1998-2005
+    year: 1998 - 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
