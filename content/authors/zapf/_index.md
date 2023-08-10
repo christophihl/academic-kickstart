@@ -71,6 +71,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - MLE-Koordination
+- Team an der Technischen Universität Hamburg
 ---
 
 Seit 2015 bin ich als wissenschaftliche Mitarbeiterin und Doktorandin an der Technischen Universität Hamburg am Institut für Strategisches und Internationales Management von Professor Thomas Wrona tätig. 2018 hatte ich die Gelegenheit einen Forschungsaufenthalt in Tokio (Japan) an der Hitotsubashi Universität durchzuführen. Die Zeit in Tokio habe ich dafür genutzt das Start-up Netzwerk in Japan zu erforschen uStudiert habe ich im Master Betriebswirtschaftslehre (M.Sc.) mit dem Schwerpunkt Management & Entrepreneurship und im Bachelor den englisch-sprachigen Studiengang Management & Economics (B.Sc.) an der Otto-von-Guericke Universität Magdeburg.
