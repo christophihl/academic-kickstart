@@ -6,7 +6,7 @@ name: Jonas Wilinski
 authors:
 - wilinski
 
-weight: 70
+weight: 73
 
 # Is this the primary user of the site?
 superuser: false

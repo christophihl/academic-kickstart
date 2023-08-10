@@ -6,7 +6,7 @@ name: Marcus Venzke
 authors:
 - venzke
 
-weight: 220
+weight: 72
 
 # Is this the primary user of the site?
 superuser: false

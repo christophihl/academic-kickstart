@@ -6,7 +6,7 @@ name: Gregor Vonbun-Feldbauer
 authors:
 - vonbun_feldbauer
 
-weight: 222
+weight: 68
 
 # Is this the primary user of the site?
 superuser: false
