@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "MLE-School"
+title = "MLE-School 2022"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -54,6 +54,3 @@ Am 13. und 14. September findet die erste MLE Summer School für maschinelles Le
 Maschinelles Lernen ist zu einer treibenden Kraft von Wirtschafts-Innovationen und -Entwicklung geworden. Es spielt außerdem eine Schlüsselrolle in vielen akademischen Forschungsprojekten. Durch die allgegenwärtige Anwendung von Techniken des maschinellen Lernens zur Lösung aktueller Problemen, kann es überwältigend sein mit der aktuellen Entwicklung Schritt zu halten. Deshalb veranstaltet die TUHH eine zweitägige Summer School, welche sowohl Einblicke in Grundlagen und Theorien als auch praxisnahe Schulungen in der Anwendung von maschinellem Lernen im Ingenieurswesen bietet. Die "MLE School 2022" ermöglicht es, sich mit gleichgesinnten währende des Social Events oder der Poster- und Networking-Sessions auszutauschen und den eignen Horizont zu erweitern.
 
 Die Veranstaltung ist offen für Masterstudierende und Doktoranden sowie PostDocs von Universitäten und verwandten Einrichtungen.
-
-### Weitere Informationen:
- * [MLE-School Webseite](https://mle-school.hamburg/)
