@@ -12,7 +12,7 @@ weight: 25
 superuser: false
 
 # Role/position
-role: Abteilungsleiter
+role: Abteilungsleiter (DLR)
 
 # Room
 # room: 
