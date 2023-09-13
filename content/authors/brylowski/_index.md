@@ -6,7 +6,7 @@ name: Martin Brylowski
 authors:
 - brylowski
 
-weight: 26
+weight: 27
 
 # Is this the primary user of the site?
 superuser: false

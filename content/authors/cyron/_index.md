@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Christian Cyron
 
@@ -6,7 +6,7 @@ name: Christian Cyron
 authors:
 - cyron
 
-weight: 28
+weight: 29
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ name: Christian Bruss
 authors:
 - bruss
 
-weight: 25
+weight: 26
 
 # Is this the primary user of the site?
 superuser: false
