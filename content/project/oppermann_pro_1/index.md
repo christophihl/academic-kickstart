@@ -3,7 +3,7 @@ title: "LGSC: Lernendes Galley-Catering-System"
 summary: "Entwurf eines selbstlernenden Galley-Catering-Systems (LGCS), das für Bordvorräte innerhalb der Kette Caterer, Fluggesellschaft, Kabinenbesatzung und Passagier pro Flugroute Daten erzeugt und kommuniziert, daraus lernt und aktiv Entscheidungen trifft"
 authors:
 - oppermann
-- hoth
+- Julian Hoth
 tags:
 - Neuronale Netze
 - Modellierung
