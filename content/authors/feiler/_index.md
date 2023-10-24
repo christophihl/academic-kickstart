@@ -12,7 +12,7 @@ weight: 58
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc & MLE-Koordinator
 
 # Room
 room: Gebäude 47, Raum 208
@@ -72,6 +72,7 @@ email: "christian.feiler@hzg.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- MLE-Koordination
 - Team am Helmholtz-Zentrum Hereon
 ---
 

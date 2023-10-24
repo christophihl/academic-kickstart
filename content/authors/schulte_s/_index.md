@@ -12,7 +12,7 @@ weight: 190
 superuser: false
 
 # Role/position
-role: Professor
+role: Professor & MLE-Sprecher
 
 # Room
 room: Gebäude BS15, Raum 5.013
@@ -95,8 +95,10 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- MLE-Koordination
 - Team an der Technischen Universität Hamburg
 ---
+
 Prof. Dr.-Ing Stefan Schulte ist seit 2021 Professor an der Technischen Universität Hamburg und leitet dort das Institut für Data Engineering. In seiner Forschung beschäftigt er sich insbesondere mit Systemen zur Verarbeitung sehr großer Datenmengen im Internet of Things (IoT), z. B. Datenströmen, welche auf IoT-Sensoren als Datenquellen basieren. Ein weiterer wichtiger Forschungsschwerpunkt ist das verteilte maschinelle Lernen ("Federated Learning") am Rande des Netzwerks. Das Ziel dieser Forschung ist eine möglichst hohe Vorhersagequalität. Weiterhin leitet Stefan Schulte das [Christian Doppler Forschungslabor Blockchaintechnologien für das Internet der Dinge](https://www.cdl-bot.at/de), in welchem Forscher an der Technischen Universität Hamburg und der Technischen Universität Wien gemeinsam an Konzepten, Methoden und Systemen für Blockchains im IoT forschen. Forschungsschwerpunkte sind dabei die Interoperabilität zwischen verschiedenen Blockchains sowie leichtgewichtige Distributed Ledger Technologies.
 
 Stefan Schulte ist Mitglied der Gesellschaft für Informatik (GI), des Institute of Electrical and Electronics Engineers (IEEE) sowie des Deutschen Hochschulverbands (DHV). Er ist weiterhin Mitglied des Editorial Boards des Journal of Parallel and Distributed Computing sowie Associate Editor der IEEE Transactions on Network and Service Management.

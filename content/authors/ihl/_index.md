@@ -12,7 +12,7 @@ weight: 90
 superuser: true
 
 # Role/position
-role: Professor & MLE-Vizesprecher
+role: Professor & MLE-Sprecher
 
 # Room
 room: Building Q Room 1.133
