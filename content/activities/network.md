@@ -70,7 +70,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | --- | --- | --- | --- | --- |
 | 1 | 16.10.23 | 16:00&nbsp;-&nbsp;17:00 | Bernhard&nbsp;Berger | Machine Learning in Optimisation with Applications to Material Science [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/94898395887642aea87368cf4aaab7341d) |
 | 2 | 23.10.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "schwarz_h" %}} | Comparison of LSTM and Koopman-Operator approaches for Predicting Transient Ditching Loads [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/5c3522f5aadc4bea94a455d75c1e9bc41d) |
-| 3 | 30.10.23 | 16:00&nbsp;-&nbsp;17:00 | Ana&nbsp;Almeida | Multivariate Time series: Data processing, Imputation and Forecasting  |
+| 3 | 30.10.23 | 16:00&nbsp;-&nbsp;17:00 | Ana&nbsp;Almeida | Multivariate Time series: Data processing, Imputation and Forecasting {{% staticref "pdf/tyen/mle-tyen_2023-10-30_almeida.pdf" "newtab" %}}(Folien){{% /staticref %}} |
 | 4 | 06.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "itin" %}} | AI for engineering and science: selected use cases |
 | 5 | 13.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "saleh" %}} | Flow-induced bases and application to quantum molecular physics |
 | 6 | 20.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "schibsdat" %}} & Denys&nbsp;Romanenko | Self-acting anomaly detection and quality estimation for semi-automated drilling with machine learning methods |
