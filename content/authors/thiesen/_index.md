@@ -6,7 +6,7 @@ name: Jürgen Christopher Thiesen
 authors:
 - thiesen
 
-weight: 74
+weight: 204
 
 # Is this the primary user of the site?
 superuser: false
