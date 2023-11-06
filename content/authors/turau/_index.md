@@ -12,7 +12,7 @@ weight: 207
 superuser: false
 
 # Role/position
-role: Professor & MLE-Sprecher
+role: Professor, MLE-Gründer & -Advisor
 
 # Room
 room: Gebäude E, Raum E4.088
@@ -89,7 +89,7 @@ email: "turau@tuhh.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MLE-Koordination
+- MLE-Leitung
 - Team an der Technischen Universität Hamburg
 ---
 

@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MLE-Koordination
+- MLE-Organisation
 ---
 
 Seit 2018 bin ich Assistentin an der Technischen Universität Hamburg im Institut für Theoretische Elektrotechnik. Ich habe 2004 mein BWL Studium an der Universität Hamburg erfolgreich abgeschlossen und habe anschließend bei Airbus im Personalbereich gearbeitet. Zwischen 2006 und 2013 habe ich in Ägypten/Kairo gelebt. In dieser Zeit war ich unter anderem bei Egypthotels/Travco Group im Yield Management beschäftigt.
