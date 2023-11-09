@@ -39,13 +39,12 @@ DE 245 980 291
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 ### Herausgeber (Verantwortlich für den Inhalt gem. § 18 MStV)
+Prof. Nihat Ay<br/>
 Prof. Christoph Ihl<br/>
-Prof. Christian Schuster<br/>
-Prof. Volker Turau<br/>
-Prof. Thomas Wrona
+Prof. Stefan Schulte<br/>
 
 Technische Universität Hamburg (TUHH)<br/>
 Am Schwarzenberg-Campus 1<br/>
 21073 Hamburg
 
-christoph.ihl@tuhh.de, schuster@tuhh.de, turau@tuhh.de, thomas.wrona@tuhh.de
+nihat.ay@tuhh.de, christoph.ihl@tuhh.de, stefan.schulte@tuhh.de
