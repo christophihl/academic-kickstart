@@ -54,6 +54,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jan.kaiser@desy.de"
+- icon: globe
+  icon_pack: fas
+  link: https://jank324.github.io
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jank324
