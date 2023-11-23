@@ -73,7 +73,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 3 | 30.10.23 | 16:00&nbsp;-&nbsp;17:00 | Ana&nbsp;Almeida | Multivariate Time series: Data processing, Imputation and Forecasting {{% staticref "pdf/tyen/mle-tyen_2023-10-30_almeida.pdf" "newtab" %}}(Folien){{% /staticref %}} |
 | 4 | 06.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "itin" %}} | AI for engineering and science: selected use cases |
 | 5 | 13.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "saleh" %}} | Flow-induced bases and application to quantum molecular physics [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/d045a3f4dede4681bc5ad60a8464501b1d) |
-| 6 | 20.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "schibsdat" %}} & Denys&nbsp;Romanenko | Self-acting anomaly detection and quality estimation for semi-automated drilling with machine learning methods |
+| 6 | 20.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "schibsdat" %}} & Denys&nbsp;Romanenko | Self-acting anomaly detection and quality estimation for semi-automated drilling with machine learning methods [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/69c194116ea44bfbaf8435341966fbc21d) |
 | 7 | 27.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "braun" %}} | Generalizability and explainability of machine learning models for fatigue strength prediction of welded joints |
 | 8 | 04.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "ibrahim" %}} | Parareal with a physics informed neural network as a coarse propagator |
 | 9 | 11.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process |
