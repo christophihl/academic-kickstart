@@ -81,7 +81,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | - | 25.12.23 | - | - | Holiday - Merry Christmas! |
 | - | 01.01.24 | - | - | Holiday - Happy New Year! |
 | 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning |
-| 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | tba |
+| 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | Machine Learning in High Energy Physics |
 | 13 | 22.01.24 | 16:00&nbsp;-&nbsp;17:00 | Emin&nbsp;Nakilcioglu | Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition |
 | 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | Niklas&nbsp;Dieckow | Data-driven methods for the Maxey-Riley equations |
 
@@ -127,7 +127,7 @@ Long-Short Term Memory is a gated architecture designed to combat the vanishing/
 11. {{< hl >}}{{% mention "roeder" %}}: Hindsight Instruction Grounding in Reinforcement Learning.{{< /hl >}} <br/>
 This presentation addresses the challenge of sample inefficiency in robotic reinforcement learning with sparse rewards and natural language goal representations. We introduce a mechanism for hindsight instruction replay, leveraging expert feedback, and a seq2seq model for generating linguistic hindsight instructions. Remarkably, our findings demonstrate that self-supervised language generation, where the agent autonomously generates linguistic instructions, significantly enhances learning performance. These results underscore the promising potential of hindsight instruction grounding in reinforcement learning for robotics.
 
-12. {{< hl >}}Lars Stietz: tba.{{< /hl >}} <br/>
+12. {{< hl >}}Lars Stietz: Machine Learning in High Energy Physics{{< /hl >}} <br/>
 tba
 
 13. {{< hl >}}Emin Nakilcioglu: Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition.{{< /hl >}} <br/>
