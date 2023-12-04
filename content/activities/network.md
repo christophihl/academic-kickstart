@@ -75,7 +75,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 5 | 13.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "saleh" %}} | Flow-induced bases and application to quantum molecular physics [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/d045a3f4dede4681bc5ad60a8464501b1d) |
 | 6 | 20.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "schibsdat" %}} & Denys&nbsp;Romanenko | Self-acting anomaly detection and quality estimation for semi-automated drilling with machine learning methods [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/69c194116ea44bfbaf8435341966fbc21d) |
 | 7 | 27.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "braun" %}} | Generalizability and explainability of machine learning models for fatigue strength prediction of welded joints [(Video, only accessible within TUHH network)](https://webcast.tu-harburg.de/Mediasite/Play/2879dcb976594a7795f99ee355b82b161d) |
-| 8 | 04.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "ibrahim" %}} | Parareal with a physics informed neural network as a coarse propagator |
+| 8 | 04.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "ibrahim" %}} | Parareal with a physics informed neural network as a coarse propagator [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/25a06bd1ee5e4fa5abed70583a5b00991d) |
 | 9 | 11.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process |
 | 10 | 18.12.23 | 16:00&nbsp;-&nbsp;17:00 | Patrick&nbsp;Sontheimer | Long short-term memory for surrogate modeling |
 | - | 25.12.23 | - | - | Holiday - Merry Christmas! |
