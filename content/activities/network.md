@@ -77,7 +77,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 7 | 27.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "braun" %}} | Generalizability and explainability of machine learning models for fatigue strength prediction of welded joints [(Video, only accessible within TUHH network)](https://webcast.tu-harburg.de/Mediasite/Play/2879dcb976594a7795f99ee355b82b161d) |
 | 8 | 04.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "ibrahim" %}} | Parareal with a physics informed neural network as a coarse propagator [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/25a06bd1ee5e4fa5abed70583a5b00991d) |
 | 9 | 11.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process |
-| 10 | 18.12.23 | 16:00&nbsp;-&nbsp;17:00 | Patrick&nbsp;Sontheimer | Long short-term memory for surrogate modeling |
+| 10 | 18.12.23 | 16:00&nbsp;-&nbsp;17:00 | tba | tba |
 | - | 25.12.23 | - | - | Holiday - Merry Christmas! |
 | - | 01.01.24 | - | - | Holiday - Happy New Year! |
 | 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning |
@@ -120,9 +120,7 @@ Parallel-in-time algorithms provide an additional layer of concurrency for the n
 Solids water content is an important particle property in many applications of process engineering. Its importance on the quality of pharmaceutical formulations makes an in-line measurement of the water content especially desirable in fluidization processes. However, currently available measurement techniques are difficult to calibrate and scarcely applicable in real fluidized beds. A promising strategy for in-line monitoring of the water content is thus soft sensing, a method that expresses the targeted quantity as a correlation of other more reliable measurements.
 In this talk, we present the development of such a soft sensor using various black-box models. Our focus lies on strategies to reduce overfitting through feature engineering and hyperparameter tuning. These models are designed for processing real experimental data from a turbulent process, addressing challenges in data filtering, undersampling, outlier detection, and uncertainty propagation.
 
-
-10. {{< hl >}}Patrick Sontheimer: Long short-term memory for surrogate modeling.{{< /hl >}} <br/>
-Long-Short Term Memory is a gated architecture designed to combat the vanishing/exploding gradient problem in recurrent neural networks (RNN). In the presentation, time series regression will be performed on multiple-input multiple-output data, to create a surrogate Model.
+10. {{< hl >}}tba{{< /hl >}} <br/>
 
 11. {{< hl >}}{{% mention "roeder" %}}: Hindsight Instruction Grounding in Reinforcement Learning.{{< /hl >}} <br/>
 This presentation addresses the challenge of sample inefficiency in robotic reinforcement learning with sparse rewards and natural language goal representations. We introduce a mechanism for hindsight instruction replay, leveraging expert feedback, and a seq2seq model for generating linguistic hindsight instructions. Remarkably, our findings demonstrate that self-supervised language generation, where the agent autonomously generates linguistic instructions, significantly enhances learning performance. These results underscore the promising potential of hindsight instruction grounding in reinforcement learning for robotics.
