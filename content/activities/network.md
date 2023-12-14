@@ -81,7 +81,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | - | 25.12.23 | - | - | Holiday - Merry Christmas! |
 | - | 01.01.24 | - | - | Holiday - Happy New Year! |
 | 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning |
-| 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | Machine Learning in High Energy Physics |
+| 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | Refinement of Simulations in Particle Physics |
 | 13 | 22.01.24 | 16:00&nbsp;-&nbsp;17:00 | Emin&nbsp;Nakilcioglu | Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition |
 | 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | Niklas&nbsp;Dieckow | Data-driven methods for the Maxey-Riley equations |
 
@@ -121,14 +121,15 @@ Solids water content is an important particle property in many applications of p
 In this talk, we present the development of such a soft sensor using various black-box models. Our focus lies on strategies to reduce overfitting through feature engineering and hyperparameter tuning. These models are designed for processing real experimental data from a turbulent process, addressing challenges in data filtering, undersampling, outlier detection, and uncertainty propagation.
 
 
-10. {{< hl >}}Patrick Sontheimer: Long short-term memory for surrogate modeling{{< /hl >}} <br/>
+10. {{< hl >}}Patrick Sontheimer: Long short-term memory for surrogate modeling.{{< /hl >}} <br/>
 Long-Short Term Memory is a gated architecture designed to combat the vanishing/exploding gradient problem in recurrent neural networks (RNN). In the presentation, time series regression will be performed on multiple-input multiple-output data, to create a surrogate Model.
 
 11. {{< hl >}}{{% mention "roeder" %}}: Hindsight Instruction Grounding in Reinforcement Learning.{{< /hl >}} <br/>
 This presentation addresses the challenge of sample inefficiency in robotic reinforcement learning with sparse rewards and natural language goal representations. We introduce a mechanism for hindsight instruction replay, leveraging expert feedback, and a seq2seq model for generating linguistic hindsight instructions. Remarkably, our findings demonstrate that self-supervised language generation, where the agent autonomously generates linguistic instructions, significantly enhances learning performance. These results underscore the promising potential of hindsight instruction grounding in reinforcement learning for robotics.
 
-12. {{< hl >}}Lars Stietz: Machine Learning in High Energy Physics{{< /hl >}} <br/>
-tba
+12. {{< hl >}}Lars Stietz: Refinement of Simulations in Particle Physics.{{< /hl >}} <br/>
+In the realm of particle physics, a large amount of data are produced in particle collision experiments such as the CERN Large Hadron Collider (LHC) to explore the subatomic structure of matter. Simulations of the particle collisions are needed to analyse the data recorded at the LHC. These simulations rely on Monte Carlo techniques to handle the high dimensionality of the data. Fast simulation methods (FastSim) have been developed to cope with the significant increase of data that will be produced in the coming years, providing simulated data 10 times faster than the conventional simulation methods (FullSim) at the cost of reduced accuracy. The currently achieved accuracy of FastSim prevents it from replacing FullSim.   
+We propose a machine learning approach to refine high level observables reconstructed from FastSim with a regression network inspired from the ResNet approach. We combine the mean squared error (MSE) loss and the maximum mean discrepancy (MMD) loss. The MSE (MMD) compares pairs (ensembles) of data samples. We examine the strengths and weaknesses of each individual loss function and combine them as a Lagrangian optimization problem.
 
 13. {{< hl >}}Emin Nakilcioglu: Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition.{{< /hl >}} <br/>
 With the introduction of early pre-trained language models such as Google’s BERT and various early GPT models, we have seen an ever-increasing excitement and interest in foundation models. To leverage existing pre-trained foundation models and adapt them to specific tasks or domains, these models need to be fine-tuned using domain-specific data. However, fine-tuning can be quite resource-intensive and costly as millions of parameters will be modified as part of training.   
