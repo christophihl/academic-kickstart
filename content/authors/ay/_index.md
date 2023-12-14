@@ -6,7 +6,7 @@ name: Nihat Ay
 authors:
 - ay
 
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
@@ -81,7 +81,7 @@ social:
   link: "mailto:nihat.ay@tuhh.de"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=jYD7x3gAAAAJ
+  link: https://scholar.google.com/citations?user=xjgKm2cAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Nihat-Ay
