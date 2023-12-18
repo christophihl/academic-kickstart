@@ -77,7 +77,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 7 | 27.11.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "braun" %}} | Generalizability and explainability of machine learning models for fatigue strength prediction of welded joints [(Video, only accessible within TUHH network)](https://webcast.tu-harburg.de/Mediasite/Play/2879dcb976594a7795f99ee355b82b161d) |
 | 8 | 04.12.23 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "ibrahim" %}} | Parareal with a physics informed neural network as a coarse propagator [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/25a06bd1ee5e4fa5abed70583a5b00991d) |
 | 9 | 11.12.23 | - | - | - |
-| 10 | 18.12.23 | 16:00&nbsp;-&nbsp;17:00 | tba | tba |
+| 10 | 18.12.23 | - | - | - |
 | - | 25.12.23 | - | - | Holiday - Merry Christmas! |
 | - | 01.01.24 | - | - | Holiday - Happy New Year! |
 | 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning |
@@ -116,8 +116,6 @@ Fatigue is the main cause of structural failure of large engineering structures.
 
 8. {{< hl >}}{{% mention "ibrahim" %}}: Parareal with a physics informed neural network as a coarse propagator.{{< /hl >}} <br/>
 Parallel-in-time algorithms provide an additional layer of concurrency for the numerical integration of models based on time-dependent differential equations. Methods like Parareal, which parallelize across multiple time steps, rely on a computationally cheap and coarse integrator to propagate information forward in time, while a parallelizable expensive fine propagator provides accuracy. Typically, the coarse method is a numerical integrator using lower resolution, reduced order or a simplified model. Our paper proposes to use a physics-informed neural network (PINN) instead. We demonstrate for the Black-Scholes equation, a partial differential equation from computational finance, that Parareal with a PINN coarse propagator provides better speedup than a numerical coarse propagator. Training and evaluating a neural network are both tasks whose computing patterns are well suited for GPUs. By contrast, mesh-based algorithms with their low computational intensity struggle to perform well. We show that moving the coarse propagator PINN to a GPU while running the numerical fine propagator on the CPU further improves Parareal's single-node performance. This suggests that integrating machine learning techniques into parallel-in-time integration methods and exploiting their differences in computing patterns might offer a way to better utilize heterogeneous architectures. 
-
-10. {{< hl >}}tba{{< /hl >}} <br/>
 
 11. {{< hl >}}{{% mention "roeder" %}}: Hindsight Instruction Grounding in Reinforcement Learning.{{< /hl >}} <br/>
 This presentation addresses the challenge of sample inefficiency in robotic reinforcement learning with sparse rewards and natural language goal representations. We introduce a mechanism for hindsight instruction replay, leveraging expert feedback, and a seq2seq model for generating linguistic hindsight instructions. Remarkably, our findings demonstrate that self-supervised language generation, where the agent autonomously generates linguistic instructions, significantly enhances learning performance. These results underscore the promising potential of hindsight instruction grounding in reinforcement learning for robotics.
