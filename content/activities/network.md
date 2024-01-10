@@ -80,7 +80,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 10 | 18.12.23 | - | - | - |
 | - | 25.12.23 | - | - | Holiday - Merry Christmas! |
 | - | 01.01.24 | - | - | Holiday - Happy New Year! |
-| 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning |
+| 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/ebdbe268e316477eab9f47525384e8081d) |
 | 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | Refinement of Simulations in Particle Physics |
 | 13 | 22.01.24 | 16:00&nbsp;-&nbsp;17:00 | Emin&nbsp;Nakilcioglu | Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition |
 | 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | Niklas&nbsp;Dieckow | Data-driven methods for the Maxey-Riley equations |
