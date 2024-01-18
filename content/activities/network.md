@@ -83,8 +83,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/ebdbe268e316477eab9f47525384e8081d) |
 | 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | Refinement of Simulations in Particle Physics [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/2bd6ef81ebcf4f1d9f2af409900453a01d) |
 | 13 | 22.01.24 | 16:00&nbsp;-&nbsp;17:00 | Emin&nbsp;Nakilcioglu | Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition |
-| 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | Niklas&nbsp;Dieckow | Data-driven methods for the Maxey-Riley equations |
-| 15 | 05.02.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process |
+| 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process |
 
 
 #### Abstracts:
@@ -128,10 +127,7 @@ We propose a machine learning approach to refine high level observables reconstr
 With the introduction of early pre-trained language models such as Google’s BERT and various early GPT models, we have seen an ever-increasing excitement and interest in foundation models. To leverage existing pre-trained foundation models and adapt them to specific tasks or domains, these models need to be fine-tuned using domain-specific data. However, fine-tuning can be quite resource-intensive and costly as millions of parameters will be modified as part of training.   
 PEFT is a technique designed to fine-tune models while minimizing the need for extensive resources and cost. It achieves this efficiency by freezing some of the layers of the pre-trained model and only fine-tuning the last few layers that are specific to the downstream task. With the help of PEFT, we can achieve a balance between retaining valuable knowledge from the pre-trained model and adapting it effectively to the downstream task with fewer parameters.
 
-14. {{< hl >}}Niklas Dieckow: Data-driven methods for the Maxey-Riley equations.{{< /hl >}} <br/>
-The Maxey-Riley equations (MRE) describe the motion of a small inertial particle suspended in a fluid flow. They are a system of implicit integro-differential equations with a singular kernel. Exact solution methods require the evaluation of an integral over the entire particle history in each time step, causing the computation time to grow quadratically in the number of steps. In this talk, data-driven methods such as SINDy (Sparse Identification of Nonlinear Dynamics) are discussed and employed to obtain approximations of the MRE that do not contain an integral term and are therefore easier to solve.
-
-15. {{< hl >}}{{% mention "kraeuter" %}}: Development of a black-box soft sensor for a fluidization process.{{< /hl >}} <br/>
+14. {{< hl >}}{{% mention "kraeuter" %}}: Development of a black-box soft sensor for a fluidization process.{{< /hl >}} <br/>
 Solids water content is an important particle property in many applications of process engineering. Its importance on the quality of pharmaceutical formulations makes an in-line measurement of the water content especially desirable in fluidization processes. However, currently available measurement techniques are difficult to calibrate and scarcely applicable in real fluidized beds. A promising strategy for in-line monitoring of the water content is thus soft sensing, a method that expresses the targeted quantity as a correlation of other more reliable measurements.
 In this talk, we present the development of such a soft sensor using various black-box models. Our focus lies on strategies to reduce overfitting through feature engineering and hyperparameter tuning. These models are designed for processing real experimental data from a turbulent process, addressing challenges in data filtering, undersampling, outlier detection, and uncertainty propagation.
 
