@@ -83,7 +83,7 @@ General zoom link for all lectures: [Link](https://tuhh.zoom.us/j/87239759122?pw
 | 11 | 08.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "roeder" %}} | Hindsight Instruction Grounding in Reinforcement Learning [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/ebdbe268e316477eab9f47525384e8081d) |
 | 12 | 15.01.24 | 16:00&nbsp;-&nbsp;17:00 | Lars&nbsp;Stietz | Refinement of Simulations in Particle Physics [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/2bd6ef81ebcf4f1d9f2af409900453a01d) |
 | 13 | 22.01.24 | 16:00&nbsp;-&nbsp;17:00 | Emin&nbsp;Nakilcioglu | Parameter Efficient Fine Tuning for a Domain-Specific Automatic Speech Recognition |
-| 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process |
+| 14 | 29.01.24 | 16:00&nbsp;-&nbsp;17:00 | {{% mention "kraeuter" %}} | Development of a black-box soft sensor for a fluidization process [(Video)](https://webcast.tu-harburg.de/Mediasite/Play/ee4436b63cbd4ddca778a55d7c5def0f1d) |
 
 
 #### Abstracts:
