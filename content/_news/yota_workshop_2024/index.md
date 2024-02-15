@@ -41,4 +41,4 @@ Der Workshop richtet sich an Schüler:innen ab der 11. Klasse.
 Voraussetzung für die Teilnahme ist das Mitbringen eines eigenen Laptops.
 Wir programmieren in Python 3.x und verwenden die von Google offen zur Verfügung gestellte Programmsammlung TensorFlow 2.x.
 Die Anzahl der Teilnehmer:innen ist auf 15 begrenzt.
-Der Link zur Anmeldung folgt in Kürze.
+Die Anmeldung erfolgt [hier](https://www.yota-hamburg.de/tickets/fruehjahrscamp/maschinelles-lernen-spd-248.html).
